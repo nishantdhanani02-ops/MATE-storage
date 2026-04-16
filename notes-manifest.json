@@ -1,0 +1,43 @@
+[
+  {
+    "id": "sem1-root",
+    "title": "SEM1 Files",
+    "description": "",
+    "semester": "1",
+    "branch": "all",
+    "university": "GTU",
+    "files": [
+      {
+        "fileId": "sem1-BE01000021",
+        "title": "BE01000021",
+        "tag": "Notes",
+        "pages": 0,
+        "url": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem1/BE01000021.pdf"
+      },
+      {
+        "fileId": "sem1-engineering-maths-unit1",
+        "title": "Engineering Maths Unit1",
+        "tag": "Notes",
+        "pages": 0,
+        "url": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem1/engineering-maths-unit1.pdf"
+      }
+    ]
+  },
+  {
+    "id": "maths-1",
+    "title": "Maths 1",
+    "description": "",
+    "semester": "1",
+    "branch": "all",
+    "university": "GTU",
+    "files": [
+      {
+        "fileId": "maths-1-syllbus",
+        "title": "Syllbus",
+        "tag": "Notes",
+        "pages": 0,
+        "url": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem1/maths-1/syllbus.pdf"
+      }
+    ]
+  }
+]
