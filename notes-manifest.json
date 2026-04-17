@@ -36,6 +36,14 @@
     "university": "GTU",
     "files": [
       {
+        "fileId": "fai-ch-4-deep-learning",
+        "title": "Ch 4 Deep Learning",
+        "description": "",
+        "tag": "Notes",
+        "pages": 0,
+        "url": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem1/fai/Notes/ch-4-deep-learning.pdf"
+      },
+      {
         "fileId": "fai-unit-1",
         "title": "Unit 1",
         "description": "",
