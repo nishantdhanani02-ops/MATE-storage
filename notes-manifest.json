@@ -3,6 +3,7 @@
     "id": "sem1-root",
     "title": "SEM1 Files",
     "description": "",
+    "subject": "SEM1 Files",
     "semester": "1",
     "branch": "all",
     "university": "GTU",
@@ -10,6 +11,7 @@
       {
         "fileId": "sem1-BE01000021",
         "title": "BE01000021",
+        "description": "",
         "tag": "Notes",
         "pages": 0,
         "url": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem1/BE01000021.pdf"
@@ -17,6 +19,7 @@
       {
         "fileId": "sem1-engineering-maths-unit1",
         "title": "Engineering Maths Unit1",
+        "description": "",
         "tag": "Notes",
         "pages": 0,
         "url": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem1/engineering-maths-unit1.pdf"
@@ -24,9 +27,29 @@
     ]
   },
   {
+    "id": "fai",
+    "title": "FAI",
+    "description": "",
+    "subject": "FAI",
+    "semester": "1",
+    "branch": "all",
+    "university": "GTU",
+    "files": [
+      {
+        "fileId": "fai-unit-1",
+        "title": "Unit 1",
+        "description": "",
+        "tag": "Notes",
+        "pages": 0,
+        "url": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem1/fai/Notes/unit-1.pdf"
+      }
+    ]
+  },
+  {
     "id": "maths-1",
     "title": "Maths 1",
     "description": "",
+    "subject": "Mathematics 1",
     "semester": "1",
     "branch": "all",
     "university": "GTU",
@@ -34,6 +57,7 @@
       {
         "fileId": "maths-1-syllbus",
         "title": "Syllbus",
+        "description": "",
         "tag": "Notes",
         "pages": 0,
         "url": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem1/maths-1/syllbus.pdf"
