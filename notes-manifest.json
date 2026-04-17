@@ -2,7 +2,7 @@
   {
     "id": "sem1-root",
     "title": "SEM1 Files",
-    "description": "",
+    "description": "Some other files for sem 1",
     "subject": "SEM1 Files",
     "semester": "1",
     "branch": "all",
@@ -29,7 +29,7 @@
   {
     "id": "fai",
     "title": "FAI",
-    "description": "",
+    "description": "Fundamentals of AI",
     "subject": "FAI",
     "semester": "1",
     "branch": "all",
@@ -38,15 +38,15 @@
       {
         "fileId": "fai-ch-4-deep-learning",
         "title": "Ch 4 Deep Learning",
-        "description": "",
+        "description": "Ch-4 for FAI",
         "tag": "Notes",
         "pages": 0,
         "url": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem1/fai/Notes/ch-4-deep-learning.pdf"
       },
       {
         "fileId": "fai-unit-1",
-        "title": "Unit 1",
-        "description": "",
+        "title": "CH 1 Introduction of AI",
+        "description": "Fundamentals of Artificial Intelligence",
         "tag": "Notes",
         "pages": 0,
         "url": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem1/fai/Notes/unit-1.pdf"
@@ -56,7 +56,7 @@
   {
     "id": "maths-1",
     "title": "Maths 1",
-    "description": "",
+    "description": "Mathematics 1 for all students",
     "subject": "Mathematics 1",
     "semester": "1",
     "branch": "all",
@@ -64,8 +64,8 @@
     "files": [
       {
         "fileId": "maths-1-syllbus",
-        "title": "Syllbus",
-        "description": "",
+        "title": "Maths 1 Syllbus",
+        "description": "Syllbus",
         "tag": "Notes",
         "pages": 0,
         "url": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem1/maths-1/syllbus.pdf"
