@@ -63,6 +63,30 @@
     "university": "GTU",
     "files": [
       {
+        "fileId": "maths-1-mathematics-1-formulas",
+        "title": "Mathematics 1 Formulas",
+        "description": "",
+        "tag": "Notes",
+        "pages": 0,
+        "url": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem1/maths-1/Notes/mathematics-1-formulas.pdf"
+      },
+      {
+        "fileId": "maths-1-mathes-gtu-papers",
+        "title": "Mathes Gtu Papers",
+        "description": "",
+        "tag": "PYQ",
+        "pages": 0,
+        "url": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem1/maths-1/PYQ/mathes-gtu-papers.pdf"
+      },
+      {
+        "fileId": "maths-1-pyqs-mathes-1-nlj",
+        "title": "Pyqs Mathes 1 Nlj",
+        "description": "",
+        "tag": "PYQ",
+        "pages": 0,
+        "url": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem1/maths-1/PYQ/pyqs-mathes-1-nlj.pdf"
+      },
+      {
         "fileId": "maths-1-syllbus",
         "title": "Maths 1 Syllbus",
         "description": "Syllbus",
