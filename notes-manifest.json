@@ -2,7 +2,7 @@
   {
     "id": "maths-1",
     "title": "Mathematics 1",
-    "description": "Module 2: Basic Calculus \nChap 1: Improper Integral",
+    "description": "Maths-1: All types of Notes and books.",
     "subject": "Mathematics 1",
     "semester": "1",
     "branch": "all",
@@ -11,25 +11,25 @@
       {
         "fileId": "maths-1-unit-1-a",
         "title": "Unit 1 A",
-        "description": "Module 2: Basic Calculus \nChap 1: Improper Integral",
+        "description": "",
         "tag": "Notes",
-        "pages": 16,
+        "pages": 0,
         "url": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem1/maths-1/Notes/nlj-maths-notes/unit-1-a.pdf"
       },
       {
         "fileId": "maths-1-unit-1-b",
         "title": "Unit 1 B",
-        "description": "Module 2: Basic Calculus \n Chap: Beta and Gamma functions.",
+        "description": "",
         "tag": "Notes",
-        "pages": 19,
+        "pages": 0,
         "url": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem1/maths-1/Notes/nlj-maths-notes/unit-1-b.pdf"
       },
       {
         "fileId": "maths-1-unit-1-c",
         "title": "Unit 1 C",
-        "description": "Module 1: Basic Calculus \nChap: Applications of the definite integral",
+        "description": "",
         "tag": "Notes",
-        "pages": 23,
+        "pages": 0,
         "url": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem1/maths-1/Notes/nlj-maths-notes/unit-1-c.pdf"
       }
     ]
