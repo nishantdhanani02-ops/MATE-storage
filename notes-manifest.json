@@ -81,6 +81,14 @@
         "url": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem1/maths-1/Notes/nlj-maths-notes/unit-5-b.pdf"
       },
       {
+        "fileId": "maths-1-ch-6",
+        "title": "Ch 6",
+        "description": "Limit, Continuity, and Differentiation for a function of two or more variables, total derivative. gradient.\ndirectional derivatives:",
+        "tag": "Notes",
+        "pages": 61,
+        "url": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem1/maths-1/Notes/technical-publication/ch-6.pdf"
+      },
+      {
         "fileId": "maths-1-ch-7-multiple-integrals",
         "title": "Ch 7 Multiple Integrals",
         "description": "Multiple Integration: Double integrals (Cartesian,\nPolar), change of order of integration in double integrals, Change of variables (Cartesian to polar),",
