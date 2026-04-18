@@ -31,6 +31,54 @@
         "tag": "Notes",
         "pages": 0,
         "url": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem1/maths-1/Notes/nlj-maths-notes/unit-1-c.pdf"
+      },
+      {
+        "fileId": "maths-1-unit-2-a",
+        "title": "Unit 2 A",
+        "description": "Module 2: Single Variable Calculus (Differentiation)|\nIndeterminate Form",
+        "tag": "Notes",
+        "pages": 30,
+        "url": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem1/maths-1/Notes/nlj-maths-notes/unit-2-a.pdf"
+      },
+      {
+        "fileId": "maths-1-unit-2-b",
+        "title": "Unit 2 B",
+        "description": "Unit 2: Single Variable Calculus (Differentiation)\n  Taylor’s and Maclaurin’s series",
+        "tag": "Notes",
+        "pages": 15,
+        "url": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem1/maths-1/Notes/nlj-maths-notes/unit-2-b.pdf"
+      },
+      {
+        "fileId": "maths-1-unit-3",
+        "title": "Unit 3",
+        "description": "SEQUENCE AND SERIES",
+        "tag": "Notes",
+        "pages": 80,
+        "url": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem1/maths-1/Notes/nlj-maths-notes/unit-3.pdf"
+      },
+      {
+        "fileId": "maths-1-unit-4",
+        "title": "Unit 4",
+        "description": "Module 4: Multivariable Calculus (Differentiation)",
+        "tag": "Notes",
+        "pages": 71,
+        "url": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem1/maths-1/Notes/nlj-maths-notes/unit-4.pdf"
+      },
+      {
+        "fileId": "maths-1-unit-5-a",
+        "title": "Unit 5 A",
+        "description": "Module 5: Multiple Integral \n(Double Integrals)",
+        "tag": "Notes",
+        "pages": 77,
+        "url": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem1/maths-1/Notes/nlj-maths-notes/unit-5-a.pdf"
+      },
+      {
+        "fileId": "maths-1-unit-5-b",
+        "title": "Unit 5 B",
+        "description": "Module 5: Multivariable Calculus",
+        "tag": "Notes",
+        "pages": 22,
+        "url": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem1/maths-1/Notes/nlj-maths-notes/unit-5-b.pdf"
       }
     ]
   }
