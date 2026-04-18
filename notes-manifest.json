@@ -2,7 +2,7 @@
   {
     "id": "maths-1",
     "title": "Mathematics 1",
-    "description": "Maths-1: All types of Notes and books.",
+    "description": "Multiple Integration: Double integrals (Cartesian,\nPolar), change of order of integration in double integrals, Change of variables (Cartesian to polar),",
     "subject": "Mathematics 1",
     "semester": "1",
     "branch": "all",
@@ -35,50 +35,58 @@
       {
         "fileId": "maths-1-unit-2-a",
         "title": "Unit 2 A",
-        "description": "Module 2: Single Variable Calculus (Differentiation)|\nIndeterminate Form",
+        "description": "",
         "tag": "Notes",
-        "pages": 30,
+        "pages": 0,
         "url": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem1/maths-1/Notes/nlj-maths-notes/unit-2-a.pdf"
       },
       {
         "fileId": "maths-1-unit-2-b",
         "title": "Unit 2 B",
-        "description": "Unit 2: Single Variable Calculus (Differentiation)\n  Taylor’s and Maclaurin’s series",
+        "description": "",
         "tag": "Notes",
-        "pages": 15,
+        "pages": 0,
         "url": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem1/maths-1/Notes/nlj-maths-notes/unit-2-b.pdf"
       },
       {
         "fileId": "maths-1-unit-3",
         "title": "Unit 3",
-        "description": "SEQUENCE AND SERIES",
+        "description": "",
         "tag": "Notes",
-        "pages": 80,
+        "pages": 0,
         "url": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem1/maths-1/Notes/nlj-maths-notes/unit-3.pdf"
       },
       {
         "fileId": "maths-1-unit-4",
         "title": "Unit 4",
-        "description": "Module 4: Multivariable Calculus (Differentiation)",
+        "description": "",
         "tag": "Notes",
-        "pages": 71,
+        "pages": 0,
         "url": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem1/maths-1/Notes/nlj-maths-notes/unit-4.pdf"
       },
       {
         "fileId": "maths-1-unit-5-a",
         "title": "Unit 5 A",
-        "description": "Module 5: Multiple Integral \n(Double Integrals)",
+        "description": "",
         "tag": "Notes",
-        "pages": 77,
+        "pages": 0,
         "url": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem1/maths-1/Notes/nlj-maths-notes/unit-5-a.pdf"
       },
       {
         "fileId": "maths-1-unit-5-b",
         "title": "Unit 5 B",
-        "description": "Module 5: Multivariable Calculus",
+        "description": "",
         "tag": "Notes",
-        "pages": 22,
+        "pages": 0,
         "url": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem1/maths-1/Notes/nlj-maths-notes/unit-5-b.pdf"
+      },
+      {
+        "fileId": "maths-1-ch-7-multiple-integrals",
+        "title": "Ch 7 Multiple Integrals",
+        "description": "Multiple Integration: Double integrals (Cartesian,\nPolar), change of order of integration in double integrals, Change of variables (Cartesian to polar),",
+        "tag": "Notes",
+        "pages": 55,
+        "url": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem1/maths-1/Notes/technical-publication/ch-7-multiple-integrals.pdf"
       }
     ]
   }
