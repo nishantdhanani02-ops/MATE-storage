@@ -11,7 +11,7 @@
       {
         "fileId": "maths-1-unit-1-a",
         "title": "Unit 1 A",
-        "description": "",
+        "description": "Module 2: Basic Calculus\nChap 1: Improper Integral",
         "tag": "Notes",
         "pages": 0,
         "url": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem1/maths-1/Notes/nlj-maths-notes/unit-1-a.pdf"
@@ -19,7 +19,7 @@
       {
         "fileId": "maths-1-unit-1-b",
         "title": "Unit 1 B",
-        "description": "",
+        "description": "Module 1: Basic Calculus\nChap: Beta and Gamma functions",
         "tag": "Notes",
         "pages": 0,
         "url": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem1/maths-1/Notes/nlj-maths-notes/unit-1-b.pdf"
@@ -27,7 +27,7 @@
       {
         "fileId": "maths-1-unit-1-c",
         "title": "Unit 1 C",
-        "description": "",
+        "description": "Module 1: Basic Calculus\nChap : Applications of definite integral",
         "tag": "Notes",
         "pages": 0,
         "url": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem1/maths-1/Notes/nlj-maths-notes/unit-1-c.pdf"
@@ -79,14 +79,6 @@
         "tag": "Notes",
         "pages": 22,
         "url": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem1/maths-1/Notes/nlj-maths-notes/unit-5-b.pdf"
-      },
-      {
-        "fileId": "maths-1-ch-6",
-        "title": "Ch 6",
-        "description": "Limit, Continuity, and Differentiation for a function of two or more variables, total derivative. gradient.\ndirectional derivatives:",
-        "tag": "Notes",
-        "pages": 61,
-        "url": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem1/maths-1/Notes/technical-publication/ch-6.pdf"
       },
       {
         "fileId": "maths-1-ch-7-multiple-integrals",
