@@ -1,1 +1,37 @@
-[]
+[
+  {
+    "id": "maths-1",
+    "title": "Mathematics 1",
+    "description": "Module 2: Basic Calculus \nChap 1: Improper Integral",
+    "subject": "Mathematics 1",
+    "semester": "1",
+    "branch": "all",
+    "university": "GTU",
+    "files": [
+      {
+        "fileId": "maths-1-unit-1-a",
+        "title": "Unit 1 A",
+        "description": "Module 2: Basic Calculus \nChap 1: Improper Integral",
+        "tag": "Notes",
+        "pages": 16,
+        "url": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem1/maths-1/Notes/nlj-maths-notes/unit-1-a.pdf"
+      },
+      {
+        "fileId": "maths-1-unit-1-b",
+        "title": "Unit 1 B",
+        "description": "Module 2: Basic Calculus \n Chap: Beta and Gamma functions.",
+        "tag": "Notes",
+        "pages": 19,
+        "url": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem1/maths-1/Notes/nlj-maths-notes/unit-1-b.pdf"
+      },
+      {
+        "fileId": "maths-1-unit-1-c",
+        "title": "Unit 1 C",
+        "description": "Module 1: Basic Calculus \nChap: Applications of the definite integral",
+        "tag": "Notes",
+        "pages": 23,
+        "url": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem1/maths-1/Notes/nlj-maths-notes/unit-1-c.pdf"
+      }
+    ]
+  }
+]
