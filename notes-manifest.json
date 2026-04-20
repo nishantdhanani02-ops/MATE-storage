@@ -11,7 +11,7 @@
       {
         "fileId": "maths-1-mathematics-1-mcgrawhill-book",
         "title": "Mathematics 1 McGrawHill Book",
-        "description": "GTU\nAs per revised 2018 syllabus\nFirst Year Engineering",
+        "description": "GTU Book GTU As per the revised 2018 syllabus\nFirst Year Engineering",
         "tag": "Books",
         "pages": 1051,
         "url": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem1/maths-1/Books/mathematics-1-mcgrawhill-book.pdf"
@@ -90,8 +90,8 @@
       },
       {
         "fileId": "maths-1-ch-6",
-        "title": "Ch 6",
-        "description": "",
+        "title": "Ch 6 ",
+        "description": "TECHNICAL PUB.",
         "tag": "Notes",
         "pages": 0,
         "url": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem1/maths-1/Notes/technical-publication/ch-6.pdf"
@@ -99,7 +99,7 @@
       {
         "fileId": "maths-1-ch-7-multiple-integrals",
         "title": "Ch 7 Multiple Integrals",
-        "description": "Multiple Integration: Double integrals (Cartesian,\nPolar), change of order of integration in double integrals, Change of variables (Cartesian to polar),",
+        "description": "TECHNICAL PUB. Multiple Integration: Double integrals (Cartesian,\nPolar), change of order of integration in double integrals, Change of variables (Cartesian to polar),",
         "tag": "Notes",
         "pages": 55,
         "url": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem1/maths-1/Notes/technical-publication/ch-7-multiple-integrals.pdf"
