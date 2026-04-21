@@ -9,12 +9,85 @@
     "university": "GTU",
     "files": [
       {
-        "fileId": "maths-1-mathematics-1-mcgrawhill-book-gtu",
-        "title": "Mathematics 1 McGrawHill Book (GTU)",
-        "description": "GTU\nAs per revised 2018 syllabus\nFirst Year Engineering",
-        "tag": "Books",
-        "pages": 1051,
-        "url": "https://github.com/nishantdhanani02-ops/MATE-storage/releases/download/mate-assets-sem1/sem1--maths-1--Books--mathematics-1-mcgrawhill-book-gtu.pdf"
+        "fileId": "maths-1-unit-1-a",
+        "title": "Unit 1 A",
+        "description": "",
+        "tag": "Notes",
+        "pages": 0,
+        "url": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem1/maths-1/Notes/nlj-maths-notes/unit-1-a.pdf"
+      },
+      {
+        "fileId": "maths-1-unit-1-b",
+        "title": "Unit 1 B",
+        "description": "",
+        "tag": "Notes",
+        "pages": 0,
+        "url": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem1/maths-1/Notes/nlj-maths-notes/unit-1-b.pdf"
+      },
+      {
+        "fileId": "maths-1-unit-1-c",
+        "title": "Unit 1 C",
+        "description": "",
+        "tag": "Notes",
+        "pages": 0,
+        "url": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem1/maths-1/Notes/nlj-maths-notes/unit-1-c.pdf"
+      },
+      {
+        "fileId": "maths-1-unit-2-a",
+        "title": "Unit 2 A",
+        "description": "Module 2: Single Variable Calculus (Differentiation)|\nIndeterminate Form",
+        "tag": "Notes",
+        "pages": 30,
+        "url": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem1/maths-1/Notes/nlj-maths-notes/unit-2-a.pdf"
+      },
+      {
+        "fileId": "maths-1-unit-2-b",
+        "title": "Unit 2 B",
+        "description": "Unit 2: Single Variable Calculus (Differentiation)\n  Taylor’s and Maclaurin’s series",
+        "tag": "Notes",
+        "pages": 15,
+        "url": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem1/maths-1/Notes/nlj-maths-notes/unit-2-b.pdf"
+      },
+      {
+        "fileId": "maths-1-unit-3",
+        "title": "Unit 3",
+        "description": "SEQUENCE AND SERIES",
+        "tag": "Notes",
+        "pages": 80,
+        "url": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem1/maths-1/Notes/nlj-maths-notes/unit-3.pdf"
+      },
+      {
+        "fileId": "maths-1-unit-4",
+        "title": "Unit 4",
+        "description": "Module 4: Multivariable Calculus (Differentiation)",
+        "tag": "Notes",
+        "pages": 71,
+        "url": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem1/maths-1/Notes/nlj-maths-notes/unit-4.pdf"
+      },
+      {
+        "fileId": "maths-1-unit-5-a",
+        "title": "Unit 5 A",
+        "description": "Module 5: Multiple Integral \n(Double Integrals)",
+        "tag": "Notes",
+        "pages": 77,
+        "url": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem1/maths-1/Notes/nlj-maths-notes/unit-5-a.pdf"
+      },
+      {
+        "fileId": "maths-1-unit-5-b",
+        "title": "Unit 5 B",
+        "description": "Module 5: Multivariable Calculus",
+        "tag": "Notes",
+        "pages": 22,
+        "url": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem1/maths-1/Notes/nlj-maths-notes/unit-5-b.pdf"
+      }
+    ,
+      {
+        "fileId": "maths-1-ch-7-multiple-integrals",
+        "title": "Ch 7 Multiple Integrals",
+        "description": "Multiple Integration: Double integrals (Cartesian,\nPolar), change of order of integration in double integrals, Change of variables (Cartesian to polar),",
+        "tag": "Notes",
+        "pages": 55,
+        "url": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem1/maths-1/Notes/technical-publication/ch-7-multiple-integrals.pdf"
       }
     ]
   }
