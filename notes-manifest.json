@@ -4,6 +4,26 @@
     "title": "BEE",
     "description": "Voltage divider law and current divider Law, Node analysis , equation of delta to star and star to delta transformation",
     "subject": "BEE",
+    "semester": "1-2",
+    "branch": "all",
+    "university": "GTU",
+    "files": [
+      {
+        "fileId": "bee-2-a-c-circuits",
+        "title": "2 A.C. Circuits",
+        "description": "Single - Phase AC Circuits ,Three - Phase AC Circuits ,etc.",
+        "tag": "Notes",
+        "pages": 35,
+        "url": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem1-2/bee/Notes/darshan/2-a-c-circuits.pdf",
+        "imageUrl": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem1-2/bee/Notes/darshan/2-a-c-circuits_thumb.webp"
+      }
+    ]
+  },
+  {
+    "id": "bee",
+    "title": "BEE",
+    "description": "Voltage divider law and current divider Law, Node analysis , equation of delta to star and star to delta transformation",
+    "subject": "BEE",
     "semester": "1",
     "branch": "all",
     "university": "GTU",
