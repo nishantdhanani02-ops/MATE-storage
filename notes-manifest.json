@@ -18,10 +18,10 @@
       },
       {
         "fileId": "maths-1-unit-1-a",
-        "title": "Unit 1 A",
-        "description": "",
-        "tag": "Notes",
-        "pages": 0,
+        "title": "UNIT 1_A",
+        "description": "Improper Integrals, Gamma Function & Beta Function",
+        "tag": "PPTs",
+        "pages": 43,
         "url": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem1/maths-1/Notes/nlj-maths-notes/unit-1-a.pdf"
       },
       {
@@ -103,6 +103,14 @@
         "tag": "Notes",
         "pages": 55,
         "url": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem1/maths-1/Notes/technical-publication/ch-7-multiple-integrals.pdf"
+      },
+      {
+        "fileId": "maths-1-unit-1-a",
+        "title": "UNIT 1_A",
+        "description": "Improper Integrals, Gamma Function & Beta Function",
+        "tag": "PPTs",
+        "pages": 43,
+        "url": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem1/maths-1/PPTs/darshan-ppt/unit-1-a.pdf"
       }
     ]
   }
