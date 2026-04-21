@@ -75,17 +75,17 @@
       {
         "fileId": "maths-1-unit-5-a",
         "title": "Unit 5 A",
-        "description": "Multiple integral -Double integral over Rectangles and general regions\n Double integrals as volumes",
-        "tag": "PPTs",
-        "pages": 72,
+        "description": "Module 5: Multiple Integral \n(Double Integrals)",
+        "tag": "Notes",
+        "pages": 77,
         "url": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem1/maths-1/Notes/nlj-maths-notes/unit-5-a.pdf"
       },
       {
         "fileId": "maths-1-unit-5-b",
         "title": "Unit 5 B",
-        "description": "Multiple integral - Triple integrals in rectangular",
-        "tag": "PPTs",
-        "pages": 35,
+        "description": "Module 5: Multivariable Calculus",
+        "tag": "Notes",
+        "pages": 22,
         "url": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem1/maths-1/Notes/nlj-maths-notes/unit-5-b.pdf"
       },
       {
@@ -163,41 +163,41 @@
       {
         "fileId": "maths-1-unit-4-b",
         "title": "Unit 4 B",
-        "description": "Partial Derivatives",
+        "description": "",
         "tag": "PPTs",
-        "pages": 73,
+        "pages": 0,
         "url": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem1/maths-1/PPTs/darshan-ppt/unit-4-b.pdf"
       },
       {
         "fileId": "maths-1-unit-4-c",
         "title": "Unit 4 C",
-        "description": "Partial Derivatives - Local Extreme Values, etc.",
+        "description": "",
         "tag": "PPTs",
-        "pages": 59,
+        "pages": 0,
         "url": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem1/maths-1/PPTs/darshan-ppt/unit-4-c.pdf"
       },
       {
         "fileId": "maths-1-unit-5-a",
         "title": "Unit 5 A",
-        "description": "Multiple integral -Double integral over Rectangles and general regions\n Double integrals as volumes",
-        "tag": "PPTs",
-        "pages": 72,
+        "description": "Module 5: Multiple Integral \n(Double Integrals)",
+        "tag": "Notes",
+        "pages": 77,
         "url": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem1/maths-1/PPTs/darshan-ppt/unit-5-a.pdf"
       },
       {
         "fileId": "maths-1-unit-5-b",
         "title": "Unit 5 B",
-        "description": "Multiple integral - Triple integrals in rectangular",
-        "tag": "PPTs",
-        "pages": 35,
+        "description": "Module 5: Multivariable Calculus",
+        "tag": "Notes",
+        "pages": 22,
         "url": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem1/maths-1/PPTs/darshan-ppt/unit-5-b.pdf"
       },
       {
         "fileId": "maths-1-unit-5-c",
         "title": "Unit 5 C",
-        "description": "Multiple integral - D.I. over general region – PC\nD.I. by Change of Order of integration\nD.I. by Change of Variable of integration – CC & PC",
+        "description": "",
         "tag": "PPTs",
-        "pages": 48,
+        "pages": 0,
         "url": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem1/maths-1/PPTs/darshan-ppt/unit-5-c.pdf"
       }
     ]
