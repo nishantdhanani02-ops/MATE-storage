@@ -27,9 +27,9 @@
       {
         "fileId": "maths-1-unit-1-b",
         "title": "Unit 1 B",
-        "description": "",
-        "tag": "Notes",
-        "pages": 0,
+        "description": "Application of\nDefinite Integral",
+        "tag": "PPTs",
+        "pages": 14,
         "url": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem1/maths-1/Notes/nlj-maths-notes/unit-1-b.pdf"
       },
       {
@@ -111,6 +111,14 @@
         "tag": "PPTs",
         "pages": 43,
         "url": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem1/maths-1/PPTs/darshan-ppt/unit-1-a.pdf"
+      },
+      {
+        "fileId": "maths-1-unit-1-b",
+        "title": "Unit 1 B",
+        "description": "Application of\nDefinite Integral",
+        "tag": "PPTs",
+        "pages": 14,
+        "url": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem1/maths-1/PPTs/darshan-ppt/unit-1-b.pdf"
       }
     ]
   }
