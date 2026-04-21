@@ -9,6 +9,14 @@
     "university": "GTU",
     "files": [
       {
+        "fileId": "maths-1-mathematics-1-mcgrawhill-book",
+        "title": "Mathematics 1 Mcgrawhill Book",
+        "description": "",
+        "tag": "Books",
+        "pages": 0,
+        "url": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem1/maths-1/Books/mathematics-1-mcgrawhill-book.pdf"
+      },
+      {
         "fileId": "maths-1-unit-1-a",
         "title": "Unit 1 A",
         "description": "",
@@ -79,8 +87,15 @@
         "tag": "Notes",
         "pages": 22,
         "url": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem1/maths-1/Notes/nlj-maths-notes/unit-5-b.pdf"
-      }
-    ,
+      },
+      {
+        "fileId": "maths-1-ch-6",
+        "title": "Ch 6",
+        "description": "",
+        "tag": "Notes",
+        "pages": 0,
+        "url": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem1/maths-1/Notes/technical-publication/ch-6.pdf"
+      },
       {
         "fileId": "maths-1-ch-7-multiple-integrals",
         "title": "Ch 7 Multiple Integrals",
