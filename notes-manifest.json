@@ -9,12 +9,36 @@
     "university": "GTU",
     "files": [
       {
+        "fileId": "maths-1-engineering-mathematics-mcgrawhill-book",
+        "title": "Engineering Mathematics McGrawHill Book",
+        "description": "Engineering Mathematics\nfor Semesters I and II",
+        "tag": "Books",
+        "pages": 880,
+        "url": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem1/maths-1/Books/engineering-mathematics-mcgrawhill-book.pdf"
+      },
+      {
         "fileId": "maths-1-mathematics-1-mcgrawhill-book",
         "title": "Mathematics 1 Mcgrawhill Book",
         "description": "",
         "tag": "Books",
         "pages": 0,
         "url": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem1/maths-1/Books/mathematics-1-mcgrawhill-book.pdf"
+      },
+      {
+        "fileId": "maths-1-mathematics-1-darshan-notes",
+        "title": "Mathematics 1 Darshan Notes",
+        "description": "MATHEMATICS - I - UNIT 1 to 6. FORMULAE, RESULTS & SYMBOLS",
+        "tag": "Notes",
+        "pages": 181,
+        "url": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem1/maths-1/Notes/mathematics-1-darshan-notes.pdf"
+      },
+      {
+        "fileId": "maths-1-mathematics-1-formulas",
+        "title": "Mathematics 1 Formulas",
+        "description": "All Formulas of Maths 1",
+        "tag": "Notes",
+        "pages": 18,
+        "url": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem1/maths-1/Notes/mathematics-1-formulas.pdf"
       },
       {
         "fileId": "maths-1-unit-1-a",
@@ -199,6 +223,46 @@
         "tag": "PPTs",
         "pages": 0,
         "url": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem1/maths-1/PPTs/darshan-ppt/unit-5-c.pdf"
+      },
+      {
+        "fileId": "maths-1-mathematics-1-new-syllabus-papers",
+        "title": "Mathematics 1 New Syllabus Papers",
+        "description": "GTU - BE- SEMESTER–I & II EXAMINATION – WINTER 2024",
+        "tag": "PYQ",
+        "pages": 7,
+        "url": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem1/maths-1/PYQ/mathematics-1-new-syllabus-papers.pdf"
+      },
+      {
+        "fileId": "maths-1-mathematics-1-old-syllabus-papers",
+        "title": "Mathematics 1 Old Syllabus Papers",
+        "description": "GTU - BE –SEMESTER 1&2(NEW SYLLABUS)EXAMINATION- WINTER 2018",
+        "tag": "PYQ",
+        "pages": 27,
+        "url": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem1/maths-1/PYQ/mathematics-1-old-syllabus-papers.pdf"
+      },
+      {
+        "fileId": "maths-1-mathematics-1-papers-pyqs",
+        "title": "Mathematics 1 Papers (PYQs)",
+        "description": "Mathematics-I - GUJARAT TECHNOLOGICAL UNIVERSITY\n BE- SEMESTER–I & II EXAMINATION – WINTER 2024",
+        "tag": "PYQ",
+        "pages": 29,
+        "url": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem1/maths-1/PYQ/mathematics-1-papers-pyqs.pdf"
+      },
+      {
+        "fileId": "maths-1-mathematics-1-pyqs-nlj",
+        "title": "Mathematics 1 PYQs (NLJ)",
+        "description": "QUESTION BANK -SEMESTER: 1",
+        "tag": "PYQ",
+        "pages": 65,
+        "url": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem1/maths-1/PYQ/mathematics-1-pyqs-nlj.pdf"
+      },
+      {
+        "fileId": "maths-1-mathematics-1-syllabus",
+        "title": "Mathematics 1 Syllabus",
+        "description": "Course / Subject Code : BE01R00041 ,\nCourse / Subject Name : Mathematics – 1,\nProgram Name: Engineering ,\nLevel: Degree ,\nBranch: All",
+        "tag": "PYQ",
+        "pages": 4,
+        "url": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem1/maths-1/PYQ/mathematics-1-syllabus.pdf"
       }
     ]
   }
