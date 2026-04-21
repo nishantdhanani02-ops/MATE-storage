@@ -1,5 +1,25 @@
 [
   {
+    "id": "bee",
+    "title": "BEE",
+    "description": "Voltage divider law and current divider Law, Node analysis , equation of delta to star and star to delta transformation",
+    "subject": "BEE",
+    "semester": "1",
+    "branch": "all",
+    "university": "GTU",
+    "files": [
+      {
+        "fileId": "bee-1-d-c-circuits",
+        "title": "1. D.C.Circuits",
+        "description": "Voltage divider law and current divider Law, Node analysis , equation of delta to star and star to delta transformation",
+        "tag": "Notes",
+        "pages": 28,
+        "url": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem1/bee/Notes/darshan/1-d-c-circuits.pdf",
+        "imageUrl": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem1/bee/Notes/darshan/1-d-c-circuits_thumb.webp"
+      }
+    ]
+  },
+  {
     "id": "maths-1",
     "title": "Mathematics 1",
     "description": "Maths-1: All types of Notes and books.",
