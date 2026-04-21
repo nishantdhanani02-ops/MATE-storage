@@ -119,6 +119,46 @@
         "tag": "PPTs",
         "pages": 14,
         "url": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem1/maths-1/PPTs/darshan-ppt/unit-1-b.pdf"
+      },
+      {
+        "fileId": "maths-1-unit-2",
+        "title": "Unit 2",
+        "description": "Indeterminate Forms -L’Hospital’s Rule",
+        "tag": "PPTs",
+        "pages": 18,
+        "url": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem1/maths-1/PPTs/darshan-ppt/unit-2.pdf"
+      },
+      {
+        "fileId": "maths-1-unit-3-a",
+        "title": "Unit 3 A",
+        "description": "Sequence and Series -\nIncreasing and Decreasing Sequence\nThe Sandwich Theorem OR Squeeze Theorem",
+        "tag": "PPTs",
+        "pages": 25,
+        "url": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem1/maths-1/PPTs/darshan-ppt/unit-3-a.pdf"
+      },
+      {
+        "fileId": "maths-1-unit-3-b",
+        "title": "Unit 3 B",
+        "description": "Sequence and Series -Geometric Series,\nTelescoping Series, Zero Test, etc.",
+        "tag": "PPTs",
+        "pages": 145,
+        "url": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem1/maths-1/PPTs/darshan-ppt/unit-3-b.pdf"
+      },
+      {
+        "fileId": "maths-1-unit-3-c",
+        "title": "Unit 3 C",
+        "description": "Sequence and Series- Leibnitz’s Test",
+        "tag": "PPTs",
+        "pages": 111,
+        "url": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem1/maths-1/PPTs/darshan-ppt/unit-3-c.pdf"
+      },
+      {
+        "fileId": "maths-1-unit-4-a",
+        "title": "Unit 4 A",
+        "description": "Partial Derivatives -Limit of Function of Two Variables, etc.",
+        "tag": "PPTs",
+        "pages": 29,
+        "url": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem1/maths-1/PPTs/darshan-ppt/unit-4-a.pdf"
       }
     ]
   }
