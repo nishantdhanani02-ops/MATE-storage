@@ -34,6 +34,7 @@
         "description": "Engineering Mathematics\nfor Semesters I and II",
         "tag": "Books",
         "pages": 880,
+        "imageUrl": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem1/maths-1/Books/engineering-mathematics-mcgrawhill-book_thumb.webp",
         "url": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem1/maths-1/Books/engineering-mathematics-mcgrawhill-book.pdf"
       },
       {
@@ -50,6 +51,7 @@
         "description": "MATHEMATICS - I - UNIT 1 to 6. FORMULAE, RESULTS & SYMBOLS",
         "tag": "Notes",
         "pages": 181,
+        "imageUrl": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem1/maths-1/Notes/mathematics-1-darshan-notes_thumb.webp",
         "url": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem1/maths-1/Notes/mathematics-1-darshan-notes.pdf"
       },
       {
@@ -58,6 +60,7 @@
         "description": "All Formulas of Maths 1",
         "tag": "Notes",
         "pages": 18,
+        "imageUrl": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem1/maths-1/Notes/mathematics-1-formulas_thumb.webp",
         "url": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem1/maths-1/Notes/mathematics-1-formulas.pdf"
       },
       {
@@ -66,6 +69,7 @@
         "description": "Improper Integrals, Gamma Function & Beta Function",
         "tag": "PPTs",
         "pages": 43,
+        "imageUrl": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem1/maths-1/Notes/nlj-maths-notes/unit-1-a_thumb.webp",
         "url": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem1/maths-1/Notes/nlj-maths-notes/unit-1-a.pdf"
       },
       {
@@ -74,6 +78,7 @@
         "description": "Application of\nDefinite Integral",
         "tag": "PPTs",
         "pages": 14,
+        "imageUrl": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem1/maths-1/Notes/nlj-maths-notes/unit-1-b_thumb.webp",
         "url": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem1/maths-1/Notes/nlj-maths-notes/unit-1-b.pdf"
       },
       {
@@ -82,6 +87,7 @@
         "description": "",
         "tag": "Notes",
         "pages": 0,
+        "imageUrl": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem1/maths-1/Notes/nlj-maths-notes/unit-1-c_thumb.webp",
         "url": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem1/maths-1/Notes/nlj-maths-notes/unit-1-c.pdf"
       },
       {
@@ -90,6 +96,7 @@
         "description": "Module 2: Single Variable Calculus (Differentiation)|\nIndeterminate Form",
         "tag": "Notes",
         "pages": 30,
+        "imageUrl": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem1/maths-1/Notes/nlj-maths-notes/unit-2-a_thumb.webp",
         "url": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem1/maths-1/Notes/nlj-maths-notes/unit-2-a.pdf"
       },
       {
@@ -98,6 +105,7 @@
         "description": "Unit 2: Single Variable Calculus (Differentiation)\n  Taylor’s and Maclaurin’s series",
         "tag": "Notes",
         "pages": 15,
+        "imageUrl": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem1/maths-1/Notes/nlj-maths-notes/unit-2-b_thumb.webp",
         "url": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem1/maths-1/Notes/nlj-maths-notes/unit-2-b.pdf"
       },
       {
@@ -106,6 +114,7 @@
         "description": "SEQUENCE AND SERIES",
         "tag": "Notes",
         "pages": 80,
+        "imageUrl": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem1/maths-1/Notes/nlj-maths-notes/unit-3_thumb.webp",
         "url": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem1/maths-1/Notes/nlj-maths-notes/unit-3.pdf"
       },
       {
@@ -114,6 +123,7 @@
         "description": "Module 4: Multivariable Calculus (Differentiation)",
         "tag": "Notes",
         "pages": 71,
+        "imageUrl": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem1/maths-1/Notes/nlj-maths-notes/unit-4_thumb.webp",
         "url": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem1/maths-1/Notes/nlj-maths-notes/unit-4.pdf"
       },
       {
@@ -122,6 +132,7 @@
         "description": "Module 5: Multiple Integral \n(Double Integrals)",
         "tag": "Notes",
         "pages": 77,
+        "imageUrl": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem1/maths-1/Notes/nlj-maths-notes/unit-5-a_thumb.webp",
         "url": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem1/maths-1/Notes/nlj-maths-notes/unit-5-a.pdf"
       },
       {
@@ -130,6 +141,7 @@
         "description": "Module 5: Multivariable Calculus",
         "tag": "Notes",
         "pages": 22,
+        "imageUrl": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem1/maths-1/Notes/nlj-maths-notes/unit-5-b_thumb.webp",
         "url": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem1/maths-1/Notes/nlj-maths-notes/unit-5-b.pdf"
       },
       {
@@ -138,6 +150,7 @@
         "description": "",
         "tag": "Notes",
         "pages": 0,
+        "imageUrl": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem1/maths-1/Notes/technical-publication/ch-6_thumb.webp",
         "url": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem1/maths-1/Notes/technical-publication/ch-6.pdf"
       },
       {
@@ -146,6 +159,7 @@
         "description": "Multiple Integration: Double integrals (Cartesian,\nPolar), change of order of integration in double integrals, Change of variables (Cartesian to polar),",
         "tag": "Notes",
         "pages": 55,
+        "imageUrl": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem1/maths-1/Notes/technical-publication/ch-7-multiple-integrals_thumb.webp",
         "url": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem1/maths-1/Notes/technical-publication/ch-7-multiple-integrals.pdf"
       },
       {
@@ -154,6 +168,7 @@
         "description": "Improper Integrals, Gamma Function & Beta Function",
         "tag": "PPTs",
         "pages": 43,
+        "imageUrl": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem1/maths-1/PPTs/darshan-ppt/unit-1-a_thumb.webp",
         "url": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem1/maths-1/PPTs/darshan-ppt/unit-1-a.pdf"
       },
       {
@@ -162,6 +177,7 @@
         "description": "Application of\nDefinite Integral",
         "tag": "PPTs",
         "pages": 14,
+        "imageUrl": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem1/maths-1/PPTs/darshan-ppt/unit-1-b_thumb.webp",
         "url": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem1/maths-1/PPTs/darshan-ppt/unit-1-b.pdf"
       },
       {
@@ -170,6 +186,7 @@
         "description": "Indeterminate Forms -L’Hospital’s Rule",
         "tag": "PPTs",
         "pages": 18,
+        "imageUrl": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem1/maths-1/PPTs/darshan-ppt/unit-2_thumb.webp",
         "url": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem1/maths-1/PPTs/darshan-ppt/unit-2.pdf"
       },
       {
@@ -178,6 +195,7 @@
         "description": "Sequence and Series -\nIncreasing and Decreasing Sequence\nThe Sandwich Theorem OR Squeeze Theorem",
         "tag": "PPTs",
         "pages": 25,
+        "imageUrl": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem1/maths-1/PPTs/darshan-ppt/unit-3-a_thumb.webp",
         "url": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem1/maths-1/PPTs/darshan-ppt/unit-3-a.pdf"
       },
       {
@@ -186,6 +204,7 @@
         "description": "Sequence and Series -Geometric Series,\nTelescoping Series, Zero Test, etc.",
         "tag": "PPTs",
         "pages": 145,
+        "imageUrl": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem1/maths-1/PPTs/darshan-ppt/unit-3-b_thumb.webp",
         "url": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem1/maths-1/PPTs/darshan-ppt/unit-3-b.pdf"
       },
       {
@@ -194,6 +213,7 @@
         "description": "Sequence and Series- Leibnitz’s Test",
         "tag": "PPTs",
         "pages": 111,
+        "imageUrl": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem1/maths-1/PPTs/darshan-ppt/unit-3-c_thumb.webp",
         "url": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem1/maths-1/PPTs/darshan-ppt/unit-3-c.pdf"
       },
       {
@@ -202,6 +222,7 @@
         "description": "Partial Derivatives -Limit of Function of Two Variables, etc.",
         "tag": "PPTs",
         "pages": 29,
+        "imageUrl": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem1/maths-1/PPTs/darshan-ppt/unit-4-a_thumb.webp",
         "url": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem1/maths-1/PPTs/darshan-ppt/unit-4-a.pdf"
       },
       {
@@ -210,6 +231,7 @@
         "description": "",
         "tag": "PPTs",
         "pages": 0,
+        "imageUrl": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem1/maths-1/PPTs/darshan-ppt/unit-4-b_thumb.webp",
         "url": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem1/maths-1/PPTs/darshan-ppt/unit-4-b.pdf"
       },
       {
@@ -218,6 +240,7 @@
         "description": "",
         "tag": "PPTs",
         "pages": 0,
+        "imageUrl": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem1/maths-1/PPTs/darshan-ppt/unit-4-c_thumb.webp",
         "url": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem1/maths-1/PPTs/darshan-ppt/unit-4-c.pdf"
       },
       {
@@ -226,6 +249,7 @@
         "description": "Module 5: Multiple Integral \n(Double Integrals)",
         "tag": "Notes",
         "pages": 77,
+        "imageUrl": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem1/maths-1/PPTs/darshan-ppt/unit-5-a_thumb.webp",
         "url": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem1/maths-1/PPTs/darshan-ppt/unit-5-a.pdf"
       },
       {
@@ -234,6 +258,7 @@
         "description": "Module 5: Multivariable Calculus",
         "tag": "Notes",
         "pages": 22,
+        "imageUrl": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem1/maths-1/PPTs/darshan-ppt/unit-5-b_thumb.webp",
         "url": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem1/maths-1/PPTs/darshan-ppt/unit-5-b.pdf"
       },
       {
@@ -242,6 +267,7 @@
         "description": "",
         "tag": "PPTs",
         "pages": 0,
+        "imageUrl": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem1/maths-1/PPTs/darshan-ppt/unit-5-c_thumb.webp",
         "url": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem1/maths-1/PPTs/darshan-ppt/unit-5-c.pdf"
       },
       {
@@ -250,6 +276,7 @@
         "description": "GTU - BE- SEMESTER–I & II EXAMINATION – WINTER 2024",
         "tag": "PYQ",
         "pages": 7,
+        "imageUrl": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem1/maths-1/PYQ/mathematics-1-new-syllabus-papers_thumb.webp",
         "url": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem1/maths-1/PYQ/mathematics-1-new-syllabus-papers.pdf"
       },
       {
@@ -258,6 +285,7 @@
         "description": "GTU - BE –SEMESTER 1&2(NEW SYLLABUS)EXAMINATION- WINTER 2018",
         "tag": "PYQ",
         "pages": 27,
+        "imageUrl": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem1/maths-1/PYQ/mathematics-1-old-syllabus-papers_thumb.webp",
         "url": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem1/maths-1/PYQ/mathematics-1-old-syllabus-papers.pdf"
       },
       {
@@ -266,6 +294,7 @@
         "description": "Mathematics-I - GUJARAT TECHNOLOGICAL UNIVERSITY\n BE- SEMESTER–I & II EXAMINATION – WINTER 2024",
         "tag": "PYQ",
         "pages": 29,
+        "imageUrl": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem1/maths-1/PYQ/mathematics-1-papers-pyqs_thumb.webp",
         "url": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem1/maths-1/PYQ/mathematics-1-papers-pyqs.pdf"
       },
       {
@@ -274,6 +303,7 @@
         "description": "QUESTION BANK -SEMESTER: 1",
         "tag": "PYQ",
         "pages": 65,
+        "imageUrl": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem1/maths-1/PYQ/mathematics-1-pyqs-nlj_thumb.webp",
         "url": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem1/maths-1/PYQ/mathematics-1-pyqs-nlj.pdf"
       },
       {
@@ -282,6 +312,7 @@
         "description": "Course / Subject Code : BE01R00041 ,\nCourse / Subject Name : Mathematics – 1,\nProgram Name: Engineering ,\nLevel: Degree ,\nBranch: All",
         "tag": "PYQ",
         "pages": 4,
+        "imageUrl": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem1/maths-1/PYQ/mathematics-1-syllabus_thumb.webp",
         "url": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem1/maths-1/PYQ/mathematics-1-syllabus.pdf"
       }
     ]
