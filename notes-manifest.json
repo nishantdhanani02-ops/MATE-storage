@@ -164,6 +164,53 @@
     ]
   },
   {
+    "id": "chemistry",
+    "title": "Chemistry",
+    "description": "Chemistry Book with all Chapters",
+    "subject": "Chemistry",
+    "semester": "1-2",
+    "branch": "all",
+    "university": "GTU",
+    "files": [
+      {
+        "fileId": "chemistry-engineering-chemistry-book",
+        "title": "Engineering Chemistry Book",
+        "description": "Chemistry Book with all Chapters",
+        "tag": "Books",
+        "pages": 606,
+        "imageUrl": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem1-2/chemistry/Books/engineering-chemistry-book_thumb.webp",
+        "url": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem1-2/chemistry/Books/engineering-chemistry-book.pdf"
+      },
+      {
+        "fileId": "chemistry-chemistry-new-syllabus-papers",
+        "title": "Chemistry New Syllabus Papers",
+        "description": "BE- SEMESTER–I & II EXAMINATION – WINTER 2024 - BE01000031",
+        "tag": "PYQ",
+        "pages": 5,
+        "imageUrl": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem1-2/chemistry/PYQ/chemistry-new-syllabus-papers_thumb.webp",
+        "url": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem1-2/chemistry/PYQ/chemistry-new-syllabus-papers.pdf"
+      },
+      {
+        "fileId": "chemistry-chemistry-old-syllabus-papers",
+        "title": "Chemistry Old Syllabus Papers",
+        "description": "BE –SEMESTER 1&2(NEW SYLLABUS)EXAMINATION- WINTER 2018 , 3110001",
+        "tag": "PYQ",
+        "pages": 21,
+        "imageUrl": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem1-2/chemistry/PYQ/chemistry-old-syllabus-papers_thumb.webp",
+        "url": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem1-2/chemistry/PYQ/chemistry-old-syllabus-papers.pdf"
+      },
+      {
+        "fileId": "chemistry-chemistry-syllabus",
+        "title": "Chemistry Syllabus",
+        "description": "Subject Code : BE01R00031 ,Subject Name : Chemistry , Level: Degree ,\nBranch: All branches",
+        "tag": "Syllabus",
+        "pages": 6,
+        "imageUrl": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem1-2/chemistry/Syllabus/chemistry-syllabus_thumb.webp",
+        "url": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem1-2/chemistry/Syllabus/chemistry-syllabus.pdf"
+      }
+    ]
+  },
+  {
     "id": "maths-1",
     "title": "Mathematics 1",
     "description": "Maths-1: All types of Notes and books.",
