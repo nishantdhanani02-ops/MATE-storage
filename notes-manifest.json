@@ -9,6 +9,15 @@
     "university": "GTU",
     "files": [
       {
+        "fileId": "bee-1-d-c-circuits",
+        "title": "1. D.C.Circuits",
+        "description": "Explore fundamental DC circuit concepts, defining key electrical quantities and independent energy sources.",
+        "tag": "Notes",
+        "pages": 28,
+        "imageUrl": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem1-2/bee/Notes/darshan/1-d-c-circuits_thumb.webp",
+        "url": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem1-2/bee/Notes/darshan/1-d-c-circuits.pdf"
+      },
+      {
         "fileId": "bee-2-a-c-circuits",
         "title": "2 A C Circuits",
         "description": "",
@@ -16,6 +25,33 @@
         "pages": 0,
         "imageUrl": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem1-2/bee/Notes/darshan/2-a-c-circuits_thumb.webp",
         "url": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem1-2/bee/Notes/darshan/2-a-c-circuits.pdf"
+      },
+      {
+        "fileId": "bee-3-transformers",
+        "title": "3. Transformers",
+        "description": "Master magnetic materials: types, properties, B-H curves, and magnetic hysteresis fundamentals.",
+        "tag": "Notes",
+        "pages": 24,
+        "imageUrl": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem1-2/bee/Notes/darshan/3-transformers_thumb.webp",
+        "url": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem1-2/bee/Notes/darshan/3-transformers.pdf"
+      },
+      {
+        "fileId": "bee-4-electrical-machines",
+        "title": "4 Electrical Machines",
+        "description": "Induction motor principles, construction (stator, rotor types), and rotating magnetic field generation.",
+        "tag": "Notes",
+        "pages": 18,
+        "imageUrl": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem1-2/bee/Notes/darshan/4-electrical-machines_thumb.webp",
+        "url": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem1-2/bee/Notes/darshan/4-electrical-machines.pdf"
+      },
+      {
+        "fileId": "bee-5-electrical-installations",
+        "title": "5 Electrical Installations",
+        "description": "Discusses electrical fuses, HRC fuses, MCB, and ELCB; details their characteristics and protection principles.",
+        "tag": "Notes",
+        "pages": 24,
+        "imageUrl": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem1-2/bee/Notes/darshan/5-electrical-installations_thumb.webp",
+        "url": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem1-2/bee/Notes/darshan/5-electrical-installations.pdf"
       }
     ]
   },
