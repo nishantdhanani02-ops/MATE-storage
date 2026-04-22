@@ -52,6 +52,60 @@
         "pages": 24,
         "imageUrl": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem1-2/bee/Notes/darshan/5-electrical-installations_thumb.webp",
         "url": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem1-2/bee/Notes/darshan/5-electrical-installations.pdf"
+      },
+      {
+        "fileId": "bee-d-c-circuits-theorems",
+        "title": "D.C. Circuits Theorems",
+        "description": "Gain mastery in DC circuit theorems: Superposition, Thevenin, and Norton equivalent networks.",
+        "tag": "Summaries",
+        "pages": 1,
+        "imageUrl": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem1-2/bee/Summaries/d-c-circuits-theorems_thumb.webp",
+        "url": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem1-2/bee/Summaries/d-c-circuits-theorems.pdf"
+      },
+      {
+        "fileId": "bee-unit-2-ac-circuit",
+        "title": "Unit 2 AC Circuit",
+        "description": "AC circuit analysis covering RLC series parameters, impedance, power factor, and voltage-current relationships.",
+        "tag": "Summaries",
+        "pages": 1,
+        "imageUrl": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem1-2/bee/Summaries/unit-2-ac-circuit_thumb.webp",
+        "url": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem1-2/bee/Summaries/unit-2-ac-circuit.pdf"
+      },
+      {
+        "fileId": "bee-unit-3-transformer",
+        "title": "Unit 3 Transformer",
+        "description": "Understand transformer types, EMF equation derivation, and transformation ratios.",
+        "tag": "Summaries",
+        "pages": 8,
+        "imageUrl": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem1-2/bee/Summaries/unit-3-transformer_thumb.webp",
+        "url": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem1-2/bee/Summaries/unit-3-transformer.pdf"
+      },
+      {
+        "fileId": "bee-unit-4-a-magnetic-field",
+        "title": "Unit 4 A Magnetic Field",
+        "description": "Presents Rotating Magnetic Field analysis, flux calculations, and resultant phasor diagrams for varying angles.",
+        "tag": "Summaries",
+        "pages": 2,
+        "imageUrl": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem1-2/bee/Summaries/unit-4-a-magnetic-field_thumb.webp",
+        "url": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem1-2/bee/Summaries/unit-4-a-magnetic-field.pdf"
+      },
+      {
+        "fileId": "bee-unit-4-b-motor",
+        "title": "Unit 4 B motor",
+        "description": "Parts of 3-Phase Induction Motor, shape of stator Slots",
+        "tag": "Summaries",
+        "pages": 10,
+        "imageUrl": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem1-2/bee/Summaries/unit-4-b-motor_thumb.webp",
+        "url": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem1-2/bee/Summaries/unit-4-b-motor.pdf"
+      },
+      {
+        "fileId": "bee-unit-5",
+        "title": "Unit 5",
+        "description": "Comparative analysis of ammeter, voltmeter, and wattmeter; covering functions, types, and circuit connections.",
+        "tag": "Summaries",
+        "pages": 1,
+        "imageUrl": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem1-2/bee/Summaries/unit-5_thumb.webp",
+        "url": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem1-2/bee/Summaries/unit-5.pdf"
       }
     ]
   },
