@@ -9,6 +9,15 @@
     "university": "GTU",
     "files": [
       {
+        "fileId": "bee-bee-notes",
+        "title": "BEE Notes",
+        "description": "Fundamental concepts: Ohm's, Kirchhoff's Laws, circuit terminology, series/parallel circuits, current, voltage, and power.",
+        "tag": "Notes",
+        "pages": 57,
+        "imageUrl": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem1-2/bee/Notes/bee-notes_thumb.webp",
+        "url": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem1-2/bee/Notes/bee-notes.pdf"
+      },
+      {
         "fileId": "bee-1-d-c-circuits",
         "title": "1. D.C.Circuits",
         "description": "Explore fundamental DC circuit concepts, defining key electrical quantities and independent energy sources.",
@@ -52,6 +61,42 @@
         "pages": 24,
         "imageUrl": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem1-2/bee/Notes/darshan/5-electrical-installations_thumb.webp",
         "url": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem1-2/bee/Notes/darshan/5-electrical-installations.pdf"
+      },
+      {
+        "fileId": "bee-bee-new-syllabus-papers",
+        "title": "BEE New Syllabus Papers",
+        "description": "Acquire knowledge in electrical circuits, AC power, machines, transformers, and essential safety practices.",
+        "tag": "PYQ",
+        "pages": 6,
+        "imageUrl": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem1-2/bee/PYQ/bee-new-syllabus-papers_thumb.webp",
+        "url": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem1-2/bee/PYQ/bee-new-syllabus-papers.pdf"
+      },
+      {
+        "fileId": "bee-bee-old-syllabus-papers",
+        "title": "BEE Old Syllabus Papers",
+        "description": "BE –SEMESTER 1&2(NEW SYLLABUS)EXAMINATION- WINTER 2018",
+        "tag": "PYQ",
+        "pages": 25,
+        "imageUrl": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem1-2/bee/PYQ/bee-old-syllabus-papers_thumb.webp",
+        "url": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem1-2/bee/PYQ/bee-old-syllabus-papers.pdf"
+      },
+      {
+        "fileId": "bee-bee-pyq-solution",
+        "title": "BEE PYQ Solution",
+        "description": "GTU End Sem Exam Solution",
+        "tag": "PYQ",
+        "pages": 60,
+        "imageUrl": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem1-2/bee/PYQ/bee-pyq-solution_thumb.webp",
+        "url": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem1-2/bee/PYQ/bee-pyq-solution.pdf"
+      },
+      {
+        "fileId": "bee-bee-question-bank",
+        "title": "BEE Question Bank",
+        "description": "Chapter-wise Collection of Recurring Theory Questions\n- GTU Verse",
+        "tag": "PYQ",
+        "pages": 9,
+        "imageUrl": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem1-2/bee/PYQ/bee-question-bank_thumb.webp",
+        "url": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem1-2/bee/PYQ/bee-question-bank.pdf"
       },
       {
         "fileId": "bee-d-c-circuits-theorems",
@@ -106,6 +151,15 @@
         "pages": 1,
         "imageUrl": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem1-2/bee/Summaries/unit-5_thumb.webp",
         "url": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem1-2/bee/Summaries/unit-5.pdf"
+      },
+      {
+        "fileId": "bee-bee-syllabus",
+        "title": "BEE Syllabus",
+        "description": "Basic Electrical Engineering, BE01R00051 ,  Level: UG\nBranch: ALL",
+        "tag": "Syllabus",
+        "pages": 8,
+        "imageUrl": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem1-2/bee/Syllabus/bee-syllabus_thumb.webp",
+        "url": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem1-2/bee/Syllabus/bee-syllabus.pdf"
       }
     ]
   },
