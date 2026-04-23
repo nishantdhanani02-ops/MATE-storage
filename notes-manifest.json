@@ -581,6 +581,24 @@
         "url": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem2/fai/Books/technical/ch-5.pdf"
       },
       {
+        "fileId": "fai-fai-imp",
+        "title": "FAI IMP",
+        "description": "GTU Fundamental of AI - Question Bank\n(Based on Atul Prakashan Book)",
+        "tag": "IMP",
+        "pages": 2,
+        "imageUrl": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem2/fai/IMP/fai-imp_thumb.webp",
+        "url": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem2/fai/IMP/fai-imp.pdf"
+      },
+      {
+        "fileId": "fai-fai-most-imp",
+        "title": "FAI Most IMP",
+        "description": "Fundamentals of AI - Chapter-wise Important Questions",
+        "tag": "IMP",
+        "pages": 2,
+        "imageUrl": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem2/fai/IMP/fai-most-imp_thumb.webp",
+        "url": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem2/fai/IMP/fai-most-imp.pdf"
+      },
+      {
         "fileId": "fai-unit-1-introduction-to-ai",
         "title": "UNIT-1: INTRODUCTION TO AI",
         "description": "History & overview of Artificial Intelligence\n,Definition of Artificial Intelligence\n, Artificial Narrow Intelligence, Artificial General Intelligence, Artificial\nSuper Intelligence",
@@ -680,6 +698,24 @@
         "url": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem2/fai/PPTs/unit-i-introduction.pdf"
       },
       {
+        "fileId": "fai-fai-papers",
+        "title": "FAI Papers",
+        "description": "BE- SEMESTER–I&II EXAMINATION – SUMMER 2025",
+        "tag": "PYQ",
+        "pages": 3,
+        "imageUrl": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem2/fai/PYQ/fai-papers_thumb.webp",
+        "url": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem2/fai/PYQ/fai-papers.pdf"
+      },
+      {
+        "fileId": "fai-fai-questions",
+        "title": "FAI Questions",
+        "description": "Marks-wise Questions",
+        "tag": "PYQ",
+        "pages": 5,
+        "imageUrl": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem2/fai/PYQ/fai-questions_thumb.webp",
+        "url": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem2/fai/PYQ/fai-questions.pdf"
+      },
+      {
         "fileId": "fai-ch-1",
         "title": "Ch 1",
         "description": "Definition of Artificial Intelligence (AI) ,What is Artificial Narrow Intelligence (ANI)? Give an example",
@@ -714,6 +750,15 @@
         "pages": 18,
         "imageUrl": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem2/fai/Books/technical/ch-5_thumb.webp",
         "url": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem2/fai/Short-Notes/shortnotes/ch-5.pdf"
+      },
+      {
+        "fileId": "fai-fai-syllabus",
+        "title": "FAI Syllabus",
+        "description": "Subject Code: BE02R00041\n Subject Name: Fundamental of AI",
+        "tag": "Syllabus",
+        "pages": 4,
+        "imageUrl": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem2/fai/Syllabus/fai-syllabus_thumb.webp",
+        "url": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem2/fai/Syllabus/fai-syllabus.pdf"
       }
     ]
   }
