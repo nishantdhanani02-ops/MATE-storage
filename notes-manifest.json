@@ -597,6 +597,69 @@
         "pages": 45,
         "imageUrl": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem2/fai/Notes/notes/unit-4-deep-learning_thumb.webp",
         "url": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem2/fai/Notes/notes/unit-4-deep-learning.pdf"
+      },
+      {
+        "fileId": "fai-ch-4-deep-learning",
+        "title": "Ch 4 .Deep Learning",
+        "description": "● Concept of Deep Learning\n● Introduction to Neural Networks.\n● Types of Deep Learning models",
+        "tag": "PPTs",
+        "pages": 38,
+        "imageUrl": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem2/fai/PPTs/ch-4-deep-learning_thumb.webp",
+        "url": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem2/fai/PPTs/ch-4-deep-learning.pdf"
+      },
+      {
+        "fileId": "fai-unit-2-b-knowledge-representation-pattern-recognition",
+        "title": "Unit – 2(B)  Knowledge Representation - Pattern Recognition",
+        "description": "What is Pattern Recognition?\n• Importance of Pattern Recognition in AI\n• Types of Pattern Recognition",
+        "tag": "PPTs",
+        "pages": 13,
+        "imageUrl": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem2/fai/PPTs/unit-2-b-knowledge-representation-pattern-recognition_thumb.webp",
+        "url": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem2/fai/PPTs/unit-2-b-knowledge-representation-pattern-recognition.pdf"
+      },
+      {
+        "fileId": "fai-unit-2-c-knowledge-representation-introduction-to-expert-systems",
+        "title": "Unit – 2(C) Knowledge Representation - Introduction to Expert Systems",
+        "description": "What are Expert Systems?\n• Key Components of Expert Systems\n• How Expert Systems Work",
+        "tag": "PPTs",
+        "pages": 11,
+        "imageUrl": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem2/fai/PPTs/unit-2-c-knowledge-representation-introduction-to-expert-systems_thumb.webp",
+        "url": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem2/fai/PPTs/unit-2-c-knowledge-representation-introduction-to-expert-systems.pdf"
+      },
+      {
+        "fileId": "fai-unit-2-c2-introduction-to-knowledge-representation-in-ai",
+        "title": "Unit - 2(C2) Introduction to Knowledge Representation in AI",
+        "description": "Introduction, The Role of Knowledge in AI , Why is Knowledge\nRepresentation Important?",
+        "tag": "PPTs",
+        "pages": 17,
+        "imageUrl": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem2/fai/PPTs/unit-2-c2-introduction-to-knowledge-representation-in-ai_thumb.webp",
+        "url": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem2/fai/PPTs/unit-2-c2-introduction-to-knowledge-representation-in-ai.pdf"
+      },
+      {
+        "fileId": "fai-unit-2-knowledge-representation-natural-language-processing",
+        "title": "Unit – 2 Knowledge Representation - Natural Language Processing",
+        "description": "• What is NLP?\n• Importance of NLP\n• Components of NLP",
+        "tag": "PPTs",
+        "pages": 16,
+        "imageUrl": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem2/fai/PPTs/unit-2-knowledge-representation-natural-language-processing_thumb.webp",
+        "url": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem2/fai/PPTs/unit-2-knowledge-representation-natural-language-processing.pdf"
+      },
+      {
+        "fileId": "fai-unit-3-basic-of-machine-learning",
+        "title": "Unit - 3 Basic of Machine Learning",
+        "description": "",
+        "tag": "PPTs",
+        "pages": 48,
+        "imageUrl": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem2/fai/PPTs/unit-3-basic-of-machine-learning_thumb.webp",
+        "url": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem2/fai/PPTs/unit-3-basic-of-machine-learning.pdf"
+      },
+      {
+        "fileId": "fai-unit-i-introduction",
+        "title": "Unit – I Introduction",
+        "description": "• History & overview of Artificial Intelligence\n• Definition of Artificial Intelligence\n• Artificial Narrow Intelligence, Artificial General\nIntelligence, Artificial Super Intelligence",
+        "tag": "PPTs",
+        "pages": 63,
+        "imageUrl": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem2/fai/PPTs/unit-i-introduction_thumb.webp",
+        "url": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem2/fai/PPTs/unit-i-introduction.pdf"
       }
     ]
   }
