@@ -660,6 +660,42 @@
         "pages": 63,
         "imageUrl": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem2/fai/PPTs/unit-i-introduction_thumb.webp",
         "url": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem2/fai/PPTs/unit-i-introduction.pdf"
+      },
+      {
+        "fileId": "fai-ch-1",
+        "title": "Ch 1",
+        "description": "Definition of Artificial Intelligence (AI) ,What is Artificial Narrow Intelligence (ANI)? Give an example",
+        "tag": "Short-Notes",
+        "pages": 13,
+        "imageUrl": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem2/fai/Short-Notes/shortnotes/ch-1_thumb.webp",
+        "url": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem2/fai/Short-Notes/shortnotes/ch-1.pdf"
+      },
+      {
+        "fileId": "fai-ch-2",
+        "title": "Ch 2",
+        "description": "What is knowledge representation in Artificial Intelligence? , Define Natural Language Processing (NLP) and its importance in AI.",
+        "tag": "Short-Notes",
+        "pages": 13,
+        "imageUrl": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem2/fai/Short-Notes/shortnotes/ch-2_thumb.webp",
+        "url": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem2/fai/Short-Notes/shortnotes/ch-2.pdf"
+      },
+      {
+        "fileId": "fai-ch-3",
+        "title": "Ch 3",
+        "description": "What is learning from examples in machine learning? , .What is supervised learning? Provide an example",
+        "tag": "Short-Notes",
+        "pages": 17,
+        "imageUrl": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem2/fai/Short-Notes/shortnotes/ch-3_thumb.webp",
+        "url": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem2/fai/Short-Notes/shortnotes/ch-3.pdf"
+      },
+      {
+        "fileId": "fai-ch-5",
+        "title": "Ch 5",
+        "description": "Large Language Models (LLMs),\nApplications, Issues & Future of AI",
+        "tag": "Short-Notes",
+        "pages": 2,
+        "imageUrl": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem2/fai/Short-Notes/shortnotes/ch-5_thumb.webp",
+        "url": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem2/fai/Short-Notes/shortnotes/ch-5.pdf"
       }
     ]
   }
