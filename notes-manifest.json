@@ -507,5 +507,61 @@
         "url": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem1/maths-1/PYQ/mathematics-1-syllabus.pdf"
       }
     ]
+  },
+  {
+    "id": "fai",
+    "title": "FAI",
+    "description": "What is AI or Artificial Intelligence?",
+    "subject": "FAI",
+    "semester": "2",
+    "branch": "all",
+    "university": "GTU",
+    "files": [
+      {
+        "fileId": "fai-basic-of-machine-learning",
+        "title": "Basic of Machine Learning",
+        "description": "Supervised and Unsupervised Learning",
+        "tag": "Books",
+        "pages": 24,
+        "imageUrl": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem2/fai/Books/atulbook/basic-of-machine-learning_thumb.webp",
+        "url": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem2/fai/Books/atulbook/basic-of-machine-learning.pdf"
+      },
+      {
+        "fileId": "fai-deep-learning",
+        "title": "Deep Learning",
+        "description": "Concept of Deep Learning , Introduction to Neural Networks , Types of Deep Learning models , Deep leaning applications",
+        "tag": "Books",
+        "pages": 22,
+        "imageUrl": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem2/fai/Books/atulbook/deep-learning_thumb.webp",
+        "url": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem2/fai/Books/atulbook/deep-learning.pdf"
+      },
+      {
+        "fileId": "fai-introduction-to-artificial-intelligence",
+        "title": "Introduction to Artificial Intelligence",
+        "description": "What is AI or Artificial Intelligence?",
+        "tag": "Books",
+        "pages": 25,
+        "imageUrl": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem2/fai/Books/atulbook/introduction-to-artificial-intelligence_thumb.webp",
+        "url": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem2/fai/Books/atulbook/introduction-to-artificial-intelligence.pdf"
+      },
+      {
+        "fileId": "fai-knowledge-representation",
+        "title": "Knowledge Representation",
+        "description": "Fundamentals of AI",
+        "tag": "Books",
+        "pages": 22,
+        "imageUrl": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem2/fai/Books/atulbook/knowledge-representation_thumb.webp",
+        "url": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem2/fai/Books/atulbook/knowledge-representation.pdf"
+      },
+      {
+        "fileId": "fai-modern-artificial-intelligence",
+        "title": "Modern Artificial Intelligence",
+        "description": "Large Language Models (LLMs) ,\nUse-cases: ChatGPT, Gemini, Bhashini, Krutrim ,\nCurrent Issuess& Future Challenges of Al",
+        "tag": "Books",
+        "pages": 11,
+        "imageUrl": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem2/fai/Books/atulbook/modern-artificial-intelligence_thumb.webp",
+        "url": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem2/fai/Books/atulbook/modern-artificial-intelligence.pdf"
+      }
+    ]
   }
 ]
