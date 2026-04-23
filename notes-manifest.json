@@ -561,6 +561,42 @@
         "pages": 11,
         "imageUrl": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem2/fai/Books/atulbook/modern-artificial-intelligence_thumb.webp",
         "url": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem2/fai/Books/atulbook/modern-artificial-intelligence.pdf"
+      },
+      {
+        "fileId": "fai-unit-1-introduction-to-ai",
+        "title": "UNIT-1: INTRODUCTION TO AI",
+        "description": "History & overview of Artificial Intelligence\n,Definition of Artificial Intelligence\n, Artificial Narrow Intelligence, Artificial General Intelligence, Artificial\nSuper Intelligence",
+        "tag": "Notes",
+        "pages": 23,
+        "imageUrl": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem2/fai/Notes/notes/unit-1-introduction-to-ai_thumb.webp",
+        "url": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem2/fai/Notes/notes/unit-1-introduction-to-ai.pdf"
+      },
+      {
+        "fileId": "fai-unit-2-knowledge-representation",
+        "title": "UNIT-2 Knowledge Representation",
+        "description": "Concept of Knowledge representation ,  Introduction to Natural Language processing",
+        "tag": "Notes",
+        "pages": 38,
+        "imageUrl": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem2/fai/Notes/notes/unit-2-knowledge-representation_thumb.webp",
+        "url": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem2/fai/Notes/notes/unit-2-knowledge-representation.pdf"
+      },
+      {
+        "fileId": "fai-unit-3-basics-of-machine-learning",
+        "title": "UNIT-3: BASICS OF MACHINE LEARNING",
+        "description": "Learning from examples\n,Forms of Learning -Supervised learning, Unsupervised learning,\nReinforcement learning",
+        "tag": "Notes",
+        "pages": 29,
+        "imageUrl": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem2/fai/Notes/notes/unit-3-basics-of-machine-learning_thumb.webp",
+        "url": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem2/fai/Notes/notes/unit-3-basics-of-machine-learning.pdf"
+      },
+      {
+        "fileId": "fai-unit-4-deep-learning",
+        "title": "Unit-4 Deep Learning",
+        "description": "Concept of Deep Learning\n, Introduction to Neural Networks.\n. Types of Deep Learning models.",
+        "tag": "Notes",
+        "pages": 45,
+        "imageUrl": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem2/fai/Notes/notes/unit-4-deep-learning_thumb.webp",
+        "url": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem2/fai/Notes/notes/unit-4-deep-learning.pdf"
       }
     ]
   }
