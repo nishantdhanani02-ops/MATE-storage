@@ -563,6 +563,24 @@
         "url": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem2/fai/Books/atulbook/modern-artificial-intelligence.pdf"
       },
       {
+        "fileId": "fai-ch-2-expert-systems",
+        "title": "Ch 2 Expert Systems",
+        "description": "Introduction to Expert System ,  Common Sense Reasoning",
+        "tag": "Books",
+        "pages": 11,
+        "imageUrl": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem2/fai/Books/technical/ch-2-expert-systems_thumb.webp",
+        "url": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem2/fai/Books/technical/ch-2-expert-systems.pdf"
+      },
+      {
+        "fileId": "fai-ch-5",
+        "title": "Ch 5",
+        "description": "Large Language Models (LLMs) \n,Transformer Model , Key Components",
+        "tag": "Books",
+        "pages": 18,
+        "imageUrl": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem2/fai/Books/technical/ch-5_thumb.webp",
+        "url": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem2/fai/Books/technical/ch-5.pdf"
+      },
+      {
         "fileId": "fai-unit-1-introduction-to-ai",
         "title": "UNIT-1: INTRODUCTION TO AI",
         "description": "History & overview of Artificial Intelligence\n,Definition of Artificial Intelligence\n, Artificial Narrow Intelligence, Artificial General Intelligence, Artificial\nSuper Intelligence",
@@ -691,10 +709,10 @@
       {
         "fileId": "fai-ch-5",
         "title": "Ch 5",
-        "description": "Large Language Models (LLMs),\nApplications, Issues & Future of AI",
-        "tag": "Short-Notes",
-        "pages": 2,
-        "imageUrl": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem2/fai/Short-Notes/shortnotes/ch-5_thumb.webp",
+        "description": "Large Language Models (LLMs) \n,Transformer Model , Key Components",
+        "tag": "Books",
+        "pages": 18,
+        "imageUrl": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem2/fai/Books/technical/ch-5_thumb.webp",
         "url": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem2/fai/Short-Notes/shortnotes/ch-5.pdf"
       }
     ]
