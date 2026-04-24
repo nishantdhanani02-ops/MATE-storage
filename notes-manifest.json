@@ -550,6 +550,71 @@
     ]
   },
   {
+    "id": "cpdp",
+    "title": "CPDP",
+    "description": "Comprehensive Study materials and notes for CPDP. Includes 79 pages of content.",
+    "subject": "CPDP",
+    "semester": "1-2",
+    "branch": "all",
+    "university": "GTU",
+    "files": [
+      {
+        "fileId": "cpdp-cpdp-book-pdf",
+        "title": "Book",
+        "description": "Comprehensive Study materials and notes for CPDP. Includes 79 pages of content.",
+        "tag": "Books",
+        "pages": 79,
+        "imageUrl": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem1-2/cpdp/Books/cpdp-book-pdf_thumb.webp",
+        "url": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem1-2/cpdp/Books/cpdp-book-pdf.pdf"
+      },
+      {
+        "fileId": "cpdp-cpdp-sample-paper-pdf",
+        "title": "Sample Paper",
+        "description": "Comprehensive Study materials and notes for CPDP. Includes 4 pages of content.",
+        "tag": "Notes",
+        "pages": 4,
+        "imageUrl": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem1-2/cpdp/Notes/cpdp-sample-paper-pdf_thumb.webp",
+        "url": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem1-2/cpdp/Notes/cpdp-sample-paper-pdf.pdf"
+      },
+      {
+        "fileId": "cpdp-ipdc-cpdp-uhv-paper-format-pdf",
+        "title": "IPDC_CPDP_UHV Paper Format",
+        "description": "Comprehensive Study materials and notes for CPDP. Includes 1 pages of content.",
+        "tag": "Notes",
+        "pages": 1,
+        "imageUrl": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem1-2/cpdp/Notes/ipdc-cpdp-uhv-paper-format-pdf_thumb.webp",
+        "url": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem1-2/cpdp/Notes/ipdc-cpdp-uhv-paper-format-pdf.pdf"
+      },
+      {
+        "fileId": "cpdp-cpdp-past-papers-pdf",
+        "title": "Past Papers",
+        "description": "Comprehensive Past Year Papers for CPDP. Includes 80 pages of content.",
+        "tag": "PYQs",
+        "pages": 80,
+        "imageUrl": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem1-2/cpdp/PYQs/cpdp-past-papers-pdf_thumb.webp",
+        "url": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem1-2/cpdp/PYQs/cpdp-past-papers-pdf.pdf"
+      },
+      {
+        "fileId": "cpdp-cpdp-question-bank-pdf",
+        "title": "Question-Bank",
+        "description": "Comprehensive Past Year Papers for CPDP. Includes 24 pages of content.",
+        "tag": "PYQs",
+        "pages": 24,
+        "imageUrl": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem1-2/cpdp/PYQs/cpdp-question-bank-pdf_thumb.webp",
+        "url": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem1-2/cpdp/PYQs/cpdp-question-bank-pdf.pdf"
+      },
+      {
+        "fileId": "cpdp-cpdp-syllabus-pdf",
+        "title": "Syllabus",
+        "description": "Comprehensive Official syllabus for CPDP. Includes 7 pages of content.",
+        "tag": "Syllabus",
+        "pages": 7,
+        "imageUrl": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem1-2/cpdp/Syllabus/cpdp-syllabus-pdf_thumb.webp",
+        "url": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem1-2/cpdp/Syllabus/cpdp-syllabus-pdf.pdf"
+      }
+    ]
+  },
+  {
     "id": "ipdc",
     "title": "IPDC",
     "description": "Comprehensive Past Year Papers for IPDC. Includes 29 pages of content.",
