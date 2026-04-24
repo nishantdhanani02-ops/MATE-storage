@@ -2227,6 +2227,62 @@
     ]
   },
   {
+    "id": "iss",
+    "title": "ISS",
+    "description": "Comprehensive Study materials and notes for ISS. Includes 4 pages of content.",
+    "subject": "ISS",
+    "semester": "2",
+    "branch": "all",
+    "university": "GTU",
+    "files": [
+      {
+        "fileId": "iss-ch-1-pdf",
+        "title": "Ch 1",
+        "description": "Comprehensive Study materials and notes for ISS. Includes 23 pages of content.",
+        "tag": "Books",
+        "pages": 23,
+        "imageUrl": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem2/iss/Books/ch-1-pdf_thumb.webp",
+        "url": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem2/iss/Books/ch-1-pdf.pdf"
+      },
+      {
+        "fileId": "iss-ch-5-pdf",
+        "title": "Ch 5",
+        "description": "Comprehensive Study materials and notes for ISS. Includes 30 pages of content.",
+        "tag": "Books",
+        "pages": 30,
+        "imageUrl": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem2/iss/Books/ch-5-pdf_thumb.webp",
+        "url": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem2/iss/Books/ch-5-pdf.pdf"
+      },
+      {
+        "fileId": "iss-iss-papers-pdf",
+        "title": "Papers",
+        "description": "Comprehensive Study materials and notes for ISS. Includes 4 pages of content.",
+        "tag": "Notes",
+        "pages": 4,
+        "imageUrl": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem2/iss/Notes/iss-papers-pdf_thumb.webp",
+        "url": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem2/iss/Notes/iss-papers-pdf.pdf"
+      },
+      {
+        "fileId": "iss-unit-1-industrial-safety-pdf",
+        "title": "Unit 1_Industrial Safety",
+        "description": "Comprehensive Study materials and notes for ISS. Includes 34 pages of content.",
+        "tag": "Notes",
+        "pages": 34,
+        "imageUrl": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem2/iss/Notes/unit-1-industrial-safety-pdf_thumb.webp",
+        "url": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem2/iss/Notes/unit-1-industrial-safety-pdf.pdf"
+      },
+      {
+        "fileId": "iss-iss-syllabus-pdf",
+        "title": "Syllabus",
+        "description": "Comprehensive Official syllabus for ISS. Includes 4 pages of content.",
+        "tag": "Syllabus",
+        "pages": 4,
+        "imageUrl": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem2/iss/Syllabus/iss-syllabus-pdf_thumb.webp",
+        "url": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem2/iss/Syllabus/iss-syllabus-pdf.pdf"
+      }
+    ]
+  },
+  {
     "id": "maths-2",
     "title": "Mathematics 2",
     "description": "Comprehensive Study materials and notes for Mathematics 2. Includes 880 pages of content.",
