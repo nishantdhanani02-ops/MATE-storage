@@ -844,6 +844,125 @@
     ]
   },
   {
+    "id": "mos",
+    "title": "MOS",
+    "description": "Comprehensive Official syllabus for MOS. Includes 7 pages of content.",
+    "subject": "MOS",
+    "semester": "1-2",
+    "branch": "all",
+    "university": "GTU",
+    "files": [
+      {
+        "fileId": "mos-unit-4-pdf",
+        "title": "Unit 4",
+        "description": "Comprehensive Study materials and notes for MOS. Includes 14 pages of content.",
+        "tag": "Notes",
+        "pages": 14,
+        "imageUrl": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem1-2/mos/Notes/unit-4-pdf_thumb.webp",
+        "url": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem1-2/mos/Notes/unit-4-pdf.pdf"
+      },
+      {
+        "fileId": "mos-unit-6-pdf",
+        "title": "Unit 6",
+        "description": "Comprehensive Study materials and notes for MOS. Includes 6 pages of content.",
+        "tag": "Notes",
+        "pages": 6,
+        "imageUrl": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem1-2/mos/Notes/unit-6-pdf_thumb.webp",
+        "url": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem1-2/mos/Notes/unit-6-pdf.pdf"
+      },
+      {
+        "fileId": "mos-unit-7-pdf",
+        "title": "Unit 7",
+        "description": "Comprehensive Study materials and notes for MOS. Includes 5 pages of content.",
+        "tag": "Notes",
+        "pages": 5,
+        "imageUrl": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem1-2/mos/Notes/unit-7-pdf_thumb.webp",
+        "url": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem1-2/mos/Notes/unit-7-pdf.pdf"
+      },
+      {
+        "fileId": "mos-unit-1-pdf",
+        "title": "Unit 1",
+        "description": "Comprehensive Presentation slides for MOS. Includes 15 pages of content.",
+        "tag": "PPTs",
+        "pages": 15,
+        "imageUrl": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem1-2/mos/PPTs/unit-1-pdf_thumb.webp",
+        "url": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem1-2/mos/PPTs/unit-1-pdf.pdf"
+      },
+      {
+        "fileId": "mos-unit-2-pdf",
+        "title": "Unit 2",
+        "description": "Comprehensive Presentation slides for MOS. Includes 44 pages of content.",
+        "tag": "PPTs",
+        "pages": 44,
+        "imageUrl": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem1-2/mos/PPTs/unit-2-pdf_thumb.webp",
+        "url": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem1-2/mos/PPTs/unit-2-pdf.pdf"
+      },
+      {
+        "fileId": "mos-unit-3-pdf",
+        "title": "Unit 3",
+        "description": "Comprehensive Presentation slides for MOS. Includes 18 pages of content.",
+        "tag": "PPTs",
+        "pages": 18,
+        "imageUrl": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem1-2/mos/PPTs/unit-3-pdf_thumb.webp",
+        "url": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem1-2/mos/PPTs/unit-3-pdf.pdf"
+      },
+      {
+        "fileId": "mos-unit-5-a-pdf",
+        "title": "Unit 5_A",
+        "description": "Comprehensive Presentation slides for MOS. Includes 43 pages of content.",
+        "tag": "PPTs",
+        "pages": 43,
+        "imageUrl": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem1-2/mos/PPTs/unit-5-a-pdf_thumb.webp",
+        "url": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem1-2/mos/PPTs/unit-5-a-pdf.pdf"
+      },
+      {
+        "fileId": "mos-unit-5-b-pdf",
+        "title": "Unit 5_B",
+        "description": "Comprehensive Presentation slides for MOS. Includes 25 pages of content.",
+        "tag": "PPTs",
+        "pages": 25,
+        "imageUrl": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem1-2/mos/PPTs/unit-5-b-pdf_thumb.webp",
+        "url": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem1-2/mos/PPTs/unit-5-b-pdf.pdf"
+      },
+      {
+        "fileId": "mos-unit-7-pdf",
+        "title": "Unit 7",
+        "description": "Comprehensive Study materials and notes for MOS. Includes 5 pages of content.",
+        "tag": "Notes",
+        "pages": 5,
+        "imageUrl": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem1-2/mos/Notes/unit-7-pdf_thumb.webp",
+        "url": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem1-2/mos/PPTs/unit-7-pdf.pdf"
+      },
+      {
+        "fileId": "mos-mos-new-syllabus-papers-pdf",
+        "title": "New Syllabus Papers",
+        "description": "Comprehensive Past Year Papers for MOS. Includes 10 pages of content.",
+        "tag": "PYQs",
+        "pages": 10,
+        "imageUrl": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem1-2/mos/PYQs/mos-new-syllabus-papers-pdf_thumb.webp",
+        "url": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem1-2/mos/PYQs/mos-new-syllabus-papers-pdf.pdf"
+      },
+      {
+        "fileId": "mos-mos-old-syllabus-papers-pdf",
+        "title": "Old Syllabus Papers",
+        "description": "Comprehensive Past Year Papers for MOS. Includes 36 pages of content.",
+        "tag": "PYQs",
+        "pages": 36,
+        "imageUrl": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem1-2/mos/PYQs/mos-old-syllabus-papers-pdf_thumb.webp",
+        "url": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem1-2/mos/PYQs/mos-old-syllabus-papers-pdf.pdf"
+      },
+      {
+        "fileId": "mos-mos-syllabus-pdf",
+        "title": "Syllabus",
+        "description": "Comprehensive Official syllabus for MOS. Includes 7 pages of content.",
+        "tag": "Syllabus",
+        "pages": 7,
+        "imageUrl": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem1-2/mos/Syllabus/mos-syllabus-pdf_thumb.webp",
+        "url": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem1-2/mos/Syllabus/mos-syllabus-pdf.pdf"
+      }
+    ]
+  },
+  {
     "id": "physics",
     "title": "Physics",
     "description": "Comprehensive Study materials and notes for Physics. Includes 62 pages of content.",
