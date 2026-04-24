@@ -615,6 +615,143 @@
     ]
   },
   {
+    "id": "egd",
+    "title": "EGD",
+    "description": "Comprehensive Presentation slides for EGD. Includes 283 pages of content.",
+    "subject": "EGD",
+    "semester": "1-2",
+    "branch": "all",
+    "university": "GTU",
+    "files": [
+      {
+        "fileId": "egd-egd-sheets-1-pdf",
+        "title": "Sheets_1",
+        "description": "Comprehensive Study materials and notes for EGD. Includes 15 pages of content.",
+        "tag": "Notes",
+        "pages": 15,
+        "imageUrl": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem1-2/egd/Notes/egd-sheets-1-pdf_thumb.webp",
+        "url": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem1-2/egd/Notes/egd-sheets-1-pdf.pdf"
+      },
+      {
+        "fileId": "egd-egd-sheets-2-pdf",
+        "title": "Sheets_2",
+        "description": "Comprehensive Study materials and notes for EGD. Includes 15 pages of content.",
+        "tag": "Notes",
+        "pages": 15,
+        "imageUrl": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem1-2/egd/Notes/egd-sheets-2-pdf_thumb.webp",
+        "url": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem1-2/egd/Notes/egd-sheets-2-pdf.pdf"
+      },
+      {
+        "fileId": "egd-egd-ppts-pdf",
+        "title": "PPTs",
+        "description": "Comprehensive Presentation slides for EGD. Includes 283 pages of content.",
+        "tag": "PPTs",
+        "pages": 283,
+        "imageUrl": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem1-2/egd/PPTs/egd-ppts-pdf_thumb.webp",
+        "url": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem1-2/egd/PPTs/egd-ppts-pdf.pdf"
+      },
+      {
+        "fileId": "egd-2022-s-pdf",
+        "title": "2022 S",
+        "description": "Comprehensive Past Year Papers for EGD. Includes 26 pages of content.",
+        "tag": "PYQs",
+        "pages": 26,
+        "imageUrl": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem1-2/egd/PYQs/2022-s-pdf_thumb.webp",
+        "url": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem1-2/egd/PYQs/2022-s-pdf.pdf"
+      },
+      {
+        "fileId": "egd-2022-w-pdf",
+        "title": "2022 W",
+        "description": "Comprehensive Past Year Papers for EGD. Includes 29 pages of content.",
+        "tag": "PYQs",
+        "pages": 29,
+        "imageUrl": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem1-2/egd/PYQs/2022-w-pdf_thumb.webp",
+        "url": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem1-2/egd/PYQs/2022-w-pdf.pdf"
+      },
+      {
+        "fileId": "egd-2023-s-pdf",
+        "title": "2023 S",
+        "description": "Comprehensive Past Year Papers for EGD. Includes 26 pages of content.",
+        "tag": "PYQs",
+        "pages": 26,
+        "imageUrl": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem1-2/egd/PYQs/2023-s-pdf_thumb.webp",
+        "url": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem1-2/egd/PYQs/2023-s-pdf.pdf"
+      },
+      {
+        "fileId": "egd-2023-w-pdf",
+        "title": "2023 W",
+        "description": "Comprehensive Past Year Papers for EGD. Includes 29 pages of content.",
+        "tag": "PYQs",
+        "pages": 29,
+        "imageUrl": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem1-2/egd/PYQs/2023-w-pdf_thumb.webp",
+        "url": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem1-2/egd/PYQs/2023-w-pdf.pdf"
+      },
+      {
+        "fileId": "egd-2024-s-pdf",
+        "title": "2024 S",
+        "description": "Comprehensive Past Year Papers for EGD. Includes 26 pages of content.",
+        "tag": "PYQs",
+        "pages": 26,
+        "imageUrl": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem1-2/egd/PYQs/2024-s-pdf_thumb.webp",
+        "url": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem1-2/egd/PYQs/2024-s-pdf.pdf"
+      },
+      {
+        "fileId": "egd-2024-w-pdf",
+        "title": "2024 W",
+        "description": "Comprehensive Past Year Papers for EGD. Includes 25 pages of content.",
+        "tag": "PYQs",
+        "pages": 25,
+        "imageUrl": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem1-2/egd/PYQs/2024-w-pdf_thumb.webp",
+        "url": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem1-2/egd/PYQs/2024-w-pdf.pdf"
+      },
+      {
+        "fileId": "egd-egd-new-syllabus-papers-pdf",
+        "title": "New Syllabus Papers",
+        "description": "Comprehensive Past Year Papers for EGD. Includes 8 pages of content.",
+        "tag": "PYQs",
+        "pages": 8,
+        "imageUrl": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem1-2/egd/PYQs/egd-new-syllabus-papers-pdf_thumb.webp",
+        "url": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem1-2/egd/PYQs/egd-new-syllabus-papers-pdf.pdf"
+      },
+      {
+        "fileId": "egd-egd-old-syllabus-papers-pdf",
+        "title": "Old Syllabus Papers",
+        "description": "Comprehensive Past Year Papers for EGD. Includes 41 pages of content.",
+        "tag": "PYQs",
+        "pages": 41,
+        "imageUrl": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem1-2/egd/PYQs/egd-old-syllabus-papers-pdf_thumb.webp",
+        "url": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem1-2/egd/PYQs/egd-old-syllabus-papers-pdf.pdf"
+      },
+      {
+        "fileId": "egd-egd-pyqs-pdf",
+        "title": "PYQs",
+        "description": "Comprehensive Past Year Papers for EGD. Includes 36 pages of content.",
+        "tag": "PYQs",
+        "pages": 36,
+        "imageUrl": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem1-2/egd/PYQs/egd-pyqs-pdf_thumb.webp",
+        "url": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem1-2/egd/PYQs/egd-pyqs-pdf.pdf"
+      },
+      {
+        "fileId": "egd-egd-question-bank-pdf",
+        "title": "Question-Bank",
+        "description": "Comprehensive Past Year Papers for EGD. Includes 24 pages of content.",
+        "tag": "PYQs",
+        "pages": 24,
+        "imageUrl": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem1-2/egd/PYQs/egd-question-bank-pdf_thumb.webp",
+        "url": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem1-2/egd/PYQs/egd-question-bank-pdf.pdf"
+      },
+      {
+        "fileId": "egd-egd-syllabus-pdf",
+        "title": "Syllabus",
+        "description": "Comprehensive Official syllabus for EGD. Includes 5 pages of content.",
+        "tag": "Syllabus",
+        "pages": 5,
+        "imageUrl": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem1-2/egd/Syllabus/egd-syllabus-pdf_thumb.webp",
+        "url": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem1-2/egd/Syllabus/egd-syllabus-pdf.pdf"
+      }
+    ]
+  },
+  {
     "id": "ipdc",
     "title": "IPDC",
     "description": "Comprehensive Past Year Papers for IPDC. Includes 29 pages of content.",
