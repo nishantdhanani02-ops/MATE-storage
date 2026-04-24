@@ -1650,5 +1650,178 @@
         "url": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem2/fai/Syllabus/fai-syllabus.pdf"
       }
     ]
+  },
+  {
+    "id": "maths-2",
+    "title": "Mathematics 2",
+    "description": "Comprehensive Study materials and notes for Mathematics 2. Includes 880 pages of content.",
+    "subject": "Mathematics 2",
+    "semester": "2",
+    "branch": "all",
+    "university": "GTU",
+    "files": [
+      {
+        "fileId": "maths-2-ch-1-pdf",
+        "title": "Ch 1",
+        "description": "Comprehensive Study materials and notes for Mathematics 2. Includes 38 pages of content.",
+        "tag": "Books",
+        "pages": 38,
+        "imageUrl": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem2/maths-2/Books/ch-1-pdf_thumb.webp",
+        "url": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem2/maths-2/Books/ch-1-pdf.pdf"
+      },
+      {
+        "fileId": "maths-2-ch-2-pdf",
+        "title": "Ch 2",
+        "description": "Comprehensive Study materials and notes for Mathematics 2. Includes 26 pages of content.",
+        "tag": "Books",
+        "pages": 26,
+        "imageUrl": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem2/maths-2/Books/ch-2-pdf_thumb.webp",
+        "url": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem2/maths-2/Books/ch-2-pdf.pdf"
+      },
+      {
+        "fileId": "maths-2-ch-3-pdf",
+        "title": "Ch 3",
+        "description": "Comprehensive Study materials and notes for Mathematics 2. Includes 54 pages of content.",
+        "tag": "Books",
+        "pages": 54,
+        "imageUrl": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem2/maths-2/Books/ch-3-pdf_thumb.webp",
+        "url": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem2/maths-2/Books/ch-3-pdf.pdf"
+      },
+      {
+        "fileId": "maths-2-ch-4-pdf",
+        "title": "Ch 4",
+        "description": "Comprehensive Study materials and notes for Mathematics 2. Includes 25 pages of content.",
+        "tag": "Books",
+        "pages": 25,
+        "imageUrl": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem2/maths-2/Books/ch-4-pdf_thumb.webp",
+        "url": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem2/maths-2/Books/ch-4-pdf.pdf"
+      },
+      {
+        "fileId": "maths-2-ch-5-pdf",
+        "title": "Ch 5",
+        "description": "Comprehensive Study materials and notes for Mathematics 2. Includes 26 pages of content.",
+        "tag": "Books",
+        "pages": 26,
+        "imageUrl": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem2/maths-2/Books/ch-5-pdf_thumb.webp",
+        "url": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem2/maths-2/Books/ch-5-pdf.pdf"
+      },
+      {
+        "fileId": "maths-2-ch-6-pdf",
+        "title": "Ch 6",
+        "description": "Comprehensive Study materials and notes for Mathematics 2. Includes 59 pages of content.",
+        "tag": "Books",
+        "pages": 59,
+        "imageUrl": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem2/maths-2/Books/ch-6-pdf_thumb.webp",
+        "url": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem2/maths-2/Books/ch-6-pdf.pdf"
+      },
+      {
+        "fileId": "maths-2-engineering-mathematics-mcgrawhill-book-pdf",
+        "title": "Engineering Mathematics McGrawHill Book",
+        "description": "Comprehensive Study materials and notes for Mathematics 2. Includes 880 pages of content.",
+        "tag": "Books",
+        "pages": 880,
+        "imageUrl": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem2/maths-2/Books/engineering-mathematics-mcgrawhill-book-pdf_thumb.webp",
+        "url": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem2/maths-2/Books/engineering-mathematics-mcgrawhill-book-pdf.pdf"
+      },
+      {
+        "fileId": "maths-2-cvpde-darshan-notes-pdf",
+        "title": "CVPDE Darshan Notes",
+        "description": "Comprehensive Study materials and notes for Mathematics 2. Includes 91 pages of content.",
+        "tag": "Notes",
+        "pages": 91,
+        "imageUrl": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem2/maths-2/Notes/cvpde-darshan-notes-pdf_thumb.webp",
+        "url": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem2/maths-2/Notes/cvpde-darshan-notes-pdf.pdf"
+      },
+      {
+        "fileId": "maths-2-cvpde-papers-pdf",
+        "title": "CVPDE Papers",
+        "description": "Comprehensive Study materials and notes for Mathematics 2. Includes 46 pages of content.",
+        "tag": "Notes",
+        "pages": 46,
+        "imageUrl": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem2/maths-2/Notes/cvpde-papers-pdf_thumb.webp",
+        "url": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem2/maths-2/Notes/cvpde-papers-pdf.pdf"
+      },
+      {
+        "fileId": "maths-2-mathematics-2-darshan-notes-pdf",
+        "title": "Darshan Notes",
+        "description": "Comprehensive Study materials and notes for Mathematics 2. Includes 120 pages of content.",
+        "tag": "Notes",
+        "pages": 120,
+        "imageUrl": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem2/maths-2/Notes/mathematics-2-darshan-notes-pdf_thumb.webp",
+        "url": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem2/maths-2/Notes/mathematics-2-darshan-notes-pdf.pdf"
+      },
+      {
+        "fileId": "maths-2-mathematics-2-imp-pdf",
+        "title": "IMP",
+        "description": "Comprehensive Study materials and notes for Mathematics 2. Includes 2 pages of content.",
+        "tag": "Notes",
+        "pages": 2,
+        "imageUrl": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem2/maths-2/Notes/mathematics-2-imp-pdf_thumb.webp",
+        "url": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem2/maths-2/Notes/mathematics-2-imp-pdf.pdf"
+      },
+      {
+        "fileId": "maths-2-matrices-notes-pdf",
+        "title": "Matrices Notes",
+        "description": "Comprehensive Study materials and notes for Mathematics 2. Includes 26 pages of content.",
+        "tag": "Notes",
+        "pages": 26,
+        "imageUrl": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem2/maths-2/Notes/matrices-notes-pdf_thumb.webp",
+        "url": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem2/maths-2/Notes/matrices-notes-pdf.pdf"
+      },
+      {
+        "fileId": "maths-2-unit-1-a-pdf",
+        "title": "Unit 1_A",
+        "description": "Comprehensive Presentation slides for Mathematics 2. Includes 136 pages of content.",
+        "tag": "PPTs",
+        "pages": 136,
+        "imageUrl": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem2/maths-2/PPTs/unit-1-a-pdf_thumb.webp",
+        "url": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem2/maths-2/PPTs/unit-1-a-pdf.pdf"
+      },
+      {
+        "fileId": "maths-2-unit-1-b-pdf",
+        "title": "Unit 1_B",
+        "description": "Comprehensive Presentation slides for Mathematics 2. Includes 80 pages of content.",
+        "tag": "PPTs",
+        "pages": 80,
+        "imageUrl": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem2/maths-2/PPTs/unit-1-b-pdf_thumb.webp",
+        "url": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem2/maths-2/PPTs/unit-1-b-pdf.pdf"
+      },
+      {
+        "fileId": "maths-2-mathematics-1-old-syllabus-papers-pdf",
+        "title": "Mathematics-1 Old Syllabus Papers",
+        "description": "Comprehensive Past Year Papers for Mathematics 2. Includes 27 pages of content.",
+        "tag": "PYQs",
+        "pages": 27,
+        "imageUrl": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem2/maths-2/PYQs/mathematics-1-old-syllabus-papers-pdf_thumb.webp",
+        "url": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem2/maths-2/PYQs/mathematics-1-old-syllabus-papers-pdf.pdf"
+      },
+      {
+        "fileId": "maths-2-mathematics-2-new-syllabus-papers-pdf",
+        "title": "New Syllabus Papers",
+        "description": "Comprehensive Past Year Papers for Mathematics 2. Includes 5 pages of content.",
+        "tag": "PYQs",
+        "pages": 5,
+        "imageUrl": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem2/maths-2/PYQs/mathematics-2-new-syllabus-papers-pdf_thumb.webp",
+        "url": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem2/maths-2/PYQs/mathematics-2-new-syllabus-papers-pdf.pdf"
+      },
+      {
+        "fileId": "maths-2-mathematics-2-old-syllabus-papers-pdf",
+        "title": "Old Syllabus Papers",
+        "description": "Comprehensive Past Year Papers for Mathematics 2. Includes 24 pages of content.",
+        "tag": "PYQs",
+        "pages": 24,
+        "imageUrl": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem2/maths-2/PYQs/mathematics-2-old-syllabus-papers-pdf_thumb.webp",
+        "url": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem2/maths-2/PYQs/mathematics-2-old-syllabus-papers-pdf.pdf"
+      },
+      {
+        "fileId": "maths-2-mathematics-2-syllabus-pdf",
+        "title": "Syllabus",
+        "description": "Comprehensive Official syllabus for Mathematics 2. Includes 4 pages of content.",
+        "tag": "Syllabus",
+        "pages": 4,
+        "imageUrl": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem2/maths-2/Syllabus/mathematics-2-syllabus-pdf_thumb.webp",
+        "url": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem2/maths-2/Syllabus/mathematics-2-syllabus-pdf.pdf"
+      }
+    ]
   }
 ]
