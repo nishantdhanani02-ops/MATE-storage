@@ -550,6 +550,98 @@
     ]
   },
   {
+    "id": "ipdc",
+    "title": "IPDC",
+    "description": "Comprehensive Past Year Papers for IPDC. Includes 29 pages of content.",
+    "subject": "IPDC",
+    "semester": "1-2",
+    "branch": "all",
+    "university": "GTU",
+    "files": [
+      {
+        "fileId": "ipdc-ipdc-cpdp-uhv-paper-format-pdf",
+        "title": "_CPDP_UHV Paper Format",
+        "description": "Comprehensive Study materials and notes for IPDC. Includes 1 pages of content.",
+        "tag": "Notes",
+        "pages": 1,
+        "imageUrl": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem1-2/ipdc/Notes/ipdc-cpdp-uhv-paper-format-pdf_thumb.webp",
+        "url": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem1-2/ipdc/Notes/ipdc-cpdp-uhv-paper-format-pdf.pdf"
+      },
+      {
+        "fileId": "ipdc-ipdc-sample-paper-pdf",
+        "title": "Sample Paper",
+        "description": "Comprehensive Study materials and notes for IPDC. Includes 4 pages of content.",
+        "tag": "Notes",
+        "pages": 4,
+        "imageUrl": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem1-2/ipdc/Notes/ipdc-sample-paper-pdf_thumb.webp",
+        "url": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem1-2/ipdc/Notes/ipdc-sample-paper-pdf.pdf"
+      },
+      {
+        "fileId": "ipdc-ipdc-descriptive-answers-guide-pdf",
+        "title": "Descriptive Answers Guide",
+        "description": "Comprehensive Past Year Papers for IPDC. Includes 3 pages of content.",
+        "tag": "PYQs",
+        "pages": 3,
+        "imageUrl": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem1-2/ipdc/PYQs/ipdc-descriptive-answers-guide-pdf_thumb.webp",
+        "url": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem1-2/ipdc/PYQs/ipdc-descriptive-answers-guide-pdf.pdf"
+      },
+      {
+        "fileId": "ipdc-ipdc-descriptive-questions-1-pdf",
+        "title": "Descriptive Questions_1",
+        "description": "Comprehensive Past Year Papers for IPDC. Includes 3 pages of content.",
+        "tag": "PYQs",
+        "pages": 3,
+        "imageUrl": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem1-2/ipdc/PYQs/ipdc-descriptive-questions-1-pdf_thumb.webp",
+        "url": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem1-2/ipdc/PYQs/ipdc-descriptive-questions-1-pdf.pdf"
+      },
+      {
+        "fileId": "ipdc-ipdc-descriptive-questions-2-pdf",
+        "title": "Descriptive Questions_2",
+        "description": "Comprehensive Past Year Papers for IPDC. Includes 6 pages of content.",
+        "tag": "PYQs",
+        "pages": 6,
+        "imageUrl": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem1-2/ipdc/PYQs/ipdc-descriptive-questions-2-pdf_thumb.webp",
+        "url": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem1-2/ipdc/PYQs/ipdc-descriptive-questions-2-pdf.pdf"
+      },
+      {
+        "fileId": "ipdc-ipdc-past-paper-solution-pdf",
+        "title": "Past Paper Solution",
+        "description": "Comprehensive Past Year Papers for IPDC. Includes 58 pages of content.",
+        "tag": "PYQs",
+        "pages": 58,
+        "imageUrl": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem1-2/ipdc/PYQs/ipdc-past-paper-solution-pdf_thumb.webp",
+        "url": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem1-2/ipdc/PYQs/ipdc-past-paper-solution-pdf.pdf"
+      },
+      {
+        "fileId": "ipdc-ipdc-past-papers-pdf",
+        "title": "Past Papers",
+        "description": "Comprehensive Past Year Papers for IPDC. Includes 103 pages of content.",
+        "tag": "PYQs",
+        "pages": 103,
+        "imageUrl": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem1-2/ipdc/PYQs/ipdc-past-papers-pdf_thumb.webp",
+        "url": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem1-2/ipdc/PYQs/ipdc-past-papers-pdf.pdf"
+      },
+      {
+        "fileId": "ipdc-ipdc-question-bank-pdf",
+        "title": "Question-Bank",
+        "description": "Comprehensive Past Year Papers for IPDC. Includes 29 pages of content.",
+        "tag": "PYQs",
+        "pages": 29,
+        "imageUrl": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem1-2/ipdc/PYQs/ipdc-question-bank-pdf_thumb.webp",
+        "url": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem1-2/ipdc/PYQs/ipdc-question-bank-pdf.pdf"
+      },
+      {
+        "fileId": "ipdc-ipdc-syllabus-pdf",
+        "title": "Syllabus",
+        "description": "Comprehensive Official syllabus for IPDC. Includes 8 pages of content.",
+        "tag": "Syllabus",
+        "pages": 8,
+        "imageUrl": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem1-2/ipdc/Syllabus/ipdc-syllabus-pdf_thumb.webp",
+        "url": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem1-2/ipdc/Syllabus/ipdc-syllabus-pdf.pdf"
+      }
+    ]
+  },
+  {
     "id": "maths-1",
     "title": "Mathematics 1",
     "description": "Maths-1: All types of Notes and books.",
