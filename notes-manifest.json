@@ -1035,6 +1035,278 @@
     ]
   },
   {
+    "id": "pps",
+    "title": "PPS",
+    "description": "Comprehensive Study materials and notes for PPS. Includes 412 pages of content.",
+    "subject": "PPS",
+    "semester": "1-2",
+    "branch": "all",
+    "university": "GTU",
+    "files": [
+      {
+        "fileId": "pps-pps-mcgrawhill-book-pdf",
+        "title": "McGrawHill Book",
+        "description": "Comprehensive Study materials and notes for PPS. Includes 412 pages of content.",
+        "tag": "Books",
+        "pages": 412,
+        "imageUrl": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem1-2/pps/Books/pps-mcgrawhill-book-pdf_thumb.webp",
+        "url": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem1-2/pps/Books/pps-mcgrawhill-book-pdf.pdf"
+      },
+      {
+        "fileId": "pps-ch-1-pdf",
+        "title": "Ch 1",
+        "description": "Comprehensive Presentation slides for PPS. Includes 14 pages of content.",
+        "tag": "PPTs",
+        "pages": 14,
+        "imageUrl": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem1-2/pps/PPTs/ch-1-pdf_thumb.webp",
+        "url": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem1-2/pps/Notes/ch-1-pdf.pdf"
+      },
+      {
+        "fileId": "pps-ch-10-pdf",
+        "title": "Ch 10",
+        "description": "Comprehensive Study materials and notes for PPS. Includes 12 pages of content.",
+        "tag": "Notes",
+        "pages": 12,
+        "imageUrl": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem1-2/pps/Notes/ch-10-pdf_thumb.webp",
+        "url": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem1-2/pps/Notes/ch-10-pdf.pdf"
+      },
+      {
+        "fileId": "pps-pps-most-imp-q-as-pdf",
+        "title": "Most IMP Q&As",
+        "description": "Comprehensive Study materials and notes for PPS. Includes 64 pages of content.",
+        "tag": "Notes",
+        "pages": 64,
+        "imageUrl": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem1-2/pps/Notes/pps-most-imp-q-as-pdf_thumb.webp",
+        "url": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem1-2/pps/Notes/pps-most-imp-q-as-pdf.pdf"
+      },
+      {
+        "fileId": "pps-ch-1-pdf",
+        "title": "Ch 1",
+        "description": "Comprehensive Presentation slides for PPS. Includes 14 pages of content.",
+        "tag": "PPTs",
+        "pages": 14,
+        "imageUrl": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem1-2/pps/PPTs/ch-1-pdf_thumb.webp",
+        "url": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem1-2/pps/PPTs/ch-1-pdf.pdf"
+      },
+      {
+        "fileId": "pps-ch-2-1-fundamentals-pdf",
+        "title": "Ch 2_1-Fundamentals",
+        "description": "Comprehensive Presentation slides for PPS. Includes 35 pages of content.",
+        "tag": "PPTs",
+        "pages": 35,
+        "imageUrl": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem1-2/pps/PPTs/ch-2-1-fundamentals-pdf_thumb.webp",
+        "url": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem1-2/pps/PPTs/ch-2-1-fundamentals-pdf.pdf"
+      },
+      {
+        "fileId": "pps-ch-2-2-data-types-pdf",
+        "title": "Ch 2_2-Data Types",
+        "description": "Comprehensive Presentation slides for PPS. Includes 21 pages of content.",
+        "tag": "PPTs",
+        "pages": 21,
+        "imageUrl": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem1-2/pps/PPTs/ch-2-2-data-types-pdf_thumb.webp",
+        "url": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem1-2/pps/PPTs/ch-2-2-data-types-pdf.pdf"
+      },
+      {
+        "fileId": "pps-ch-2-3-operators-pdf",
+        "title": "Ch 2_3-Operators",
+        "description": "Comprehensive Presentation slides for PPS. Includes 35 pages of content.",
+        "tag": "PPTs",
+        "pages": 35,
+        "imageUrl": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem1-2/pps/PPTs/ch-2-3-operators-pdf_thumb.webp",
+        "url": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem1-2/pps/PPTs/ch-2-3-operators-pdf.pdf"
+      },
+      {
+        "fileId": "pps-ch-2-pdf",
+        "title": "Ch 2",
+        "description": "Comprehensive Presentation slides for PPS. Includes 17 pages of content.",
+        "tag": "PPTs",
+        "pages": 17,
+        "imageUrl": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem1-2/pps/PPTs/ch-2-pdf_thumb.webp",
+        "url": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem1-2/pps/PPTs/ch-2-pdf.pdf"
+      },
+      {
+        "fileId": "pps-ch-3-loops-pdf",
+        "title": "Ch 3_Loops",
+        "description": "Comprehensive Presentation slides for PPS. Includes 44 pages of content.",
+        "tag": "PPTs",
+        "pages": 44,
+        "imageUrl": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem1-2/pps/PPTs/ch-3-loops-pdf_thumb.webp",
+        "url": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem1-2/pps/PPTs/ch-3-loops-pdf.pdf"
+      },
+      {
+        "fileId": "pps-ch-3-pdf",
+        "title": "Ch 3",
+        "description": "Comprehensive Presentation slides for PPS. Includes 16 pages of content.",
+        "tag": "PPTs",
+        "pages": 16,
+        "imageUrl": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem1-2/pps/PPTs/ch-3-pdf_thumb.webp",
+        "url": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem1-2/pps/PPTs/ch-3-pdf.pdf"
+      },
+      {
+        "fileId": "pps-ch-4-functions-pdf",
+        "title": "Ch 4_Functions",
+        "description": "Comprehensive Presentation slides for PPS. Includes 15 pages of content.",
+        "tag": "PPTs",
+        "pages": 15,
+        "imageUrl": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem1-2/pps/PPTs/ch-4-functions-pdf_thumb.webp",
+        "url": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem1-2/pps/PPTs/ch-4-functions-pdf.pdf"
+      },
+      {
+        "fileId": "pps-ch-4-pdf",
+        "title": "Ch 4",
+        "description": "Comprehensive Presentation slides for PPS. Includes 53 pages of content.",
+        "tag": "PPTs",
+        "pages": 53,
+        "imageUrl": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem1-2/pps/PPTs/ch-4-pdf_thumb.webp",
+        "url": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem1-2/pps/PPTs/ch-4-pdf.pdf"
+      },
+      {
+        "fileId": "pps-ch-4-recursion-pdf",
+        "title": "Ch 4_Recursion",
+        "description": "Comprehensive Presentation slides for PPS. Includes 10 pages of content.",
+        "tag": "PPTs",
+        "pages": 10,
+        "imageUrl": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem1-2/pps/PPTs/ch-4-recursion-pdf_thumb.webp",
+        "url": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem1-2/pps/PPTs/ch-4-recursion-pdf.pdf"
+      },
+      {
+        "fileId": "pps-ch-5-pdf",
+        "title": "Ch 5",
+        "description": "Comprehensive Presentation slides for PPS. Includes 15 pages of content.",
+        "tag": "PPTs",
+        "pages": 15,
+        "imageUrl": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem1-2/pps/PPTs/ch-5-pdf_thumb.webp",
+        "url": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem1-2/pps/PPTs/ch-5-pdf.pdf"
+      },
+      {
+        "fileId": "pps-ch-6-pdf",
+        "title": "Ch 6",
+        "description": "Comprehensive Presentation slides for PPS. Includes 23 pages of content.",
+        "tag": "PPTs",
+        "pages": 23,
+        "imageUrl": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem1-2/pps/PPTs/ch-6-pdf_thumb.webp",
+        "url": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem1-2/pps/PPTs/ch-6-pdf.pdf"
+      },
+      {
+        "fileId": "pps-ch-7-structures-pdf",
+        "title": "Ch 7_Structures",
+        "description": "Comprehensive Presentation slides for PPS. Includes 16 pages of content.",
+        "tag": "PPTs",
+        "pages": 16,
+        "imageUrl": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem1-2/pps/PPTs/ch-7-structures-pdf_thumb.webp",
+        "url": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem1-2/pps/PPTs/ch-7-structures-pdf.pdf"
+      },
+      {
+        "fileId": "pps-ch-7-unions-pdf",
+        "title": "Ch 7_Unions",
+        "description": "Comprehensive Presentation slides for PPS. Includes 7 pages of content.",
+        "tag": "PPTs",
+        "pages": 7,
+        "imageUrl": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem1-2/pps/PPTs/ch-7-unions-pdf_thumb.webp",
+        "url": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem1-2/pps/PPTs/ch-7-unions-pdf.pdf"
+      },
+      {
+        "fileId": "pps-ch-8-pdf",
+        "title": "Ch 8",
+        "description": "Comprehensive Presentation slides for PPS. Includes 16 pages of content.",
+        "tag": "PPTs",
+        "pages": 16,
+        "imageUrl": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem1-2/pps/PPTs/ch-8-pdf_thumb.webp",
+        "url": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem1-2/pps/PPTs/ch-8-pdf.pdf"
+      },
+      {
+        "fileId": "pps-ch-9-pdf",
+        "title": "Ch 9",
+        "description": "Comprehensive Presentation slides for PPS. Includes 13 pages of content.",
+        "tag": "PPTs",
+        "pages": 13,
+        "imageUrl": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem1-2/pps/PPTs/ch-9-pdf_thumb.webp",
+        "url": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem1-2/pps/PPTs/ch-9-pdf.pdf"
+      },
+      {
+        "fileId": "pps-ch-1-pdf",
+        "title": "Ch 1",
+        "description": "Comprehensive Presentation slides for PPS. Includes 14 pages of content.",
+        "tag": "PPTs",
+        "pages": 14,
+        "imageUrl": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem1-2/pps/PPTs/ch-1-pdf_thumb.webp",
+        "url": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem1-2/pps/PYQs/ch-1-pdf.pdf"
+      },
+      {
+        "fileId": "pps-ch-2-pdf",
+        "title": "Ch 2",
+        "description": "Comprehensive Presentation slides for PPS. Includes 17 pages of content.",
+        "tag": "PPTs",
+        "pages": 17,
+        "imageUrl": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem1-2/pps/PPTs/ch-2-pdf_thumb.webp",
+        "url": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem1-2/pps/PYQs/ch-2-pdf.pdf"
+      },
+      {
+        "fileId": "pps-ch-3-pdf",
+        "title": "Ch 3",
+        "description": "Comprehensive Presentation slides for PPS. Includes 16 pages of content.",
+        "tag": "PPTs",
+        "pages": 16,
+        "imageUrl": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem1-2/pps/PPTs/ch-3-pdf_thumb.webp",
+        "url": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem1-2/pps/PYQs/ch-3-pdf.pdf"
+      },
+      {
+        "fileId": "pps-ch-5-pdf",
+        "title": "Ch 5",
+        "description": "Comprehensive Presentation slides for PPS. Includes 15 pages of content.",
+        "tag": "PPTs",
+        "pages": 15,
+        "imageUrl": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem1-2/pps/PPTs/ch-5-pdf_thumb.webp",
+        "url": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem1-2/pps/PYQs/ch-5-pdf.pdf"
+      },
+      {
+        "fileId": "pps-pps-new-syllabus-papers-pdf",
+        "title": "New Syllabus Papers",
+        "description": "Comprehensive Past Year Papers for PPS. Includes 6 pages of content.",
+        "tag": "PYQs",
+        "pages": 6,
+        "imageUrl": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem1-2/pps/PYQs/pps-new-syllabus-papers-pdf_thumb.webp",
+        "url": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem1-2/pps/PYQs/pps-new-syllabus-papers-pdf.pdf"
+      },
+      {
+        "fileId": "pps-pps-old-syllabus-papers-pdf",
+        "title": "Old Syllabus Papers",
+        "description": "Comprehensive Past Year Papers for PPS. Includes 24 pages of content.",
+        "tag": "PYQs",
+        "pages": 24,
+        "imageUrl": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem1-2/pps/PYQs/pps-old-syllabus-papers-pdf_thumb.webp",
+        "url": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem1-2/pps/PYQs/pps-old-syllabus-papers-pdf.pdf"
+      },
+      {
+        "fileId": "pps-pps-pyqs-pdf",
+        "title": "PYQs",
+        "description": "Comprehensive Past Year Papers for PPS. Includes 33 pages of content.",
+        "tag": "PYQs",
+        "pages": 33,
+        "imageUrl": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem1-2/pps/PYQs/pps-pyqs-pdf_thumb.webp",
+        "url": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem1-2/pps/PYQs/pps-pyqs-pdf.pdf"
+      },
+      {
+        "fileId": "pps-pps-question-bank-pdf",
+        "title": "Question-Bank",
+        "description": "Comprehensive Past Year Papers for PPS. Includes 6 pages of content.",
+        "tag": "PYQs",
+        "pages": 6,
+        "imageUrl": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem1-2/pps/PYQs/pps-question-bank-pdf_thumb.webp",
+        "url": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem1-2/pps/PYQs/pps-question-bank-pdf.pdf"
+      },
+      {
+        "fileId": "pps-pps-syllabus-pdf",
+        "title": "Syllabus",
+        "description": "Comprehensive Official syllabus for PPS. Includes 6 pages of content.",
+        "tag": "Syllabus",
+        "pages": 6,
+        "imageUrl": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem1-2/pps/Syllabus/pps-syllabus-pdf_thumb.webp",
+        "url": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem1-2/pps/Syllabus/pps-syllabus-pdf.pdf"
+      }
+    ]
+  },
+  {
     "id": "maths-1",
     "title": "Mathematics 1",
     "description": "Maths-1: All types of Notes and books.",
