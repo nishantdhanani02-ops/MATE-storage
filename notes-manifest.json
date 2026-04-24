@@ -164,6 +164,89 @@
     ]
   },
   {
+    "id": "bme",
+    "title": "BME",
+    "description": "Comprehensive Study materials and notes for BME. Includes 175 pages of content.",
+    "subject": "BME",
+    "semester": "1-2",
+    "branch": "all",
+    "university": "GTU",
+    "files": [
+      {
+        "fileId": "bme-bme-pearson-book-pdf",
+        "title": "Pearson Book",
+        "description": "Comprehensive Study materials and notes for BME. Includes 785 pages of content.",
+        "tag": "Books",
+        "pages": 785,
+        "imageUrl": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem1-2/bme/Books/bme-pearson-book-pdf_thumb.webp",
+        "url": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem1-2/bme/Books/bme-pearson-book-pdf.pdf"
+      },
+      {
+        "fileId": "bme-bme-darshan-notes-pdf",
+        "title": "Darshan Notes",
+        "description": "Comprehensive Study materials and notes for BME. Includes 175 pages of content.",
+        "tag": "Notes",
+        "pages": 175,
+        "imageUrl": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem1-2/bme/Notes/bme-darshan-notes-pdf_thumb.webp",
+        "url": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem1-2/bme/Notes/bme-darshan-notes-pdf.pdf"
+      },
+      {
+        "fileId": "bme-bme-q-as-pdf",
+        "title": "Q&As",
+        "description": "Comprehensive Study materials and notes for BME. Includes 46 pages of content.",
+        "tag": "Notes",
+        "pages": 46,
+        "imageUrl": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem1-2/bme/Notes/bme-q-as-pdf_thumb.webp",
+        "url": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem1-2/bme/Notes/bme-q-as-pdf.pdf"
+      },
+      {
+        "fileId": "bme-bme-new-syllabus-papers-pdf",
+        "title": "New Syllabus Papers",
+        "description": "Comprehensive Past Year Papers for BME. Includes 6 pages of content.",
+        "tag": "PYQs",
+        "pages": 6,
+        "imageUrl": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem1-2/bme/PYQs/bme-new-syllabus-papers-pdf_thumb.webp",
+        "url": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem1-2/bme/PYQs/bme-new-syllabus-papers-pdf.pdf"
+      },
+      {
+        "fileId": "bme-bme-old-syllabus-papers-pdf",
+        "title": "Old Syllabus Papers",
+        "description": "Comprehensive Past Year Papers for BME. Includes 28 pages of content.",
+        "tag": "PYQs",
+        "pages": 28,
+        "imageUrl": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem1-2/bme/PYQs/bme-old-syllabus-papers-pdf_thumb.webp",
+        "url": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem1-2/bme/PYQs/bme-old-syllabus-papers-pdf.pdf"
+      },
+      {
+        "fileId": "bme-bme-pyqs-pdf",
+        "title": "PYQs",
+        "description": "Comprehensive Past Year Papers for BME. Includes 67 pages of content.",
+        "tag": "PYQs",
+        "pages": 67,
+        "imageUrl": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem1-2/bme/PYQs/bme-pyqs-pdf_thumb.webp",
+        "url": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem1-2/bme/PYQs/bme-pyqs-pdf.pdf"
+      },
+      {
+        "fileId": "bme-bme-question-bank-pdf",
+        "title": "Question-Bank",
+        "description": "Comprehensive Past Year Papers for BME. Includes 4 pages of content.",
+        "tag": "PYQs",
+        "pages": 4,
+        "imageUrl": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem1-2/bme/PYQs/bme-question-bank-pdf_thumb.webp",
+        "url": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem1-2/bme/PYQs/bme-question-bank-pdf.pdf"
+      },
+      {
+        "fileId": "bme-bme-syllabus-pdf",
+        "title": "Syllabus",
+        "description": "Comprehensive Official syllabus for BME. Includes 5 pages of content.",
+        "tag": "Syllabus",
+        "pages": 5,
+        "imageUrl": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem1-2/bme/Syllabus/bme-syllabus-pdf_thumb.webp",
+        "url": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem1-2/bme/Syllabus/bme-syllabus-pdf.pdf"
+      }
+    ]
+  },
+  {
     "id": "chemistry",
     "title": "Chemistry",
     "description": "Chemistry Book with all Chapters",
