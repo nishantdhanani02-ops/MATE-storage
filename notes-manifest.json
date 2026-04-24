@@ -1333,6 +1333,89 @@
     ]
   },
   {
+    "id": "uhv",
+    "title": "UHV",
+    "description": "Comprehensive Study materials and notes for UHV. Includes 1 pages of content.",
+    "subject": "UHV",
+    "semester": "1",
+    "branch": "all",
+    "university": "GTU",
+    "files": [
+      {
+        "fileId": "uhv-ipdc-cpdp-uhv-paper-format-pdf",
+        "title": "IPDC_CPDP_UHV Paper Format",
+        "description": "Comprehensive Study materials and notes for UHV. Includes 1 pages of content.",
+        "tag": "Notes",
+        "pages": 1,
+        "imageUrl": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem1/uhv/Notes/ipdc-cpdp-uhv-paper-format-pdf_thumb.webp",
+        "url": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem1/uhv/Notes/ipdc-cpdp-uhv-paper-format-pdf.pdf"
+      },
+      {
+        "fileId": "uhv-uhv-sample-paper-pdf",
+        "title": "Sample Paper",
+        "description": "Comprehensive Study materials and notes for UHV. Includes 2 pages of content.",
+        "tag": "Notes",
+        "pages": 2,
+        "imageUrl": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem1/uhv/Notes/uhv-sample-paper-pdf_thumb.webp",
+        "url": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem1/uhv/Notes/uhv-sample-paper-pdf.pdf"
+      },
+      {
+        "fileId": "uhv-2024-w-pdf",
+        "title": "2024 W",
+        "description": "Comprehensive Past Year Papers for UHV. Includes 5 pages of content.",
+        "tag": "PYQs",
+        "pages": 5,
+        "imageUrl": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem1/uhv/PYQs/2024-w-pdf_thumb.webp",
+        "url": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem1/uhv/PYQs/2024-w-pdf.pdf"
+      },
+      {
+        "fileId": "uhv-2025-s-pdf",
+        "title": "2025 S",
+        "description": "Comprehensive Past Year Papers for UHV. Includes 5 pages of content.",
+        "tag": "PYQs",
+        "pages": 5,
+        "imageUrl": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem1/uhv/PYQs/2025-s-pdf_thumb.webp",
+        "url": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem1/uhv/PYQs/2025-s-pdf.pdf"
+      },
+      {
+        "fileId": "uhv-uhv-descriptive-questions-pdf",
+        "title": "Descriptive Questions",
+        "description": "Comprehensive Past Year Papers for UHV. Includes 4 pages of content.",
+        "tag": "PYQs",
+        "pages": 4,
+        "imageUrl": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem1/uhv/PYQs/uhv-descriptive-questions-pdf_thumb.webp",
+        "url": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem1/uhv/PYQs/uhv-descriptive-questions-pdf.pdf"
+      },
+      {
+        "fileId": "uhv-uhv-past-papers-pdf",
+        "title": "Past Papers",
+        "description": "Comprehensive Past Year Papers for UHV. Includes 10 pages of content.",
+        "tag": "PYQs",
+        "pages": 10,
+        "imageUrl": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem1/uhv/PYQs/uhv-past-papers-pdf_thumb.webp",
+        "url": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem1/uhv/PYQs/uhv-past-papers-pdf.pdf"
+      },
+      {
+        "fileId": "uhv-uhv-question-bank-pdf",
+        "title": "Question-Bank",
+        "description": "Comprehensive Past Year Papers for UHV. Includes 27 pages of content.",
+        "tag": "PYQs",
+        "pages": 27,
+        "imageUrl": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem1/uhv/PYQs/uhv-question-bank-pdf_thumb.webp",
+        "url": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem1/uhv/PYQs/uhv-question-bank-pdf.pdf"
+      },
+      {
+        "fileId": "uhv-uhv-syllabus-pdf",
+        "title": "Syllabus",
+        "description": "Comprehensive Official syllabus for UHV. Includes 6 pages of content.",
+        "tag": "Syllabus",
+        "pages": 6,
+        "imageUrl": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem1/uhv/Syllabus/uhv-syllabus-pdf_thumb.webp",
+        "url": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem1/uhv/Syllabus/uhv-syllabus-pdf.pdf"
+      }
+    ]
+  },
+  {
     "id": "english",
     "title": "English",
     "description": "Comprehensive Study materials and notes for English. Includes 20 pages of content.",
