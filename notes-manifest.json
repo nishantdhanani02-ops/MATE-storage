@@ -1426,6 +1426,62 @@
     ]
   },
   {
+    "id": "sem-1-2-files",
+    "title": "Sem 1 2 Files",
+    "description": "Comprehensive Official syllabus for SEM 1-2 Files. Includes 4 pages of content.",
+    "subject": "Sem 1 2 Files",
+    "semester": "1-2",
+    "branch": "all",
+    "university": "GTU",
+    "files": [
+      {
+        "fileId": "sem-1-2-files-gtu-exam-paper-format-pdf",
+        "title": "GTU Exam Paper Format",
+        "description": "Comprehensive Study materials and notes for SEM 1-2 Files. Includes 2 pages of content.",
+        "tag": "Notes",
+        "pages": 2,
+        "imageUrl": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem1-2/sem-1-2-files/Notes/gtu-exam-paper-format-pdf_thumb.webp",
+        "url": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem1-2/sem-1-2-files/Notes/gtu-exam-paper-format-pdf.pdf"
+      },
+      {
+        "fileId": "sem-1-2-files-dfw-syllabus-pdf",
+        "title": "DFW Syllabus",
+        "description": "Comprehensive Official syllabus for SEM 1-2 Files. Includes 4 pages of content.",
+        "tag": "Syllabus",
+        "pages": 4,
+        "imageUrl": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem1-2/sem-1-2-files/Syllabus/dfw-syllabus-pdf_thumb.webp",
+        "url": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem1-2/sem-1-2-files/Syllabus/dfw-syllabus-pdf.pdf"
+      },
+      {
+        "fileId": "sem-1-2-files-dt-syllabus-pdf",
+        "title": "DT Syllabus",
+        "description": "Comprehensive Official syllabus for SEM 1-2 Files. Includes 4 pages of content.",
+        "tag": "Syllabus",
+        "pages": 4,
+        "imageUrl": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem1-2/sem-1-2-files/Syllabus/dt-syllabus-pdf_thumb.webp",
+        "url": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem1-2/sem-1-2-files/Syllabus/dt-syllabus-pdf.pdf"
+      },
+      {
+        "fileId": "sem-1-2-files-sqe-syllabus-pdf",
+        "title": "SQE Syllabus",
+        "description": "Comprehensive Official syllabus for SEM 1-2 Files. Includes 6 pages of content.",
+        "tag": "Syllabus",
+        "pages": 6,
+        "imageUrl": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem1-2/sem-1-2-files/Syllabus/sqe-syllabus-pdf_thumb.webp",
+        "url": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem1-2/sem-1-2-files/Syllabus/sqe-syllabus-pdf.pdf"
+      },
+      {
+        "fileId": "sem-1-2-files-wmf-syllabus-pdf",
+        "title": "WMF Syllabus",
+        "description": "Comprehensive Official syllabus for SEM 1-2 Files. Includes 4 pages of content.",
+        "tag": "Syllabus",
+        "pages": 4,
+        "imageUrl": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem1-2/sem-1-2-files/Syllabus/wmf-syllabus-pdf_thumb.webp",
+        "url": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem1-2/sem-1-2-files/Syllabus/wmf-syllabus-pdf.pdf"
+      }
+    ]
+  },
+  {
     "id": "maths-1",
     "title": "Mathematics 1",
     "description": "Maths-1: All types of Notes and books.",
