@@ -2126,6 +2126,107 @@
     ]
   },
   {
+    "id": "ipr",
+    "title": "IPR",
+    "description": "Comprehensive Study materials and notes for IPR. Includes 110 pages of content.",
+    "subject": "IPR",
+    "semester": "2",
+    "branch": "all",
+    "university": "GTU",
+    "files": [
+      {
+        "fileId": "ipr-ch-1-pdf",
+        "title": "Ch 1",
+        "description": "Comprehensive Study materials and notes for IPR. Includes 2 pages of content.",
+        "tag": "Notes",
+        "pages": 2,
+        "imageUrl": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem2/ipr/Notes/ch-1-pdf_thumb.webp",
+        "url": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem2/ipr/Books/ch-1-pdf.pdf"
+      },
+      {
+        "fileId": "ipr-ch-2-pdf",
+        "title": "Ch 2",
+        "description": "Comprehensive Study materials and notes for IPR. Includes 3 pages of content.",
+        "tag": "Notes",
+        "pages": 3,
+        "imageUrl": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem2/ipr/Notes/ch-2-pdf_thumb.webp",
+        "url": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem2/ipr/Books/ch-2-pdf.pdf"
+      },
+      {
+        "fileId": "ipr-ch-3-pdf",
+        "title": "Ch 3",
+        "description": "Comprehensive Study materials and notes for IPR. Includes 13 pages of content.",
+        "tag": "Books",
+        "pages": 13,
+        "imageUrl": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem2/ipr/Books/ch-3-pdf_thumb.webp",
+        "url": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem2/ipr/Books/ch-3-pdf.pdf"
+      },
+      {
+        "fileId": "ipr-ch-4-pdf",
+        "title": "Ch 4",
+        "description": "Comprehensive Study materials and notes for IPR. Includes 11 pages of content.",
+        "tag": "Books",
+        "pages": 11,
+        "imageUrl": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem2/ipr/Books/ch-4-pdf_thumb.webp",
+        "url": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem2/ipr/Books/ch-4-pdf.pdf"
+      },
+      {
+        "fileId": "ipr-ch-5-pdf",
+        "title": "Ch 5",
+        "description": "Comprehensive Study materials and notes for IPR. Includes 13 pages of content.",
+        "tag": "Books",
+        "pages": 13,
+        "imageUrl": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem2/ipr/Books/ch-5-pdf_thumb.webp",
+        "url": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem2/ipr/Books/ch-5-pdf.pdf"
+      },
+      {
+        "fileId": "ipr-ch-1-pdf",
+        "title": "Ch 1",
+        "description": "Comprehensive Study materials and notes for IPR. Includes 2 pages of content.",
+        "tag": "Notes",
+        "pages": 2,
+        "imageUrl": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem2/ipr/Notes/ch-1-pdf_thumb.webp",
+        "url": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem2/ipr/Notes/ch-1-pdf.pdf"
+      },
+      {
+        "fileId": "ipr-ch-2-pdf",
+        "title": "Ch 2",
+        "description": "Comprehensive Study materials and notes for IPR. Includes 3 pages of content.",
+        "tag": "Notes",
+        "pages": 3,
+        "imageUrl": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem2/ipr/Notes/ch-2-pdf_thumb.webp",
+        "url": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem2/ipr/Notes/ch-2-pdf.pdf"
+      },
+      {
+        "fileId": "ipr-ipr-notes-pdf",
+        "title": "Notes",
+        "description": "Comprehensive Study materials and notes for IPR. Includes 110 pages of content.",
+        "tag": "Notes",
+        "pages": 110,
+        "imageUrl": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem2/ipr/Notes/ipr-notes-pdf_thumb.webp",
+        "url": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem2/ipr/Notes/ipr-notes-pdf.pdf"
+      },
+      {
+        "fileId": "ipr-ipr-papers-pdf",
+        "title": "Papers",
+        "description": "Comprehensive Study materials and notes for IPR. Includes 4 pages of content.",
+        "tag": "Notes",
+        "pages": 4,
+        "imageUrl": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem2/ipr/Notes/ipr-papers-pdf_thumb.webp",
+        "url": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem2/ipr/Notes/ipr-papers-pdf.pdf"
+      },
+      {
+        "fileId": "ipr-ipr-syllabus-pdf",
+        "title": "Syllabus",
+        "description": "Comprehensive Official syllabus for IPR. Includes 4 pages of content.",
+        "tag": "Syllabus",
+        "pages": 4,
+        "imageUrl": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem2/ipr/Syllabus/ipr-syllabus-pdf_thumb.webp",
+        "url": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem2/ipr/Syllabus/ipr-syllabus-pdf.pdf"
+      }
+    ]
+  },
+  {
     "id": "maths-2",
     "title": "Mathematics 2",
     "description": "Comprehensive Study materials and notes for Mathematics 2. Includes 880 pages of content.",
