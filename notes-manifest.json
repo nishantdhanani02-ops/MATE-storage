@@ -844,6 +844,197 @@
     ]
   },
   {
+    "id": "physics",
+    "title": "Physics",
+    "description": "Comprehensive Study materials and notes for Physics. Includes 62 pages of content.",
+    "subject": "Physics",
+    "semester": "1-2",
+    "branch": "all",
+    "university": "GTU",
+    "files": [
+      {
+        "fileId": "physics-ch-2-pdf",
+        "title": "Ch 2",
+        "description": "Comprehensive Study materials and notes for Physics. Includes 9 pages of content.",
+        "tag": "Notes",
+        "pages": 9,
+        "imageUrl": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem1-2/physics/Notes/ch-2-pdf_thumb.webp",
+        "url": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem1-2/physics/Notes/ch-2-pdf.pdf"
+      },
+      {
+        "fileId": "physics-ch-4-pdf",
+        "title": "Ch 4",
+        "description": "Comprehensive Study materials and notes for Physics. Includes 38 pages of content.",
+        "tag": "Notes",
+        "pages": 38,
+        "imageUrl": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem1-2/physics/Notes/ch-4-pdf_thumb.webp",
+        "url": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem1-2/physics/Notes/ch-4-pdf.pdf"
+      },
+      {
+        "fileId": "physics-ch-5-pdf",
+        "title": "Ch 5",
+        "description": "Comprehensive Study materials and notes for Physics. Includes 13 pages of content.",
+        "tag": "Notes",
+        "pages": 13,
+        "imageUrl": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem1-2/physics/Notes/ch-5-pdf_thumb.webp",
+        "url": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem1-2/physics/Notes/ch-5-pdf.pdf"
+      },
+      {
+        "fileId": "physics-ch-6-a-pdf",
+        "title": "Ch 6_A",
+        "description": "Comprehensive Study materials and notes for Physics. Includes 18 pages of content.",
+        "tag": "Notes",
+        "pages": 18,
+        "imageUrl": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem1-2/physics/Notes/ch-6-a-pdf_thumb.webp",
+        "url": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem1-2/physics/Notes/ch-6-a-pdf.pdf"
+      },
+      {
+        "fileId": "physics-ch-6-b-pdf",
+        "title": "Ch 6_B",
+        "description": "Comprehensive Study materials and notes for Physics. Includes 10 pages of content.",
+        "tag": "Notes",
+        "pages": 10,
+        "imageUrl": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem1-2/physics/Notes/ch-6-b-pdf_thumb.webp",
+        "url": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem1-2/physics/Notes/ch-6-b-pdf.pdf"
+      },
+      {
+        "fileId": "physics-ch-6-pdf",
+        "title": "Ch 6",
+        "description": "Comprehensive Study materials and notes for Physics. Includes 13 pages of content.",
+        "tag": "Notes",
+        "pages": 13,
+        "imageUrl": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem1-2/physics/Notes/ch-6-pdf_thumb.webp",
+        "url": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem1-2/physics/Notes/ch-6-pdf.pdf"
+      },
+      {
+        "fileId": "physics-physics-darshan-notes-pdf",
+        "title": "Darshan Notes",
+        "description": "Comprehensive Study materials and notes for Physics. Includes 62 pages of content.",
+        "tag": "Notes",
+        "pages": 62,
+        "imageUrl": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem1-2/physics/Notes/physics-darshan-notes-pdf_thumb.webp",
+        "url": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem1-2/physics/Notes/physics-darshan-notes-pdf.pdf"
+      },
+      {
+        "fileId": "physics-physics-formulas-pdf",
+        "title": "Formulas",
+        "description": "Comprehensive Study materials and notes for Physics. Includes 10 pages of content.",
+        "tag": "Notes",
+        "pages": 10,
+        "imageUrl": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem1-2/physics/Notes/physics-formulas-pdf_thumb.webp",
+        "url": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem1-2/physics/Notes/physics-formulas-pdf.pdf"
+      },
+      {
+        "fileId": "physics-ch-1-pdf",
+        "title": "Ch 1",
+        "description": "Comprehensive Past Year Papers for Physics. Includes 7 pages of content.",
+        "tag": "PYQs",
+        "pages": 7,
+        "imageUrl": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem1-2/physics/PYQs/ch-1-pdf_thumb.webp",
+        "url": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem1-2/physics/PYQs/ch-1-pdf.pdf"
+      },
+      {
+        "fileId": "physics-ch-2-waves-motion-pdf",
+        "title": "Ch 2_Waves & Motion",
+        "description": "Comprehensive Past Year Papers for Physics. Includes 4 pages of content.",
+        "tag": "PYQs",
+        "pages": 4,
+        "imageUrl": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem1-2/physics/PYQs/ch-2-waves-motion-pdf_thumb.webp",
+        "url": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem1-2/physics/PYQs/ch-2-waves-motion-pdf.pdf"
+      },
+      {
+        "fileId": "physics-ch-3-pdf",
+        "title": "Ch 3",
+        "description": "Comprehensive Past Year Papers for Physics. Includes 4 pages of content.",
+        "tag": "PYQs",
+        "pages": 4,
+        "imageUrl": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem1-2/physics/PYQs/ch-3-pdf_thumb.webp",
+        "url": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem1-2/physics/PYQs/ch-3-pdf.pdf"
+      },
+      {
+        "fileId": "physics-ch-4-pdf",
+        "title": "Ch 4",
+        "description": "Comprehensive Study materials and notes for Physics. Includes 38 pages of content.",
+        "tag": "Notes",
+        "pages": 38,
+        "imageUrl": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem1-2/physics/Notes/ch-4-pdf_thumb.webp",
+        "url": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem1-2/physics/PYQs/ch-4-pdf.pdf"
+      },
+      {
+        "fileId": "physics-ch-5-pdf",
+        "title": "Ch 5",
+        "description": "Comprehensive Study materials and notes for Physics. Includes 13 pages of content.",
+        "tag": "Notes",
+        "pages": 13,
+        "imageUrl": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem1-2/physics/Notes/ch-5-pdf_thumb.webp",
+        "url": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem1-2/physics/PYQs/ch-5-pdf.pdf"
+      },
+      {
+        "fileId": "physics-ch-6-pdf",
+        "title": "Ch 6",
+        "description": "Comprehensive Study materials and notes for Physics. Includes 13 pages of content.",
+        "tag": "Notes",
+        "pages": 13,
+        "imageUrl": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem1-2/physics/Notes/ch-6-pdf_thumb.webp",
+        "url": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem1-2/physics/PYQs/ch-6-pdf.pdf"
+      },
+      {
+        "fileId": "physics-physics-1-old-syllabus-papers-pdf",
+        "title": "1_Old Syllabus Papers",
+        "description": "Comprehensive Past Year Papers for Physics. Includes 27 pages of content.",
+        "tag": "PYQs",
+        "pages": 27,
+        "imageUrl": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem1-2/physics/PYQs/physics-1-old-syllabus-papers-pdf_thumb.webp",
+        "url": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem1-2/physics/PYQs/physics-1-old-syllabus-papers-pdf.pdf"
+      },
+      {
+        "fileId": "physics-physics-2-old-syllabus-papers-pdf",
+        "title": "2_Old Syllabus Papers",
+        "description": "Comprehensive Past Year Papers for Physics. Includes 25 pages of content.",
+        "tag": "PYQs",
+        "pages": 25,
+        "imageUrl": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem1-2/physics/PYQs/physics-2-old-syllabus-papers-pdf_thumb.webp",
+        "url": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem1-2/physics/PYQs/physics-2-old-syllabus-papers-pdf.pdf"
+      },
+      {
+        "fileId": "physics-physics-new-syllabus-papers-pdf",
+        "title": "New Syllabus Papers",
+        "description": "Comprehensive Past Year Papers for Physics. Includes 6 pages of content.",
+        "tag": "PYQs",
+        "pages": 6,
+        "imageUrl": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem1-2/physics/PYQs/physics-new-syllabus-papers-pdf_thumb.webp",
+        "url": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem1-2/physics/PYQs/physics-new-syllabus-papers-pdf.pdf"
+      },
+      {
+        "fileId": "physics-physics-pyqs-pdf",
+        "title": "PYQs",
+        "description": "Comprehensive Past Year Papers for Physics. Includes 33 pages of content.",
+        "tag": "PYQs",
+        "pages": 33,
+        "imageUrl": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem1-2/physics/PYQs/physics-pyqs-pdf_thumb.webp",
+        "url": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem1-2/physics/PYQs/physics-pyqs-pdf.pdf"
+      },
+      {
+        "fileId": "physics-physics-question-bank-pdf",
+        "title": "Question-Bank",
+        "description": "Comprehensive Past Year Papers for Physics. Includes 6 pages of content.",
+        "tag": "PYQs",
+        "pages": 6,
+        "imageUrl": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem1-2/physics/PYQs/physics-question-bank-pdf_thumb.webp",
+        "url": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem1-2/physics/PYQs/physics-question-bank-pdf.pdf"
+      },
+      {
+        "fileId": "physics-physics-syllabus-pdf",
+        "title": "Syllabus",
+        "description": "Comprehensive Official syllabus for Physics. Includes 7 pages of content.",
+        "tag": "Syllabus",
+        "pages": 7,
+        "imageUrl": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem1-2/physics/Syllabus/physics-syllabus-pdf_thumb.webp",
+        "url": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem1-2/physics/Syllabus/physics-syllabus-pdf.pdf"
+      }
+    ]
+  },
+  {
     "id": "maths-1",
     "title": "Mathematics 1",
     "description": "Maths-1: All types of Notes and books.",
