@@ -1,5 +1,115 @@
 [
   {
+    "id": "bce",
+    "title": "BCE",
+    "description": "Comprehensive Study materials and notes for BCE. Includes 300 pages of content.",
+    "subject": "BCE",
+    "semester": "1-2",
+    "branch": "all",
+    "university": "GTU",
+    "files": [
+      {
+        "fileId": "bce-bce-new-age-book-pdf",
+        "title": "New Age Book",
+        "description": "Comprehensive Study materials and notes for BCE. Includes 300 pages of content.",
+        "tag": "Books",
+        "pages": 300,
+        "imageUrl": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem1-2/bce/Books/bce-new-age-book-pdf_thumb.webp",
+        "url": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem1-2/bce/Books/bce-new-age-book-pdf.pdf"
+      },
+      {
+        "fileId": "bce-bce-pearson-book-pdf",
+        "title": "Pearson Book",
+        "description": "Comprehensive Study materials and notes for BCE. Includes 348 pages of content.",
+        "tag": "Books",
+        "pages": 348,
+        "imageUrl": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem1-2/bce/Books/bce-pearson-book-pdf_thumb.webp",
+        "url": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem1-2/bce/Books/bce-pearson-book-pdf.pdf"
+      },
+      {
+        "fileId": "bce-ch-2-a-pdf",
+        "title": "Ch 2_A",
+        "description": "Comprehensive Presentation slides for BCE. Includes 104 pages of content.",
+        "tag": "PPTs",
+        "pages": 104,
+        "imageUrl": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem1-2/bce/PPTs/ch-2-a-pdf_thumb.webp",
+        "url": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem1-2/bce/PPTs/ch-2-a-pdf.pdf"
+      },
+      {
+        "fileId": "bce-ch-2-b-pdf",
+        "title": "Ch 2_B",
+        "description": "Comprehensive Presentation slides for BCE. Includes 78 pages of content.",
+        "tag": "PPTs",
+        "pages": 78,
+        "imageUrl": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem1-2/bce/PPTs/ch-2-b-pdf_thumb.webp",
+        "url": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem1-2/bce/PPTs/ch-2-b-pdf.pdf"
+      },
+      {
+        "fileId": "bce-ch-3-pdf",
+        "title": "Ch 3",
+        "description": "Comprehensive Presentation slides for BCE. Includes 135 pages of content.",
+        "tag": "PPTs",
+        "pages": 135,
+        "imageUrl": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem1-2/bce/PPTs/ch-3-pdf_thumb.webp",
+        "url": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem1-2/bce/PPTs/ch-3-pdf.pdf"
+      },
+      {
+        "fileId": "bce-ch-4-leveling-pdf",
+        "title": "Ch 4_Leveling",
+        "description": "Comprehensive Presentation slides for BCE. Includes 54 pages of content.",
+        "tag": "PPTs",
+        "pages": 54,
+        "imageUrl": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem1-2/bce/PPTs/ch-4-leveling-pdf_thumb.webp",
+        "url": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem1-2/bce/PPTs/ch-4-leveling-pdf.pdf"
+      },
+      {
+        "fileId": "bce-ch-5-pdf",
+        "title": "Ch 5",
+        "description": "Comprehensive Presentation slides for BCE. Includes 67 pages of content.",
+        "tag": "PPTs",
+        "pages": 67,
+        "imageUrl": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem1-2/bce/PPTs/ch-5-pdf_thumb.webp",
+        "url": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem1-2/bce/PPTs/ch-5-pdf.pdf"
+      },
+      {
+        "fileId": "bce-bce-new-syllabus-papers-pdf",
+        "title": "New Syllabus Papers",
+        "description": "Comprehensive Past Year Papers for BCE. Includes 6 pages of content.",
+        "tag": "PYQs",
+        "pages": 6,
+        "imageUrl": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem1-2/bce/PYQs/bce-new-syllabus-papers-pdf_thumb.webp",
+        "url": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem1-2/bce/PYQs/bce-new-syllabus-papers-pdf.pdf"
+      },
+      {
+        "fileId": "bce-bce-old-syllabus-papers-pdf",
+        "title": "Old Syllabus Papers",
+        "description": "Comprehensive Past Year Papers for BCE. Includes 20 pages of content.",
+        "tag": "PYQs",
+        "pages": 20,
+        "imageUrl": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem1-2/bce/PYQs/bce-old-syllabus-papers-pdf_thumb.webp",
+        "url": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem1-2/bce/PYQs/bce-old-syllabus-papers-pdf.pdf"
+      },
+      {
+        "fileId": "bce-bce-question-bank-pdf",
+        "title": "Question-Bank",
+        "description": "Comprehensive Past Year Papers for BCE. Includes 6 pages of content.",
+        "tag": "PYQs",
+        "pages": 6,
+        "imageUrl": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem1-2/bce/PYQs/bce-question-bank-pdf_thumb.webp",
+        "url": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem1-2/bce/PYQs/bce-question-bank-pdf.pdf"
+      },
+      {
+        "fileId": "bce-bce-syllabus-pdf",
+        "title": "Syllabus",
+        "description": "Comprehensive Official syllabus for BCE. Includes 5 pages of content.",
+        "tag": "Syllabus",
+        "pages": 5,
+        "imageUrl": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem1-2/bce/Syllabus/bce-syllabus-pdf_thumb.webp",
+        "url": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem1-2/bce/Syllabus/bce-syllabus-pdf.pdf"
+      }
+    ]
+  },
+  {
     "id": "bee",
     "title": "BEE (Basic Electrical Engineering)",
     "description": "Basic Electrical Engineering  is to provide knowledge on the fundamentals of  circuits and their applications",
