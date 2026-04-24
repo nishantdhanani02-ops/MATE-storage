@@ -110,6 +110,152 @@
     ]
   },
   {
+    "id": "be",
+    "title": "BE",
+    "description": "Comprehensive Past Year Papers for BE. Includes 21 pages of content.",
+    "subject": "BE",
+    "semester": "1-2",
+    "branch": "all",
+    "university": "GTU",
+    "files": [
+      {
+        "fileId": "be-ch-1-2-pdf",
+        "title": "Ch 1 & 2",
+        "description": "Comprehensive Study materials and notes for BE. Includes 58 pages of content.",
+        "tag": "Notes",
+        "pages": 58,
+        "imageUrl": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem1-2/be/Notes/ch-1-2-pdf_thumb.webp",
+        "url": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem1-2/be/Notes/ch-1-2-pdf.pdf"
+      },
+      {
+        "fileId": "be-ch-1-pdf",
+        "title": "Ch 1",
+        "description": "Comprehensive Study materials and notes for BE. Includes 2 pages of content.",
+        "tag": "Notes",
+        "pages": 2,
+        "imageUrl": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem1-2/be/Notes/ch-1-pdf_thumb.webp",
+        "url": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem1-2/be/Notes/ch-1-pdf.pdf"
+      },
+      {
+        "fileId": "be-ch-2-pdf",
+        "title": "Ch 2",
+        "description": "Comprehensive Study materials and notes for BE. Includes 4 pages of content.",
+        "tag": "Notes",
+        "pages": 4,
+        "imageUrl": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem1-2/be/Notes/ch-2-pdf_thumb.webp",
+        "url": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem1-2/be/Notes/ch-2-pdf.pdf"
+      },
+      {
+        "fileId": "be-ch-3-4-pdf",
+        "title": "Ch 3 & 4",
+        "description": "Comprehensive Study materials and notes for BE. Includes 48 pages of content.",
+        "tag": "Notes",
+        "pages": 48,
+        "imageUrl": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem1-2/be/Notes/ch-3-4-pdf_thumb.webp",
+        "url": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem1-2/be/Notes/ch-3-4-pdf.pdf"
+      },
+      {
+        "fileId": "be-ch-3-pdf",
+        "title": "Ch 3",
+        "description": "Comprehensive Study materials and notes for BE. Includes 1 pages of content.",
+        "tag": "Notes",
+        "pages": 1,
+        "imageUrl": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem1-2/be/Notes/ch-3-pdf_thumb.webp",
+        "url": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem1-2/be/Notes/ch-3-pdf.pdf"
+      },
+      {
+        "fileId": "be-ch-4-pdf",
+        "title": "Ch 4",
+        "description": "Comprehensive Study materials and notes for BE. Includes 1 pages of content.",
+        "tag": "Notes",
+        "pages": 1,
+        "imageUrl": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem1-2/be/Notes/ch-4-pdf_thumb.webp",
+        "url": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem1-2/be/Notes/ch-4-pdf.pdf"
+      },
+      {
+        "fileId": "be-ch-5-pdf",
+        "title": "Ch 5",
+        "description": "Comprehensive Study materials and notes for BE. Includes 29 pages of content.",
+        "tag": "Notes",
+        "pages": 29,
+        "imageUrl": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem1-2/be/Notes/ch-5-pdf_thumb.webp",
+        "url": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem1-2/be/Notes/ch-5-pdf.pdf"
+      },
+      {
+        "fileId": "be-ch-6-7-pdf",
+        "title": "Ch 6 & 7",
+        "description": "Comprehensive Study materials and notes for BE. Includes 36 pages of content.",
+        "tag": "Notes",
+        "pages": 36,
+        "imageUrl": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem1-2/be/Notes/ch-6-7-pdf_thumb.webp",
+        "url": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem1-2/be/Notes/ch-6-7-pdf.pdf"
+      },
+      {
+        "fileId": "be-ch-6-pdf",
+        "title": "Ch 6",
+        "description": "Comprehensive Study materials and notes for BE. Includes 1 pages of content.",
+        "tag": "Notes",
+        "pages": 1,
+        "imageUrl": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem1-2/be/Notes/ch-6-pdf_thumb.webp",
+        "url": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem1-2/be/Notes/ch-6-pdf.pdf"
+      },
+      {
+        "fileId": "be-ch-8-pdf",
+        "title": "Ch 8",
+        "description": "Comprehensive Study materials and notes for BE. Includes 30 pages of content.",
+        "tag": "Notes",
+        "pages": 30,
+        "imageUrl": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem1-2/be/Notes/ch-8-pdf_thumb.webp",
+        "url": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem1-2/be/Notes/ch-8-pdf.pdf"
+      },
+      {
+        "fileId": "be-be-new-syllabus-papers-pdf",
+        "title": "New Syllabus Papers",
+        "description": "Comprehensive Past Year Papers for BE. Includes 4 pages of content.",
+        "tag": "PYQs",
+        "pages": 4,
+        "imageUrl": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem1-2/be/PYQs/be-new-syllabus-papers-pdf_thumb.webp",
+        "url": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem1-2/be/PYQs/be-new-syllabus-papers-pdf.pdf"
+      },
+      {
+        "fileId": "be-be-old-syllabus-papers-pdf",
+        "title": "Old Syllabus Papers",
+        "description": "Comprehensive Past Year Papers for BE. Includes 17 pages of content.",
+        "tag": "PYQs",
+        "pages": 17,
+        "imageUrl": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem1-2/be/PYQs/be-old-syllabus-papers-pdf_thumb.webp",
+        "url": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem1-2/be/PYQs/be-old-syllabus-papers-pdf.pdf"
+      },
+      {
+        "fileId": "be-be-pyqs-pdf",
+        "title": "PYQs",
+        "description": "Comprehensive Past Year Papers for BE. Includes 21 pages of content.",
+        "tag": "PYQs",
+        "pages": 21,
+        "imageUrl": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem1-2/be/PYQs/be-pyqs-pdf_thumb.webp",
+        "url": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem1-2/be/PYQs/be-pyqs-pdf.pdf"
+      },
+      {
+        "fileId": "be-be-question-bank-pdf",
+        "title": "Question-Bank",
+        "description": "Comprehensive Past Year Papers for BE. Includes 4 pages of content.",
+        "tag": "PYQs",
+        "pages": 4,
+        "imageUrl": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem1-2/be/PYQs/be-question-bank-pdf_thumb.webp",
+        "url": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem1-2/be/PYQs/be-question-bank-pdf.pdf"
+      },
+      {
+        "fileId": "be-be-syllabus-pdf",
+        "title": "Syllabus",
+        "description": "Comprehensive Official syllabus for BE. Includes 5 pages of content.",
+        "tag": "Syllabus",
+        "pages": 5,
+        "imageUrl": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem1-2/be/Syllabus/be-syllabus-pdf_thumb.webp",
+        "url": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem1-2/be/Syllabus/be-syllabus-pdf.pdf"
+      }
+    ]
+  },
+  {
     "id": "bee",
     "title": "BEE (Basic Electrical Engineering)",
     "description": "Basic Electrical Engineering  is to provide knowledge on the fundamentals of  circuits and their applications",
