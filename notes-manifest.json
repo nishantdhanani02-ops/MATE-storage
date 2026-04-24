@@ -1142,6 +1142,71 @@
     ]
   },
   {
+    "id": "english",
+    "title": "English",
+    "description": "Comprehensive Study materials and notes for English. Includes 20 pages of content.",
+    "subject": "English",
+    "semester": "2",
+    "branch": "all",
+    "university": "GTU",
+    "files": [
+      {
+        "fileId": "english-english-lecture-notes-pdf",
+        "title": "Lecture Notes",
+        "description": "Comprehensive Study materials and notes for English. Includes 20 pages of content.",
+        "tag": "Notes",
+        "pages": 20,
+        "imageUrl": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem2/english/Notes/english-lecture-notes-pdf_thumb.webp",
+        "url": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem2/english/Notes/english-lecture-notes-pdf.pdf"
+      },
+      {
+        "fileId": "english-phonetic-transcriptions-pdf",
+        "title": "Phonetic Transcriptions",
+        "description": "Comprehensive Study materials and notes for English. Includes 1 pages of content.",
+        "tag": "Notes",
+        "pages": 1,
+        "imageUrl": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem2/english/Notes/phonetic-transcriptions-pdf_thumb.webp",
+        "url": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem2/english/Notes/phonetic-transcriptions-pdf.pdf"
+      },
+      {
+        "fileId": "english-words-examples-list-pdf",
+        "title": "Words Examples List",
+        "description": "Comprehensive Study materials and notes for English. Includes 22 pages of content.",
+        "tag": "Notes",
+        "pages": 22,
+        "imageUrl": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem2/english/Notes/words-examples-list-pdf_thumb.webp",
+        "url": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem2/english/Notes/words-examples-list-pdf.pdf"
+      },
+      {
+        "fileId": "english-english-new-syllabus-papers-pdf",
+        "title": "New Syllabus Papers",
+        "description": "Comprehensive Past Year Papers for English. Includes 7 pages of content.",
+        "tag": "PYQs",
+        "pages": 7,
+        "imageUrl": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem2/english/PYQs/english-new-syllabus-papers-pdf_thumb.webp",
+        "url": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem2/english/PYQs/english-new-syllabus-papers-pdf.pdf"
+      },
+      {
+        "fileId": "english-english-old-syllabus-papers-pdf",
+        "title": "Old Syllabus Papers",
+        "description": "Comprehensive Past Year Papers for English. Includes 52 pages of content.",
+        "tag": "PYQs",
+        "pages": 52,
+        "imageUrl": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem2/english/PYQs/english-old-syllabus-papers-pdf_thumb.webp",
+        "url": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem2/english/PYQs/english-old-syllabus-papers-pdf.pdf"
+      },
+      {
+        "fileId": "english-english-syllabus-pdf",
+        "title": "Syllabus",
+        "description": "Comprehensive Official syllabus for English. Includes 8 pages of content.",
+        "tag": "Syllabus",
+        "pages": 8,
+        "imageUrl": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem2/english/Syllabus/english-syllabus-pdf_thumb.webp",
+        "url": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem2/english/Syllabus/english-syllabus-pdf.pdf"
+      }
+    ]
+  },
+  {
     "id": "fai",
     "title": "FAI",
     "description": "What is AI or Artificial Intelligence?",
