@@ -252,6 +252,24 @@
         "pages": 5,
         "imageUrl": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem1-2/be/Syllabus/be-syllabus-pdf_thumb.webp",
         "url": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem1-2/be/Syllabus/be-syllabus-pdf.pdf"
+      },
+      {
+        "fileId": "be-ch-1",
+        "title": "Ch 1",
+        "description": "Material lacks content for analysis. Please provide text for a concise, topic-focused summary.",
+        "tag": "Books",
+        "pages": 23,
+        "imageUrl": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem1-2/be/Books/atul/ch-1_thumb.webp",
+        "url": "https://sfo.cloud.appwrite.io/v1/storage/buckets/69f97fce000d0a55d805/files/69f99f9a003cea002eb9/view?project=69f97f8e0001b58277a4"
+      },
+      {
+        "fileId": "be-ch-2",
+        "title": "Ch 2",
+        "description": "Concise overviews of fundamental academic topics, fostering comprehension and effective learning.",
+        "tag": "Books",
+        "pages": 47,
+        "imageUrl": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem1-2/be/Books/atul/ch-2_thumb.webp",
+        "url": "https://sfo.cloud.appwrite.io/v1/storage/buckets/69f97fce000d0a55d805/files/69f99fb9002a7c58f9b4/view?project=69f97f8e0001b58277a4"
       }
     ]
   },
@@ -503,13 +521,11 @@
       {
         "fileId": "bme-bme-mahajan-book",
         "title": "BME Mahajan Book",
-        "path": "https://sfo.cloud.appwrite.io/v1/storage/buckets/69f97fce000d0a55d805/files/69f98a0e000b37a7b032/view?project=69f97f8e0001b58277a4",
-        "url": "https://sfo.cloud.appwrite.io/v1/storage/buckets/69f97fce000d0a55d805/files/69f98a0e000b37a7b032/view?project=69f97f8e0001b58277a4",
+        "description": "Basic Mechanical Engineering for GTU B.E. First Year students, aligned with the 2018 syllabus.",
         "tag": "Books",
         "pages": 195,
-        "description": "Basic Mechanical Engineering for GTU B.E. First Year students, aligned with the 2018 syllabus.",
         "imageUrl": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem1-2/bme/Books/bme-mahajan-book_thumb.webp",
-        "uploadDate": "2026-05-05"
+        "url": "https://sfo.cloud.appwrite.io/v1/storage/buckets/69f97fce000d0a55d805/files/69f98a0e000b37a7b032/view?project=69f97f8e0001b58277a4"
       }
     ]
   },
