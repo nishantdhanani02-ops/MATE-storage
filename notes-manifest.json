@@ -488,6 +488,15 @@
         "pages": 8,
         "imageUrl": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem1-2/bee/Syllabus/bee-syllabus_thumb.webp",
         "url": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem1-2/bee/Syllabus/bee-syllabus.pdf"
+      },
+      {
+        "fileId": "bee-bee-atul-book",
+        "title": "BEE Atul Book",
+        "description": "",
+        "tag": "Books",
+        "pages": 377,
+        "imageUrl": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem1-2/bee/Books/bee-atul-book_thumb.webp",
+        "url": "https://sfo.cloud.appwrite.io/v1/storage/buckets/69f97fce000d0a55d805/files/69f9a59f00328534a372/view?project=69f97f8e0001b58277a4"
       }
     ]
   },
