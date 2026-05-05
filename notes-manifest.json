@@ -1971,6 +1971,60 @@
     "university": "GTU",
     "files": [
       {
+        "fileId": "english-ch-1-pdf",
+        "title": "Ch 1",
+        "description": "Comprehensive Study materials and notes for English. Includes 32 pages of content.",
+        "tag": "Books",
+        "pages": 32,
+        "imageUrl": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem2/english/Books/ch-1-pdf_thumb.webp",
+        "url": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem2/english/Books/ch-1-pdf.pdf"
+      },
+      {
+        "fileId": "english-ch-2-pdf",
+        "title": "Ch 2",
+        "description": "Comprehensive Study materials and notes for English. Includes 29 pages of content.",
+        "tag": "Books",
+        "pages": 29,
+        "imageUrl": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem2/english/Books/ch-2-pdf_thumb.webp",
+        "url": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem2/english/Books/ch-2-pdf.pdf"
+      },
+      {
+        "fileId": "english-ch-3-pdf",
+        "title": "Ch 3",
+        "description": "Comprehensive Study materials and notes for English. Includes 22 pages of content.",
+        "tag": "Books",
+        "pages": 22,
+        "imageUrl": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem2/english/Books/ch-3-pdf_thumb.webp",
+        "url": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem2/english/Books/ch-3-pdf.pdf"
+      },
+      {
+        "fileId": "english-ch-4-pdf",
+        "title": "Ch 4",
+        "description": "Comprehensive Study materials and notes for English. Includes 17 pages of content.",
+        "tag": "Books",
+        "pages": 17,
+        "imageUrl": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem2/english/Books/ch-4-pdf_thumb.webp",
+        "url": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem2/english/Books/ch-4-pdf.pdf"
+      },
+      {
+        "fileId": "english-ch-5-pdf",
+        "title": "Ch 5",
+        "description": "Comprehensive Study materials and notes for English. Includes 11 pages of content.",
+        "tag": "Books",
+        "pages": 11,
+        "imageUrl": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem2/english/Books/ch-5-pdf_thumb.webp",
+        "url": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem2/english/Books/ch-5-pdf.pdf"
+      },
+      {
+        "fileId": "english-ch-6-pdf",
+        "title": "Ch 6",
+        "description": "Comprehensive Study materials and notes for English. Includes 15 pages of content.",
+        "tag": "Books",
+        "pages": 15,
+        "imageUrl": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem2/english/Books/ch-6-pdf_thumb.webp",
+        "url": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem2/english/Books/ch-6-pdf.pdf"
+      },
+      {
         "fileId": "english-english-lecture-notes-pdf",
         "title": "Lecture Notes",
         "description": "Comprehensive Study materials and notes for English. Includes 20 pages of content.",
