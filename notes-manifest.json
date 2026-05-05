@@ -256,74 +256,74 @@
       {
         "fileId": "be-ch-1",
         "title": "Ch 1",
-        "description": "Material lacks content for analysis. Please provide text for a concise, topic-focused summary.",
+        "description": "Essential insights into foundational concepts. Develop a comprehensive understanding for academic success.",
         "tag": "Books",
-        "pages": 23,
-        "imageUrl": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem1-2/be/Books/atul/ch-1_thumb.webp",
-        "url": "https://sfo.cloud.appwrite.io/v1/storage/buckets/69f97fce000d0a55d805/files/69f99f9a003cea002eb9/view?project=69f97f8e0001b58277a4"
+        "pages": 43,
+        "imageUrl": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem1-2/be/Books/technical/ch-1_thumb.webp",
+        "url": "https://sfo.cloud.appwrite.io/v1/storage/buckets/69f97fce000d0a55d805/files/69f9a2f40010188db55f/view?project=69f97f8e0001b58277a4"
       },
       {
         "fileId": "be-ch-2",
         "title": "Ch 2",
-        "description": "Concise overviews of fundamental academic topics, fostering comprehension and effective learning.",
+        "description": "Mastering core topics and fundamental principles for robust academic understanding.",
         "tag": "Books",
-        "pages": 47,
-        "imageUrl": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem1-2/be/Books/atul/ch-2_thumb.webp",
-        "url": "https://sfo.cloud.appwrite.io/v1/storage/buckets/69f97fce000d0a55d805/files/69f99fb9002a7c58f9b4/view?project=69f97f8e0001b58277a4"
+        "pages": 93,
+        "imageUrl": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem1-2/be/Books/technical/ch-2_thumb.webp",
+        "url": "https://sfo.cloud.appwrite.io/v1/storage/buckets/69f97fce000d0a55d805/files/69f9a3ef0028dee2e235/view?project=69f97f8e0001b58277a4"
       },
       {
         "fileId": "be-ch-3",
         "title": "Ch 3",
         "description": "",
         "tag": "Books",
-        "pages": 18,
-        "imageUrl": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem1-2/be/Books/atul/ch-3_thumb.webp",
-        "url": "https://sfo.cloud.appwrite.io/v1/storage/buckets/69f97fce000d0a55d805/files/69f99ff4002de8bd33f4/view?project=69f97f8e0001b58277a4"
+        "pages": 32,
+        "imageUrl": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem1-2/be/Books/technical/ch-3_thumb.webp",
+        "url": "https://sfo.cloud.appwrite.io/v1/storage/buckets/69f97fce000d0a55d805/files/69f9a4210010167cefd8/view?project=69f97f8e0001b58277a4"
       },
       {
         "fileId": "be-ch-4",
         "title": "Ch 4",
         "description": "Concise overview of fundamental academic concepts, fostering a strong foundation for deeper understanding.",
         "tag": "Books",
-        "pages": 9,
-        "imageUrl": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem1-2/be/Books/atul/ch-4_thumb.webp",
-        "url": "https://sfo.cloud.appwrite.io/v1/storage/buckets/69f97fce000d0a55d805/files/69f9a0300009dd35a55d/view?project=69f97f8e0001b58277a4"
+        "pages": 17,
+        "imageUrl": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem1-2/be/Books/technical/ch-4_thumb.webp",
+        "url": "https://sfo.cloud.appwrite.io/v1/storage/buckets/69f97fce000d0a55d805/files/69f9a44000221d4a31c8/view?project=69f97f8e0001b58277a4"
       },
       {
         "fileId": "be-ch-5",
         "title": "Ch 5",
         "description": "",
         "tag": "Books",
-        "pages": 29,
-        "imageUrl": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem1-2/be/Books/atul/ch-5_thumb.webp",
-        "url": "https://sfo.cloud.appwrite.io/v1/storage/buckets/69f97fce000d0a55d805/files/69f9a04d000595819ca8/view?project=69f97f8e0001b58277a4"
+        "pages": 41,
+        "imageUrl": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem1-2/be/Books/technical/ch-5_thumb.webp",
+        "url": "https://sfo.cloud.appwrite.io/v1/storage/buckets/69f97fce000d0a55d805/files/69f9a44c0003188eea54/view?project=69f97f8e0001b58277a4"
       },
       {
         "fileId": "be-ch-6",
         "title": "Ch 6",
         "description": "",
         "tag": "Books",
-        "pages": 28,
-        "imageUrl": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem1-2/be/Books/atul/ch-6_thumb.webp",
-        "url": "https://sfo.cloud.appwrite.io/v1/storage/buckets/69f97fce000d0a55d805/files/69f9a06100041f3a9dba/view?project=69f97f8e0001b58277a4"
+        "pages": 34,
+        "imageUrl": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem1-2/be/Books/technical/ch-6_thumb.webp",
+        "url": "https://sfo.cloud.appwrite.io/v1/storage/buckets/69f97fce000d0a55d805/files/69f9a45c0015f50604a5/view?project=69f97f8e0001b58277a4"
       },
       {
         "fileId": "be-ch-7",
         "title": "Ch 7",
         "description": "",
         "tag": "Books",
-        "pages": 16,
-        "imageUrl": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem1-2/be/Books/atul/ch-7_thumb.webp",
-        "url": "https://sfo.cloud.appwrite.io/v1/storage/buckets/69f97fce000d0a55d805/files/69f9a06f00147fb70107/view?project=69f97f8e0001b58277a4"
+        "pages": 15,
+        "imageUrl": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem1-2/be/Books/technical/ch-7_thumb.webp",
+        "url": "https://sfo.cloud.appwrite.io/v1/storage/buckets/69f97fce000d0a55d805/files/69f9a474002eded67910/view?project=69f97f8e0001b58277a4"
       },
       {
         "fileId": "be-ch-8",
         "title": "Ch 8",
         "description": "",
         "tag": "Books",
-        "pages": 118,
-        "imageUrl": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem1-2/be/Books/atul/ch-8_thumb.webp",
-        "url": "https://sfo.cloud.appwrite.io/v1/storage/buckets/69f97fce000d0a55d805/files/69f9a07c002f95eec2c5/view?project=69f97f8e0001b58277a4"
+        "pages": 42,
+        "imageUrl": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem1-2/be/Books/technical/ch-8_thumb.webp",
+        "url": "https://sfo.cloud.appwrite.io/v1/storage/buckets/69f97fce000d0a55d805/files/69f9a4900015b7990a6b/view?project=69f97f8e0001b58277a4"
       }
     ]
   },
