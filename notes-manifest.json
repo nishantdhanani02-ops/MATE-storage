@@ -598,6 +598,15 @@
         "pages": 38,
         "imageUrl": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem1-2/bme/Books/technical/ch-7_thumb.webp",
         "url": "https://sfo.cloud.appwrite.io/v1/storage/buckets/69f97fce000d0a55d805/files/69f9a667000c560eac03/view?project=69f97f8e0001b58277a4"
+      },
+      {
+        "fileId": "bme-bme-techneo-book",
+        "title": "BME TechNeo Book",
+        "description": "Understanding of basic princ iples of Mechanica l Engineering is required in various field of engineering.",
+        "tag": "Books",
+        "pages": 227,
+        "imageUrl": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem1-2/bme/Books/bme-techneo-book_thumb.webp",
+        "url": "https://sfo.cloud.appwrite.io/v1/storage/buckets/69f97fce000d0a55d805/files/69f9b0cb0025eb0d72f7/view?project=69f97f8e0001b58277a4"
       }
     ]
   },
@@ -847,6 +856,15 @@
         "pages": 5,
         "imageUrl": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem1-2/egd/Syllabus/egd-syllabus-pdf_thumb.webp",
         "url": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem1-2/egd/Syllabus/egd-syllabus-pdf.pdf"
+      },
+      {
+        "fileId": "egd-engineering-drawing-mcgrawhill-book",
+        "title": "Engineering Drawing McGrawHill Book",
+        "description": "Engineering Drawing book is mainly intended to meet the requirements of the first year BE/B.Tech.",
+        "tag": "Books",
+        "pages": 778,
+        "imageUrl": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem1-2/egd/Books/engineering-drawing-mcgrawhill-book_thumb.webp",
+        "url": "https://sfo.cloud.appwrite.io/v1/storage/buckets/69f97fce000d0a55d805/files/69f9b10f003927b69731/view?project=69f97f8e0001b58277a4"
       }
     ]
   },
@@ -1090,21 +1108,21 @@
       },
       {
         "fileId": "physics-ch-4-pdf",
-        "title": "Ch 4",
-        "description": "Comprehensive Study materials and notes for Physics. Includes 40 pages of content.",
-        "tag": "Books",
-        "pages": 40,
-        "imageUrl": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem1-2/physics/Books/ch-4-pdf_thumb.webp",
-        "url": "https://sfo.cloud.appwrite.io/v1/storage/buckets/69f97fce000d0a55d805/files/69f9acad00188a73463b/view?project=69f97f8e0001b58277a4"
+        "title": "Ch 4 Pdf",
+        "description": "",
+        "tag": "PYQs",
+        "pages": 0,
+        "imageUrl": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem1-2/physics/PYQs/ch-4-pdf_thumb.webp",
+        "url": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem1-2/physics/PYQs/ch-4-pdf.pdf"
       },
       {
         "fileId": "physics-ch-5-pdf",
-        "title": "Ch 5",
-        "description": "Comprehensive Presentation slides for Physics. Includes 45 pages of content.",
-        "tag": "PPTs",
-        "pages": 45,
-        "imageUrl": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem1-2/physics/PPTs/ch-5-pdf_thumb.webp",
-        "url": "https://sfo.cloud.appwrite.io/v1/storage/buckets/69f97fce000d0a55d805/files/69f9ad18002f7db901d3/view?project=69f97f8e0001b58277a4"
+        "title": "Ch 5 Pdf",
+        "description": "",
+        "tag": "PYQs",
+        "pages": 0,
+        "imageUrl": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem1-2/physics/PYQs/ch-5-pdf_thumb.webp",
+        "url": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem1-2/physics/PYQs/ch-5-pdf.pdf"
       },
       {
         "fileId": "physics-ch-6-a-pdf",
@@ -1126,12 +1144,12 @@
       },
       {
         "fileId": "physics-ch-6-pdf",
-        "title": "Ch 6",
-        "description": "Comprehensive Study materials and notes for Physics. Includes 43 pages of content.",
-        "tag": "Books",
-        "pages": 43,
-        "imageUrl": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem1-2/physics/Books/ch-6-pdf_thumb.webp",
-        "url": "https://sfo.cloud.appwrite.io/v1/storage/buckets/69f97fce000d0a55d805/files/69f9accb00084302e1ae/view?project=69f97f8e0001b58277a4"
+        "title": "Ch 6 Pdf",
+        "description": "",
+        "tag": "PYQs",
+        "pages": 0,
+        "imageUrl": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem1-2/physics/PYQs/ch-6-pdf_thumb.webp",
+        "url": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem1-2/physics/PYQs/ch-6-pdf.pdf"
       },
       {
         "fileId": "physics-physics-darshan-notes-pdf",
