@@ -1058,6 +1058,15 @@
         "pages": 7,
         "imageUrl": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem1-2/mos/Syllabus/mos-syllabus-pdf_thumb.webp",
         "url": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem1-2/mos/Syllabus/mos-syllabus-pdf.pdf"
+      },
+      {
+        "fileId": "mos-mechanics-of-materials-book",
+        "title": "Mechanics Of Materials Book",
+        "description": "",
+        "tag": "Books",
+        "pages": 584,
+        "imageUrl": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem1-2/mos/Books/mechanics-of-materials-book_thumb.webp",
+        "url": "https://sfo.cloud.appwrite.io/v1/storage/buckets/69f97fce000d0a55d805/files/69f9ae9a00258ebcc2c9/view?project=69f97f8e0001b58277a4"
       }
     ]
   },
@@ -1171,30 +1180,30 @@
       },
       {
         "fileId": "physics-ch-4-pdf",
-        "title": "Ch 4",
-        "description": "Comprehensive Study materials and notes for Physics. Includes 40 pages of content.",
-        "tag": "Books",
-        "pages": 40,
-        "imageUrl": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem1-2/physics/Books/ch-4-pdf_thumb.webp",
-        "url": "https://sfo.cloud.appwrite.io/v1/storage/buckets/69f97fce000d0a55d805/files/69f9acad00188a73463b/view?project=69f97f8e0001b58277a4"
+        "title": "Ch 4 Pdf",
+        "description": "",
+        "tag": "PYQs",
+        "pages": 0,
+        "imageUrl": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem1-2/physics/PYQs/ch-4-pdf_thumb.webp",
+        "url": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem1-2/physics/PYQs/ch-4-pdf.pdf"
       },
       {
         "fileId": "physics-ch-5-pdf",
-        "title": "Ch 5",
-        "description": "Comprehensive Presentation slides for Physics. Includes 45 pages of content.",
-        "tag": "PPTs",
-        "pages": 45,
-        "imageUrl": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem1-2/physics/PPTs/ch-5-pdf_thumb.webp",
-        "url": "https://sfo.cloud.appwrite.io/v1/storage/buckets/69f97fce000d0a55d805/files/69f9ad18002f7db901d3/view?project=69f97f8e0001b58277a4"
+        "title": "Ch 5 Pdf",
+        "description": "",
+        "tag": "PYQs",
+        "pages": 0,
+        "imageUrl": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem1-2/physics/PYQs/ch-5-pdf_thumb.webp",
+        "url": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem1-2/physics/PYQs/ch-5-pdf.pdf"
       },
       {
         "fileId": "physics-ch-6-pdf",
-        "title": "Ch 6",
-        "description": "Comprehensive Study materials and notes for Physics. Includes 43 pages of content.",
-        "tag": "Books",
-        "pages": 43,
-        "imageUrl": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem1-2/physics/Books/ch-6-pdf_thumb.webp",
-        "url": "https://sfo.cloud.appwrite.io/v1/storage/buckets/69f97fce000d0a55d805/files/69f9accb00084302e1ae/view?project=69f97f8e0001b58277a4"
+        "title": "Ch 6 Pdf",
+        "description": "",
+        "tag": "PYQs",
+        "pages": 0,
+        "imageUrl": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem1-2/physics/PYQs/ch-6-pdf_thumb.webp",
+        "url": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem1-2/physics/PYQs/ch-6-pdf.pdf"
       },
       {
         "fileId": "physics-physics-1-old-syllabus-papers-pdf",
@@ -1521,6 +1530,15 @@
         "pages": 6,
         "imageUrl": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem1-2/pps/Syllabus/pps-syllabus-pdf_thumb.webp",
         "url": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem1-2/pps/Syllabus/pps-syllabus-pdf.pdf"
+      },
+      {
+        "fileId": "pps-pps-techneo-book",
+        "title": "PPS TechNeo Book",
+        "description": "",
+        "tag": "Books",
+        "pages": 247,
+        "imageUrl": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem1-2/pps/Books/pps-techneo-book_thumb.webp",
+        "url": "https://sfo.cloud.appwrite.io/v1/storage/buckets/69f97fce000d0a55d805/files/69f9af2a002d797f4137/view?project=69f97f8e0001b58277a4"
       }
     ]
   },
@@ -1958,6 +1976,60 @@
         "pages": 6,
         "imageUrl": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem1/uhv/Syllabus/uhv-syllabus-pdf_thumb.webp",
         "url": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem1/uhv/Syllabus/uhv-syllabus-pdf.pdf"
+      },
+      {
+        "fileId": "uhv-ch-1-pdf",
+        "title": "Ch 1",
+        "description": "Comprehensive Study materials and notes for UHV. Includes 22 pages of content.",
+        "tag": "Books",
+        "pages": 22,
+        "imageUrl": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem1/uhv/Books/ch-1-pdf_thumb.webp",
+        "url": "https://sfo.cloud.appwrite.io/v1/storage/buckets/69f97fce000d0a55d805/files/69f9b01e00345b5d4072/view?project=69f97f8e0001b58277a4"
+      },
+      {
+        "fileId": "uhv-ch-2-pdf",
+        "title": "Ch 2",
+        "description": "Comprehensive Study materials and notes for UHV. Includes 28 pages of content.",
+        "tag": "Books",
+        "pages": 28,
+        "imageUrl": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem1/uhv/Books/ch-2-pdf_thumb.webp",
+        "url": "https://sfo.cloud.appwrite.io/v1/storage/buckets/69f97fce000d0a55d805/files/69f9b02c0020d642862c/view?project=69f97f8e0001b58277a4"
+      },
+      {
+        "fileId": "uhv-ch-3-pdf",
+        "title": "Ch 3",
+        "description": "Comprehensive Study materials and notes for UHV. Includes 37 pages of content.",
+        "tag": "Books",
+        "pages": 37,
+        "imageUrl": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem1/uhv/Books/ch-3-pdf_thumb.webp",
+        "url": "https://sfo.cloud.appwrite.io/v1/storage/buckets/69f97fce000d0a55d805/files/69f9b03b000862ff2c94/view?project=69f97f8e0001b58277a4"
+      },
+      {
+        "fileId": "uhv-ch-4-pdf",
+        "title": "Ch 4",
+        "description": "Comprehensive Study materials and notes for UHV. Includes 35 pages of content.",
+        "tag": "Books",
+        "pages": 35,
+        "imageUrl": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem1/uhv/Books/ch-4-pdf_thumb.webp",
+        "url": "https://sfo.cloud.appwrite.io/v1/storage/buckets/69f97fce000d0a55d805/files/69f9b049003587e99b83/view?project=69f97f8e0001b58277a4"
+      },
+      {
+        "fileId": "uhv-ch-5-pdf",
+        "title": "Ch 5",
+        "description": "Comprehensive Study materials and notes for UHV. Includes 38 pages of content.",
+        "tag": "Books",
+        "pages": 38,
+        "imageUrl": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem1/uhv/Books/ch-5-pdf_thumb.webp",
+        "url": "https://sfo.cloud.appwrite.io/v1/storage/buckets/69f97fce000d0a55d805/files/69f9b056002f0a63767f/view?project=69f97f8e0001b58277a4"
+      },
+      {
+        "fileId": "uhv-ch-6-pdf",
+        "title": "Ch 6",
+        "description": "Comprehensive Study materials and notes for UHV. Includes 28 pages of content.",
+        "tag": "Books",
+        "pages": 28,
+        "imageUrl": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem1/uhv/Books/ch-6-pdf_thumb.webp",
+        "url": "https://sfo.cloud.appwrite.io/v1/storage/buckets/69f97fce000d0a55d805/files/69f9b067000b1b67ad42/view?project=69f97f8e0001b58277a4"
       }
     ]
   },
