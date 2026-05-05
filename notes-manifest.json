@@ -270,6 +270,60 @@
         "pages": 47,
         "imageUrl": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem1-2/be/Books/atul/ch-2_thumb.webp",
         "url": "https://sfo.cloud.appwrite.io/v1/storage/buckets/69f97fce000d0a55d805/files/69f99fb9002a7c58f9b4/view?project=69f97f8e0001b58277a4"
+      },
+      {
+        "fileId": "be-ch-3",
+        "title": "Ch 3",
+        "description": "",
+        "tag": "Books",
+        "pages": 18,
+        "imageUrl": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem1-2/be/Books/atul/ch-3_thumb.webp",
+        "url": "https://sfo.cloud.appwrite.io/v1/storage/buckets/69f97fce000d0a55d805/files/69f99ff4002de8bd33f4/view?project=69f97f8e0001b58277a4"
+      },
+      {
+        "fileId": "be-ch-4",
+        "title": "Ch 4",
+        "description": "Concise overview of fundamental academic concepts, fostering a strong foundation for deeper understanding.",
+        "tag": "Books",
+        "pages": 9,
+        "imageUrl": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem1-2/be/Books/atul/ch-4_thumb.webp",
+        "url": "https://sfo.cloud.appwrite.io/v1/storage/buckets/69f97fce000d0a55d805/files/69f9a0300009dd35a55d/view?project=69f97f8e0001b58277a4"
+      },
+      {
+        "fileId": "be-ch-5",
+        "title": "Ch 5",
+        "description": "",
+        "tag": "Books",
+        "pages": 29,
+        "imageUrl": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem1-2/be/Books/atul/ch-5_thumb.webp",
+        "url": "https://sfo.cloud.appwrite.io/v1/storage/buckets/69f97fce000d0a55d805/files/69f9a04d000595819ca8/view?project=69f97f8e0001b58277a4"
+      },
+      {
+        "fileId": "be-ch-6",
+        "title": "Ch 6",
+        "description": "",
+        "tag": "Books",
+        "pages": 28,
+        "imageUrl": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem1-2/be/Books/atul/ch-6_thumb.webp",
+        "url": "https://sfo.cloud.appwrite.io/v1/storage/buckets/69f97fce000d0a55d805/files/69f9a06100041f3a9dba/view?project=69f97f8e0001b58277a4"
+      },
+      {
+        "fileId": "be-ch-7",
+        "title": "Ch 7",
+        "description": "",
+        "tag": "Books",
+        "pages": 16,
+        "imageUrl": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem1-2/be/Books/atul/ch-7_thumb.webp",
+        "url": "https://sfo.cloud.appwrite.io/v1/storage/buckets/69f97fce000d0a55d805/files/69f9a06f00147fb70107/view?project=69f97f8e0001b58277a4"
+      },
+      {
+        "fileId": "be-ch-8",
+        "title": "Ch 8",
+        "description": "",
+        "tag": "Books",
+        "pages": 118,
+        "imageUrl": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem1-2/be/Books/atul/ch-8_thumb.webp",
+        "url": "https://sfo.cloud.appwrite.io/v1/storage/buckets/69f97fce000d0a55d805/files/69f9a07c002f95eec2c5/view?project=69f97f8e0001b58277a4"
       }
     ]
   },
