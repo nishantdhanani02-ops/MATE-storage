@@ -589,6 +589,15 @@
         "pages": 195,
         "imageUrl": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem1-2/bme/Books/bme-mahajan-book_thumb.webp",
         "url": "https://sfo.cloud.appwrite.io/v1/storage/buckets/69f97fce000d0a55d805/files/69f98a0e000b37a7b032/view?project=69f97f8e0001b58277a4"
+      },
+      {
+        "fileId": "bme-ch-7",
+        "title": "Ch 7",
+        "description": "ification of I.C. engines, 7.3 Engine details, 7.4 I.C. engine\nterminology, 7.5 Four stroke petrol engine or spark ignition (SI) engine – Otto cycle engine,\n7.6 Four stroke diesel engine or compression ignition (CI) engine",
+        "tag": "Books",
+        "pages": 38,
+        "imageUrl": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem1-2/bme/Books/technical/ch-7_thumb.webp",
+        "url": "https://sfo.cloud.appwrite.io/v1/storage/buckets/69f97fce000d0a55d805/files/69f9a667000c560eac03/view?project=69f97f8e0001b58277a4"
       }
     ]
   },
