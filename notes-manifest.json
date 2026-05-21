@@ -4434,7 +4434,7 @@
   {
     "id": "soft-computer-techniques",
     "title": "Soft Computer Techniques",
-    "description": "Comprehensive Past Year Papers for Soft Computer Techniques. Includes 7 pages of content.",
+    "description": "Comprehensive Past Year Papers for Soft Computer Techniques. Includes 9 pages of content.",
     "subject": "Soft Computer Techniques",
     "semester": "6",
     "branch": "all",
@@ -4475,6 +4475,452 @@
         "pages": 2,
         "imageUrl": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem6/soft-computer-techniques/PYQs/soft-computer-techniques-2024-endsem_thumb.webp",
         "url": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem6/soft-computer-techniques/PYQs/soft-computer-techniques-2024-endsem.pdf"
+      },
+      {
+        "fileId": "soft-computer-techniques-soft-computer-techniques-2025-endsem",
+        "title": "Soft Computer Techniques 2025 Endsem",
+        "description": "Comprehensive Past Year Papers for Soft Computer Techniques. Includes 2 pages of content.",
+        "tag": "PYQs",
+        "pages": 2,
+        "imageUrl": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem6/soft-computer-techniques/PYQs/soft-computer-techniques-2025-endsem_thumb.webp",
+        "url": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem6/soft-computer-techniques/PYQs/soft-computer-techniques-2025-endsem.pdf"
+      }
+    ]
+  },
+  {
+    "id": "instrumentation-and-sensors",
+    "title": "Instrumentation and Sensors",
+    "description": "Comprehensive Past Year Papers for Instrumentation and Sensors. Includes 6 pages of content.",
+    "subject": "Instrumentation and Sensors",
+    "semester": "6",
+    "branch": "all",
+    "university": "GTU",
+    "files": [
+      {
+        "fileId": "instrumentation-and-sensors-instrumentation-and-sensors-2021-endsem",
+        "title": "Instrumentation and Sensors 2021 Endsem",
+        "description": "Comprehensive Past Year Papers for Instrumentation and Sensors. Includes 1 pages of content.",
+        "tag": "PYQs",
+        "pages": 1,
+        "imageUrl": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem6/instrumentation-and-sensors/PYQs/instrumentation-and-sensors-2021-endsem_thumb.webp",
+        "url": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem6/instrumentation-and-sensors/PYQs/instrumentation-and-sensors-2021-endsem.pdf"
+      },
+      {
+        "fileId": "instrumentation-and-sensors-instrumentation-and-sensors-2022-endsem",
+        "title": "Instrumentation and Sensors 2022 Endsem",
+        "description": "Comprehensive Past Year Papers for Instrumentation and Sensors. Includes 1 pages of content.",
+        "tag": "PYQs",
+        "pages": 1,
+        "imageUrl": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem6/instrumentation-and-sensors/PYQs/instrumentation-and-sensors-2022-endsem_thumb.webp",
+        "url": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem6/instrumentation-and-sensors/PYQs/instrumentation-and-sensors-2022-endsem.pdf"
+      },
+      {
+        "fileId": "instrumentation-and-sensors-instrumentation-and-sensors-2023-endsem",
+        "title": "Instrumentation and Sensors 2023 Endsem",
+        "description": "Comprehensive Past Year Papers for Instrumentation and Sensors. Includes 1 pages of content.",
+        "tag": "PYQs",
+        "pages": 1,
+        "imageUrl": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem6/instrumentation-and-sensors/PYQs/instrumentation-and-sensors-2023-endsem_thumb.webp",
+        "url": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem6/instrumentation-and-sensors/PYQs/instrumentation-and-sensors-2023-endsem.pdf"
+      },
+      {
+        "fileId": "instrumentation-and-sensors-instrumentation-and-sensors-2024-endsem",
+        "title": "Instrumentation and Sensors 2024 Endsem",
+        "description": "Comprehensive Past Year Papers for Instrumentation and Sensors. Includes 2 pages of content.",
+        "tag": "PYQs",
+        "pages": 2,
+        "imageUrl": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem6/instrumentation-and-sensors/PYQs/instrumentation-and-sensors-2024-endsem_thumb.webp",
+        "url": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem6/instrumentation-and-sensors/PYQs/instrumentation-and-sensors-2024-endsem.pdf"
+      },
+      {
+        "fileId": "instrumentation-and-sensors-instrumentation-and-sensors-2025-endsem",
+        "title": "Instrumentation and Sensors 2025 Endsem",
+        "description": "Comprehensive Past Year Papers for Instrumentation and Sensors. Includes 1 pages of content.",
+        "tag": "PYQs",
+        "pages": 1,
+        "imageUrl": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem6/instrumentation-and-sensors/PYQs/instrumentation-and-sensors-2025-endsem_thumb.webp",
+        "url": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem6/instrumentation-and-sensors/PYQs/instrumentation-and-sensors-2025-endsem.pdf"
+      }
+    ]
+  },
+  {
+    "id": "earthquake-engineering",
+    "title": "Earthquake Engineering",
+    "description": "Comprehensive Past Year Papers for Earthquake Engineering. Includes 14 pages of content.",
+    "subject": "Earthquake Engineering",
+    "semester": "6",
+    "branch": "all",
+    "university": "GTU",
+    "files": [
+      {
+        "fileId": "earthquake-engineering-earthquake-engineering-2021-endsem",
+        "title": "Earthquake Engineering 2021 Endsem",
+        "description": "Comprehensive Past Year Papers for Earthquake Engineering. Includes 2 pages of content.",
+        "tag": "PYQs",
+        "pages": 2,
+        "imageUrl": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem6/earthquake-engineering/PYQs/earthquake-engineering-2021-endsem_thumb.webp",
+        "url": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem6/earthquake-engineering/PYQs/earthquake-engineering-2021-endsem.pdf"
+      },
+      {
+        "fileId": "earthquake-engineering-earthquake-engineering-2022-endsem",
+        "title": "Earthquake Engineering 2022 Endsem",
+        "description": "Comprehensive Past Year Papers for Earthquake Engineering. Includes 2 pages of content.",
+        "tag": "PYQs",
+        "pages": 2,
+        "imageUrl": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem6/earthquake-engineering/PYQs/earthquake-engineering-2022-endsem_thumb.webp",
+        "url": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem6/earthquake-engineering/PYQs/earthquake-engineering-2022-endsem.pdf"
+      },
+      {
+        "fileId": "earthquake-engineering-earthquake-engineering-2023-endsem",
+        "title": "Earthquake Engineering 2023 Endsem",
+        "description": "Comprehensive Past Year Papers for Earthquake Engineering. Includes 2 pages of content.",
+        "tag": "PYQs",
+        "pages": 2,
+        "imageUrl": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem6/earthquake-engineering/PYQs/earthquake-engineering-2023-endsem_thumb.webp",
+        "url": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem6/earthquake-engineering/PYQs/earthquake-engineering-2023-endsem.pdf"
+      },
+      {
+        "fileId": "earthquake-engineering-earthquake-engineering-2024-endsem",
+        "title": "Earthquake Engineering 2024 Endsem",
+        "description": "Comprehensive Past Year Papers for Earthquake Engineering. Includes 3 pages of content.",
+        "tag": "PYQs",
+        "pages": 3,
+        "imageUrl": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem6/earthquake-engineering/PYQs/earthquake-engineering-2024-endsem_thumb.webp",
+        "url": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem6/earthquake-engineering/PYQs/earthquake-engineering-2024-endsem.pdf"
+      },
+      {
+        "fileId": "earthquake-engineering-earthquake-engineering-2025-endsem",
+        "title": "Earthquake Engineering 2025 Endsem",
+        "description": "Comprehensive Past Year Papers for Earthquake Engineering. Includes 5 pages of content.",
+        "tag": "PYQs",
+        "pages": 5,
+        "imageUrl": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem6/earthquake-engineering/PYQs/earthquake-engineering-2025-endsem_thumb.webp",
+        "url": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem6/earthquake-engineering/PYQs/earthquake-engineering-2025-endsem.pdf"
+      }
+    ]
+  },
+  {
+    "id": "organisational-behaviour",
+    "title": "Organisational Behaviour",
+    "description": "Comprehensive Past Year Papers for Organisational Behaviour. Includes 7 pages of content.",
+    "subject": "Organisational Behaviour",
+    "semester": "4",
+    "branch": "all",
+    "university": "GTU",
+    "files": [
+      {
+        "fileId": "organisational-behaviour-organisational-behaviour-2025-endsem",
+        "title": "Organisational Behaviour 2025 Endsem",
+        "description": "Comprehensive Past Year Papers for Organisational Behaviour. Includes 2 pages of content.",
+        "tag": "PYQs",
+        "pages": 2,
+        "imageUrl": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem4/organisational-behaviour/PYQs/organisational-behaviour-2025-endsem_thumb.webp",
+        "url": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem4/organisational-behaviour/PYQs/organisational-behaviour-2025-endsem.pdf"
+      },
+      {
+        "fileId": "organisational-behaviour-organisational-behaviour-2024-endsem",
+        "title": "Organisational Behaviour 2024 Endsem",
+        "description": "Comprehensive Past Year Papers for Organisational Behaviour. Includes 1 pages of content.",
+        "tag": "PYQs",
+        "pages": 1,
+        "imageUrl": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem4/organisational-behaviour/PYQs/organisational-behaviour-2024-endsem_thumb.webp",
+        "url": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem4/organisational-behaviour/PYQs/organisational-behaviour-2024-endsem.pdf"
+      },
+      {
+        "fileId": "organisational-behaviour-organisational-behaviour-2023-endsem",
+        "title": "Organisational Behaviour 2023 Endsem",
+        "description": "Comprehensive Past Year Papers for Organisational Behaviour. Includes 1 pages of content.",
+        "tag": "PYQs",
+        "pages": 1,
+        "imageUrl": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem4/organisational-behaviour/PYQs/organisational-behaviour-2023-endsem_thumb.webp",
+        "url": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem4/organisational-behaviour/PYQs/organisational-behaviour-2023-endsem.pdf"
+      },
+      {
+        "fileId": "organisational-behaviour-organisational-behaviour-2022-endsem",
+        "title": "Organisational Behaviour 2022 Endsem",
+        "description": "Comprehensive Past Year Papers for Organisational Behaviour. Includes 1 pages of content.",
+        "tag": "PYQs",
+        "pages": 1,
+        "imageUrl": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem4/organisational-behaviour/PYQs/organisational-behaviour-2022-endsem_thumb.webp",
+        "url": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem4/organisational-behaviour/PYQs/organisational-behaviour-2022-endsem.pdf"
+      },
+      {
+        "fileId": "organisational-behaviour-organisational-behaviour-2021-endsem",
+        "title": "Organisational Behaviour 2021 Endsem",
+        "description": "Comprehensive Past Year Papers for Organisational Behaviour. Includes 1 pages of content.",
+        "tag": "PYQs",
+        "pages": 1,
+        "imageUrl": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem4/organisational-behaviour/PYQs/organisational-behaviour-2021-endsem_thumb.webp",
+        "url": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem4/organisational-behaviour/PYQs/organisational-behaviour-2021-endsem.pdf"
+      },
+      {
+        "fileId": "organisational-behaviour-organisational-behaviour-2020-endsem",
+        "title": "Organisational Behaviour 2020 Endsem",
+        "description": "Comprehensive Past Year Papers for Organisational Behaviour. Includes 1 pages of content.",
+        "tag": "PYQs",
+        "pages": 1,
+        "imageUrl": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem4/organisational-behaviour/PYQs/organisational-behaviour-2020-endsem_thumb.webp",
+        "url": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem4/organisational-behaviour/PYQs/organisational-behaviour-2020-endsem.pdf"
+      }
+    ]
+  },
+  {
+    "id": "manufacturing-processes",
+    "title": "Manufacturing Processes",
+    "description": "Comprehensive Past Year Papers for Manufacturing Processes. Includes 8 pages of content.",
+    "subject": "Manufacturing Processes",
+    "semester": "4",
+    "branch": "all",
+    "university": "GTU",
+    "files": [
+      {
+        "fileId": "manufacturing-processes-manufacturing-processes-2025-endsem",
+        "title": "Manufacturing Processes 2025 Endsem",
+        "description": "Comprehensive Past Year Papers for Manufacturing Processes. Includes 2 pages of content.",
+        "tag": "PYQs",
+        "pages": 2,
+        "imageUrl": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem4/manufacturing-processes/PYQs/manufacturing-processes-2025-endsem_thumb.webp",
+        "url": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem4/manufacturing-processes/PYQs/manufacturing-processes-2025-endsem.pdf"
+      },
+      {
+        "fileId": "manufacturing-processes-manufacturing-processes-2024-endsem",
+        "title": "Manufacturing Processes 2024 Endsem",
+        "description": "Comprehensive Past Year Papers for Manufacturing Processes. Includes 1 pages of content.",
+        "tag": "PYQs",
+        "pages": 1,
+        "imageUrl": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem4/manufacturing-processes/PYQs/manufacturing-processes-2024-endsem_thumb.webp",
+        "url": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem4/manufacturing-processes/PYQs/manufacturing-processes-2024-endsem.pdf"
+      },
+      {
+        "fileId": "manufacturing-processes-manufacturing-processes-2023-endsem",
+        "title": "Manufacturing Processes 2023 Endsem",
+        "description": "Comprehensive Past Year Papers for Manufacturing Processes. Includes 1 pages of content.",
+        "tag": "PYQs",
+        "pages": 1,
+        "imageUrl": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem4/manufacturing-processes/PYQs/manufacturing-processes-2023-endsem_thumb.webp",
+        "url": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem4/manufacturing-processes/PYQs/manufacturing-processes-2023-endsem.pdf"
+      },
+      {
+        "fileId": "manufacturing-processes-manufacturing-processes-2022-endsem",
+        "title": "Manufacturing Processes 2022 Endsem",
+        "description": "Comprehensive Past Year Papers for Manufacturing Processes. Includes 1 pages of content.",
+        "tag": "PYQs",
+        "pages": 1,
+        "imageUrl": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem4/manufacturing-processes/PYQs/manufacturing-processes-2022-endsem_thumb.webp",
+        "url": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem4/manufacturing-processes/PYQs/manufacturing-processes-2022-endsem.pdf"
+      },
+      {
+        "fileId": "manufacturing-processes-manufacturing-processes-2021-endsem",
+        "title": "Manufacturing Processes 2021 Endsem",
+        "description": "Comprehensive Past Year Papers for Manufacturing Processes. Includes 2 pages of content.",
+        "tag": "PYQs",
+        "pages": 2,
+        "imageUrl": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem4/manufacturing-processes/PYQs/manufacturing-processes-2021-endsem_thumb.webp",
+        "url": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem4/manufacturing-processes/PYQs/manufacturing-processes-2021-endsem.pdf"
+      },
+      {
+        "fileId": "manufacturing-processes-manufacturing-processes-2020-endsem",
+        "title": "Manufacturing Processes 2020 Endsem",
+        "description": "Comprehensive Past Year Papers for Manufacturing Processes. Includes 1 pages of content.",
+        "tag": "PYQs",
+        "pages": 1,
+        "imageUrl": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem4/manufacturing-processes/PYQs/manufacturing-processes-2020-endsem_thumb.webp",
+        "url": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem4/manufacturing-processes/PYQs/manufacturing-processes-2020-endsem.pdf"
+      }
+    ]
+  },
+  {
+    "id": "fundamentals-of-machine-design",
+    "title": "Fundamentals of Machine Design",
+    "description": "Comprehensive Past Year Papers for Fundamentals of Machine Design. Includes 15 pages of content.",
+    "subject": "Fundamentals of Machine Design",
+    "semester": "4",
+    "branch": "all",
+    "university": "GTU",
+    "files": [
+      {
+        "fileId": "fundamentals-of-machine-design-fundamentals-of-machine-design-2025-endsem",
+        "title": "Fundamentals of Machine Design 2025 Endsem",
+        "description": "Comprehensive Past Year Papers for Fundamentals of Machine Design. Includes 3 pages of content.",
+        "tag": "PYQs",
+        "pages": 3,
+        "imageUrl": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem4/fundamentals-of-machine-design/PYQs/fundamentals-of-machine-design-2025-endsem_thumb.webp",
+        "url": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem4/fundamentals-of-machine-design/PYQs/fundamentals-of-machine-design-2025-endsem.pdf"
+      },
+      {
+        "fileId": "fundamentals-of-machine-design-fundamentals-of-machine-design-2024-endsem",
+        "title": "Fundamentals of Machine Design 2024 Endsem",
+        "description": "Comprehensive Past Year Papers for Fundamentals of Machine Design. Includes 3 pages of content.",
+        "tag": "PYQs",
+        "pages": 3,
+        "imageUrl": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem4/fundamentals-of-machine-design/PYQs/fundamentals-of-machine-design-2024-endsem_thumb.webp",
+        "url": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem4/fundamentals-of-machine-design/PYQs/fundamentals-of-machine-design-2024-endsem.pdf"
+      },
+      {
+        "fileId": "fundamentals-of-machine-design-fundamentals-of-machine-design-2023-endsem",
+        "title": "Fundamentals of Machine Design 2023 Endsem",
+        "description": "Comprehensive Past Year Papers for Fundamentals of Machine Design. Includes 2 pages of content.",
+        "tag": "PYQs",
+        "pages": 2,
+        "imageUrl": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem4/fundamentals-of-machine-design/PYQs/fundamentals-of-machine-design-2023-endsem_thumb.webp",
+        "url": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem4/fundamentals-of-machine-design/PYQs/fundamentals-of-machine-design-2023-endsem.pdf"
+      },
+      {
+        "fileId": "fundamentals-of-machine-design-fundamentals-of-machine-design-2022-endsem",
+        "title": "Fundamentals of Machine Design 2022 Endsem",
+        "description": "Comprehensive Past Year Papers for Fundamentals of Machine Design. Includes 2 pages of content.",
+        "tag": "PYQs",
+        "pages": 2,
+        "imageUrl": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem4/fundamentals-of-machine-design/PYQs/fundamentals-of-machine-design-2022-endsem_thumb.webp",
+        "url": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem4/fundamentals-of-machine-design/PYQs/fundamentals-of-machine-design-2022-endsem.pdf"
+      },
+      {
+        "fileId": "fundamentals-of-machine-design-fundamentals-of-machine-design-2021-endsem",
+        "title": "Fundamentals of Machine Design 2021 Endsem",
+        "description": "Comprehensive Past Year Papers for Fundamentals of Machine Design. Includes 3 pages of content.",
+        "tag": "PYQs",
+        "pages": 3,
+        "imageUrl": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem4/fundamentals-of-machine-design/PYQs/fundamentals-of-machine-design-2021-endsem_thumb.webp",
+        "url": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem4/fundamentals-of-machine-design/PYQs/fundamentals-of-machine-design-2021-endsem.pdf"
+      },
+      {
+        "fileId": "fundamentals-of-machine-design-fundamentals-of-machine-design-2020-endsem",
+        "title": "Fundamentals of Machine Design 2020 Endsem",
+        "description": "Comprehensive Past Year Papers for Fundamentals of Machine Design. Includes 2 pages of content.",
+        "tag": "PYQs",
+        "pages": 2,
+        "imageUrl": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem4/fundamentals-of-machine-design/PYQs/fundamentals-of-machine-design-2020-endsem_thumb.webp",
+        "url": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem4/fundamentals-of-machine-design/PYQs/fundamentals-of-machine-design-2020-endsem.pdf"
+      }
+    ]
+  },
+  {
+    "id": "fluid-mechanics-and-fluid-machines",
+    "title": "Fluid Mechanics and Fluid Machines",
+    "description": "Comprehensive Past Year Papers for Fluid Mechanics and Fluid Machines. Includes 12 pages of content.",
+    "subject": "Fluid Mechanics and Fluid Machines",
+    "semester": "4",
+    "branch": "all",
+    "university": "GTU",
+    "files": [
+      {
+        "fileId": "fluid-mechanics-and-fluid-machines-fluid-mechanics-and-fluid-machines-2025-endsem",
+        "title": "Fluid Mechanics and Fluid Machines 2025 Endsem",
+        "description": "Comprehensive Past Year Papers for Fluid Mechanics and Fluid Machines. Includes 2 pages of content.",
+        "tag": "PYQs",
+        "pages": 2,
+        "imageUrl": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem4/fluid-mechanics-and-fluid-machines/PYQs/fluid-mechanics-and-fluid-machines-2025-endsem_thumb.webp",
+        "url": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem4/fluid-mechanics-and-fluid-machines/PYQs/fluid-mechanics-and-fluid-machines-2025-endsem.pdf"
+      },
+      {
+        "fileId": "fluid-mechanics-and-fluid-machines-fluid-mechanics-and-fluid-machines-2024-endsem",
+        "title": "Fluid Mechanics and Fluid Machines 2024 Endsem",
+        "description": "Comprehensive Past Year Papers for Fluid Mechanics and Fluid Machines. Includes 2 pages of content.",
+        "tag": "PYQs",
+        "pages": 2,
+        "imageUrl": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem4/fluid-mechanics-and-fluid-machines/PYQs/fluid-mechanics-and-fluid-machines-2024-endsem_thumb.webp",
+        "url": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem4/fluid-mechanics-and-fluid-machines/PYQs/fluid-mechanics-and-fluid-machines-2024-endsem.pdf"
+      },
+      {
+        "fileId": "fluid-mechanics-and-fluid-machines-fluid-mechanics-and-fluid-machines-2023-endsem",
+        "title": "Fluid Mechanics and Fluid Machines 2023 Endsem",
+        "description": "Comprehensive Past Year Papers for Fluid Mechanics and Fluid Machines. Includes 2 pages of content.",
+        "tag": "PYQs",
+        "pages": 2,
+        "imageUrl": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem4/fluid-mechanics-and-fluid-machines/PYQs/fluid-mechanics-and-fluid-machines-2023-endsem_thumb.webp",
+        "url": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem4/fluid-mechanics-and-fluid-machines/PYQs/fluid-mechanics-and-fluid-machines-2023-endsem.pdf"
+      },
+      {
+        "fileId": "fluid-mechanics-and-fluid-machines-fluid-mechanics-and-fluid-machines-2022-endsem",
+        "title": "Fluid Mechanics and Fluid Machines 2022 Endsem",
+        "description": "Comprehensive Past Year Papers for Fluid Mechanics and Fluid Machines. Includes 2 pages of content.",
+        "tag": "PYQs",
+        "pages": 2,
+        "imageUrl": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem4/fluid-mechanics-and-fluid-machines/PYQs/fluid-mechanics-and-fluid-machines-2022-endsem_thumb.webp",
+        "url": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem4/fluid-mechanics-and-fluid-machines/PYQs/fluid-mechanics-and-fluid-machines-2022-endsem.pdf"
+      },
+      {
+        "fileId": "fluid-mechanics-and-fluid-machines-fluid-mechanics-and-fluid-machines-2021-endsem",
+        "title": "Fluid Mechanics and Fluid Machines 2021 Endsem",
+        "description": "Comprehensive Past Year Papers for Fluid Mechanics and Fluid Machines. Includes 2 pages of content.",
+        "tag": "PYQs",
+        "pages": 2,
+        "imageUrl": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem4/fluid-mechanics-and-fluid-machines/PYQs/fluid-mechanics-and-fluid-machines-2021-endsem_thumb.webp",
+        "url": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem4/fluid-mechanics-and-fluid-machines/PYQs/fluid-mechanics-and-fluid-machines-2021-endsem.pdf"
+      },
+      {
+        "fileId": "fluid-mechanics-and-fluid-machines-fluid-mechanics-and-fluid-machines-2020-endsem",
+        "title": "Fluid Mechanics and Fluid Machines 2020 Endsem",
+        "description": "Comprehensive Past Year Papers for Fluid Mechanics and Fluid Machines. Includes 2 pages of content.",
+        "tag": "PYQs",
+        "pages": 2,
+        "imageUrl": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem4/fluid-mechanics-and-fluid-machines/PYQs/fluid-mechanics-and-fluid-machines-2020-endsem_thumb.webp",
+        "url": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem4/fluid-mechanics-and-fluid-machines/PYQs/fluid-mechanics-and-fluid-machines-2020-endsem.pdf"
+      }
+    ]
+  },
+  {
+    "id": "mechanical-measurement-and-metrology",
+    "title": "Mechanical Measurement and Metrology",
+    "description": "Comprehensive Past Year Papers for Mechanical Measurement and Metrology. Includes 9 pages of content.",
+    "subject": "Mechanical Measurement and Metrology",
+    "semester": "4",
+    "branch": "all",
+    "university": "GTU",
+    "files": [
+      {
+        "fileId": "mechanical-measurement-and-metrology-mechanical-measurement-and-metrology-2025-endsem",
+        "title": "Mechanical Measurement and Metrology 2025 Endsem",
+        "description": "Comprehensive Past Year Papers for Mechanical Measurement and Metrology. Includes 2 pages of content.",
+        "tag": "PYQs",
+        "pages": 2,
+        "imageUrl": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem4/mechanical-measurement-and-metrology/PYQs/mechanical-measurement-and-metrology-2025-endsem_thumb.webp",
+        "url": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem4/mechanical-measurement-and-metrology/PYQs/mechanical-measurement-and-metrology-2025-endsem.pdf"
+      },
+      {
+        "fileId": "mechanical-measurement-and-metrology-mechanical-measurement-and-metrology-2024-endsem",
+        "title": "Mechanical Measurement and Metrology 2024 Endsem",
+        "description": "Comprehensive Past Year Papers for Mechanical Measurement and Metrology. Includes 1 pages of content.",
+        "tag": "PYQs",
+        "pages": 1,
+        "imageUrl": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem4/mechanical-measurement-and-metrology/PYQs/mechanical-measurement-and-metrology-2024-endsem_thumb.webp",
+        "url": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem4/mechanical-measurement-and-metrology/PYQs/mechanical-measurement-and-metrology-2024-endsem.pdf"
+      },
+      {
+        "fileId": "mechanical-measurement-and-metrology-mechanical-measurement-and-metrology-2023-endsem",
+        "title": "Mechanical Measurement and Metrology 2023 Endsem",
+        "description": "Comprehensive Past Year Papers for Mechanical Measurement and Metrology. Includes 1 pages of content.",
+        "tag": "PYQs",
+        "pages": 1,
+        "imageUrl": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem4/mechanical-measurement-and-metrology/PYQs/mechanical-measurement-and-metrology-2023-endsem_thumb.webp",
+        "url": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem4/mechanical-measurement-and-metrology/PYQs/mechanical-measurement-and-metrology-2023-endsem.pdf"
+      },
+      {
+        "fileId": "mechanical-measurement-and-metrology-mechanical-measurement-and-metrology-2022-endsem",
+        "title": "Mechanical Measurement and Metrology 2022 Endsem",
+        "description": "Comprehensive Past Year Papers for Mechanical Measurement and Metrology. Includes 2 pages of content.",
+        "tag": "PYQs",
+        "pages": 2,
+        "imageUrl": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem4/mechanical-measurement-and-metrology/PYQs/mechanical-measurement-and-metrology-2022-endsem_thumb.webp",
+        "url": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem4/mechanical-measurement-and-metrology/PYQs/mechanical-measurement-and-metrology-2022-endsem.pdf"
+      },
+      {
+        "fileId": "mechanical-measurement-and-metrology-mechanical-measurement-and-metrology-2021-endsem",
+        "title": "Mechanical Measurement and Metrology 2021 Endsem",
+        "description": "Comprehensive Past Year Papers for Mechanical Measurement and Metrology. Includes 2 pages of content.",
+        "tag": "PYQs",
+        "pages": 2,
+        "imageUrl": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem4/mechanical-measurement-and-metrology/PYQs/mechanical-measurement-and-metrology-2021-endsem_thumb.webp",
+        "url": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem4/mechanical-measurement-and-metrology/PYQs/mechanical-measurement-and-metrology-2021-endsem.pdf"
+      },
+      {
+        "fileId": "mechanical-measurement-and-metrology-mechanical-measurement-and-metrology-2020-endsem",
+        "title": "Mechanical Measurement and Metrology 2020 Endsem",
+        "description": "Comprehensive Past Year Papers for Mechanical Measurement and Metrology. Includes 1 pages of content.",
+        "tag": "PYQs",
+        "pages": 1,
+        "imageUrl": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem4/mechanical-measurement-and-metrology/PYQs/mechanical-measurement-and-metrology-2020-endsem_thumb.webp",
+        "url": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem4/mechanical-measurement-and-metrology/PYQs/mechanical-measurement-and-metrology-2020-endsem.pdf"
       }
     ]
   }
