@@ -3507,7 +3507,7 @@
   {
     "id": "object-oriented-programming",
     "title": "Object Oriented Programming",
-    "description": "Comprehensive Past Year Papers for Object Oriented Programming. Includes 5 pages of content.",
+    "description": "Comprehensive Past Year Papers for Object Oriented Programming. Includes 6 pages of content.",
     "subject": "Object Oriented Programming",
     "semester": "6",
     "branch": "all",
@@ -3539,6 +3539,15 @@
         "pages": 1,
         "imageUrl": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem6/object-oriented-programming/PYQs/object-oriented-programming-2022-endsem_thumb.webp",
         "url": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem6/object-oriented-programming/PYQs/object-oriented-programming-2022-endsem.pdf"
+      },
+      {
+        "fileId": "object-oriented-programming-object-oriented-programming-2023-endsem",
+        "title": "Object Oriented Programming 2023 Endsem",
+        "description": "Comprehensive Past Year Papers for Object Oriented Programming. Includes 1 pages of content.",
+        "tag": "PYQs",
+        "pages": 1,
+        "imageUrl": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem6/object-oriented-programming/PYQs/object-oriented-programming-2023-endsem_thumb.webp",
+        "url": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem6/object-oriented-programming/PYQs/object-oriented-programming-2023-endsem.pdf"
       }
     ]
   },
@@ -3875,6 +3884,26 @@
         "pages": 2,
         "imageUrl": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem6/microprocessors-and-microcontrollers/PYQs/microprocessors-and-microcontrollers-2021-endsem_thumb.webp",
         "url": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem6/microprocessors-and-microcontrollers/PYQs/microprocessors-and-microcontrollers-2021-endsem.pdf"
+      }
+    ]
+  },
+  {
+    "id": "bee-w2025",
+    "title": "BEE W2025",
+    "description": "Comprehensive Past Year Papers for BEE W2025. Includes 2 pages of content.",
+    "subject": "BEE W2025",
+    "semester": "2",
+    "branch": "all",
+    "university": "GTU",
+    "files": [
+      {
+        "fileId": "bee-w2025-bee-w2025-2025-endsem",
+        "title": "BEE W2025 2025 Endsem",
+        "description": "Comprehensive Past Year Papers for BEE W2025. Includes 2 pages of content.",
+        "tag": "PYQs",
+        "pages": 2,
+        "imageUrl": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem2/bee-w2025/PYQs/bee-w2025-2025-endsem_thumb.webp",
+        "url": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem2/bee-w2025/PYQs/bee-w2025-2025-endsem.pdf"
       }
     ]
   }
