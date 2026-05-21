@@ -2753,5 +2753,587 @@
         "url": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem2/maths-2/Syllabus/mathematics-2-syllabus-pdf.pdf"
       }
     ]
+  },
+  {
+    "id": "operation-system",
+    "title": "Operation System",
+    "description": "Comprehensive Past Year Papers for Operation System. Includes 2 pages of content.",
+    "subject": "Operation System",
+    "semester": "4",
+    "branch": "all",
+    "university": "GTU",
+    "files": [
+      {
+        "fileId": "operation-system-operation-system-2026-endsem",
+        "title": "Operation System 2026 Endsem",
+        "description": "Comprehensive Past Year Papers for Operation System. Includes 2 pages of content.",
+        "tag": "PYQs",
+        "pages": 2,
+        "imageUrl": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem4/operation-system/PYQs/operation-system-2026-endsem_thumb.webp",
+        "url": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem4/operation-system/PYQs/operation-system-2026-endsem.pdf"
+      }
+    ]
+  },
+  {
+    "id": "environmental-science",
+    "title": "Environmental Science",
+    "description": "Comprehensive Past Year Papers for Environmental Science. Includes 13 pages of content.",
+    "subject": "Environmental Science",
+    "semester": "4",
+    "branch": "all",
+    "university": "GTU",
+    "files": [
+      {
+        "fileId": "environmental-science-environmental-science-2026-endsem",
+        "title": "Environmental Science 2026 Endsem",
+        "description": "Comprehensive Past Year Papers for Environmental Science. Includes 13 pages of content.",
+        "tag": "PYQs",
+        "pages": 13,
+        "imageUrl": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem4/environmental-science/PYQs/environmental-science-2026-endsem_thumb.webp",
+        "url": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem4/environmental-science/PYQs/environmental-science-2026-endsem.pdf"
+      }
+    ]
+  },
+  {
+    "id": "systems-engineering",
+    "title": "Systems Engineering",
+    "description": "Comprehensive Past Year Papers for Systems Engineering. Includes 7 pages of content.",
+    "subject": "Systems Engineering",
+    "semester": "6",
+    "branch": "all",
+    "university": "GTU",
+    "files": [
+      {
+        "fileId": "systems-engineering-systems-engineering-2025-endsem",
+        "title": "Systems Engineering 2025 Endsem",
+        "description": "Comprehensive Past Year Papers for Systems Engineering. Includes 2 pages of content.",
+        "tag": "PYQs",
+        "pages": 2,
+        "imageUrl": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem6/systems-engineering/PYQs/systems-engineering-2025-endsem_thumb.webp",
+        "url": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem6/systems-engineering/PYQs/systems-engineering-2025-endsem.pdf"
+      },
+      {
+        "fileId": "systems-engineering-systems-engineering-2024-endsem",
+        "title": "Systems Engineering 2024 Endsem",
+        "description": "Comprehensive Past Year Papers for Systems Engineering. Includes 2 pages of content.",
+        "tag": "PYQs",
+        "pages": 2,
+        "imageUrl": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem6/systems-engineering/PYQs/systems-engineering-2024-endsem_thumb.webp",
+        "url": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem6/systems-engineering/PYQs/systems-engineering-2024-endsem.pdf"
+      },
+      {
+        "fileId": "systems-engineering-systems-engineering-2023-endsem",
+        "title": "Systems Engineering 2023 Endsem",
+        "description": "Comprehensive Past Year Papers for Systems Engineering. Includes 1 pages of content.",
+        "tag": "PYQs",
+        "pages": 1,
+        "imageUrl": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem6/systems-engineering/PYQs/systems-engineering-2023-endsem_thumb.webp",
+        "url": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem6/systems-engineering/PYQs/systems-engineering-2023-endsem.pdf"
+      },
+      {
+        "fileId": "systems-engineering-systems-engineering-2022-endsem",
+        "title": "Systems Engineering 2022 Endsem",
+        "description": "Comprehensive Past Year Papers for Systems Engineering. Includes 1 pages of content.",
+        "tag": "PYQs",
+        "pages": 1,
+        "imageUrl": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem6/systems-engineering/PYQs/systems-engineering-2022-endsem_thumb.webp",
+        "url": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem6/systems-engineering/PYQs/systems-engineering-2022-endsem.pdf"
+      },
+      {
+        "fileId": "systems-engineering-systems-engineering-2021-endsem",
+        "title": "Systems Engineering 2021 Endsem",
+        "description": "Comprehensive Past Year Papers for Systems Engineering. Includes 1 pages of content.",
+        "tag": "PYQs",
+        "pages": 1,
+        "imageUrl": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem6/systems-engineering/PYQs/systems-engineering-2021-endsem_thumb.webp",
+        "url": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem6/systems-engineering/PYQs/systems-engineering-2021-endsem.pdf"
+      }
+    ]
+  },
+  {
+    "id": "web-technology",
+    "title": "Web Technology",
+    "description": "Comprehensive Past Year Papers for Web Technology. Includes 9 pages of content.",
+    "subject": "Web Technology",
+    "semester": "6",
+    "branch": "all",
+    "university": "GTU",
+    "files": [
+      {
+        "fileId": "web-technology-web-technology-2025-endsem",
+        "title": "Web Technology 2025 Endsem",
+        "description": "Comprehensive Past Year Papers for Web Technology. Includes 2 pages of content.",
+        "tag": "PYQs",
+        "pages": 2,
+        "imageUrl": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem6/web-technology/PYQs/web-technology-2025-endsem_thumb.webp",
+        "url": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem6/web-technology/PYQs/web-technology-2025-endsem.pdf"
+      },
+      {
+        "fileId": "web-technology-web-technology-2024-endsem",
+        "title": "Web Technology 2024 Endsem",
+        "description": "Comprehensive Past Year Papers for Web Technology. Includes 2 pages of content.",
+        "tag": "PYQs",
+        "pages": 2,
+        "imageUrl": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem6/web-technology/PYQs/web-technology-2024-endsem_thumb.webp",
+        "url": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem6/web-technology/PYQs/web-technology-2024-endsem.pdf"
+      },
+      {
+        "fileId": "web-technology-web-technology-2023-endsem",
+        "title": "Web Technology 2023 Endsem",
+        "description": "Comprehensive Past Year Papers for Web Technology. Includes 2 pages of content.",
+        "tag": "PYQs",
+        "pages": 2,
+        "imageUrl": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem6/web-technology/PYQs/web-technology-2023-endsem_thumb.webp",
+        "url": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem6/web-technology/PYQs/web-technology-2023-endsem.pdf"
+      },
+      {
+        "fileId": "web-technology-web-technology-2022-endsem",
+        "title": "Web Technology 2022 Endsem",
+        "description": "Comprehensive Past Year Papers for Web Technology. Includes 1 pages of content.",
+        "tag": "PYQs",
+        "pages": 1,
+        "imageUrl": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem6/web-technology/PYQs/web-technology-2022-endsem_thumb.webp",
+        "url": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem6/web-technology/PYQs/web-technology-2022-endsem.pdf"
+      },
+      {
+        "fileId": "web-technology-web-technology-2021-endsem",
+        "title": "Web Technology 2021 Endsem",
+        "description": "Comprehensive Past Year Papers for Web Technology. Includes 2 pages of content.",
+        "tag": "PYQs",
+        "pages": 2,
+        "imageUrl": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem6/web-technology/PYQs/web-technology-2021-endsem_thumb.webp",
+        "url": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem6/web-technology/PYQs/web-technology-2021-endsem.pdf"
+      }
+    ]
+  },
+  {
+    "id": "satellite-communication",
+    "title": "Satellite Communication",
+    "description": "Comprehensive Past Year Papers for Satellite Communication. Includes 9 pages of content.",
+    "subject": "Satellite Communication",
+    "semester": "6",
+    "branch": "all",
+    "university": "GTU",
+    "files": [
+      {
+        "fileId": "satellite-communication-satellite-communication-2025-endsem",
+        "title": "Satellite Communication 2025 Endsem",
+        "description": "Comprehensive Past Year Papers for Satellite Communication. Includes 2 pages of content.",
+        "tag": "PYQs",
+        "pages": 2,
+        "imageUrl": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem6/satellite-communication/PYQs/satellite-communication-2025-endsem_thumb.webp",
+        "url": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem6/satellite-communication/PYQs/satellite-communication-2025-endsem.pdf"
+      },
+      {
+        "fileId": "satellite-communication-satellite-communication-2024-endsem",
+        "title": "Satellite Communication 2024 Endsem",
+        "description": "Comprehensive Past Year Papers for Satellite Communication. Includes 2 pages of content.",
+        "tag": "PYQs",
+        "pages": 2,
+        "imageUrl": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem6/satellite-communication/PYQs/satellite-communication-2024-endsem_thumb.webp",
+        "url": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem6/satellite-communication/PYQs/satellite-communication-2024-endsem.pdf"
+      },
+      {
+        "fileId": "satellite-communication-satellite-communication-2023-endsem",
+        "title": "Satellite Communication 2023 Endsem",
+        "description": "Comprehensive Past Year Papers for Satellite Communication. Includes 1 pages of content.",
+        "tag": "PYQs",
+        "pages": 1,
+        "imageUrl": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem6/satellite-communication/PYQs/satellite-communication-2023-endsem_thumb.webp",
+        "url": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem6/satellite-communication/PYQs/satellite-communication-2023-endsem.pdf"
+      },
+      {
+        "fileId": "satellite-communication-satellite-communication-2022-endsem",
+        "title": "Satellite Communication 2022 Endsem",
+        "description": "Comprehensive Past Year Papers for Satellite Communication. Includes 2 pages of content.",
+        "tag": "PYQs",
+        "pages": 2,
+        "imageUrl": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem6/satellite-communication/PYQs/satellite-communication-2022-endsem_thumb.webp",
+        "url": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem6/satellite-communication/PYQs/satellite-communication-2022-endsem.pdf"
+      },
+      {
+        "fileId": "satellite-communication-satellite-communication-2021-endsem",
+        "title": "Satellite Communication 2021 Endsem",
+        "description": "Comprehensive Past Year Papers for Satellite Communication. Includes 2 pages of content.",
+        "tag": "PYQs",
+        "pages": 2,
+        "imageUrl": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem6/satellite-communication/PYQs/satellite-communication-2021-endsem_thumb.webp",
+        "url": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem6/satellite-communication/PYQs/satellite-communication-2021-endsem.pdf"
+      }
+    ]
+  },
+  {
+    "id": "embedded-systems",
+    "title": "Embedded Systems",
+    "description": "Comprehensive Past Year Papers for Embedded Systems. Includes 9 pages of content.",
+    "subject": "Embedded Systems",
+    "semester": "6",
+    "branch": "all",
+    "university": "GTU",
+    "files": [
+      {
+        "fileId": "embedded-systems-embedded-systems-2025-endsem",
+        "title": "Embedded Systems 2025 Endsem",
+        "description": "Comprehensive Past Year Papers for Embedded Systems. Includes 2 pages of content.",
+        "tag": "PYQs",
+        "pages": 2,
+        "imageUrl": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem6/embedded-systems/PYQs/embedded-systems-2025-endsem_thumb.webp",
+        "url": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem6/embedded-systems/PYQs/embedded-systems-2025-endsem.pdf"
+      },
+      {
+        "fileId": "embedded-systems-embedded-systems-2024-endsem",
+        "title": "Embedded Systems 2024 Endsem",
+        "description": "Comprehensive Past Year Papers for Embedded Systems. Includes 2 pages of content.",
+        "tag": "PYQs",
+        "pages": 2,
+        "imageUrl": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem6/embedded-systems/PYQs/embedded-systems-2024-endsem_thumb.webp",
+        "url": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem6/embedded-systems/PYQs/embedded-systems-2024-endsem.pdf"
+      },
+      {
+        "fileId": "embedded-systems-embedded-systems-2023-endsem",
+        "title": "Embedded Systems 2023 Endsem",
+        "description": "Comprehensive Past Year Papers for Embedded Systems. Includes 1 pages of content.",
+        "tag": "PYQs",
+        "pages": 1,
+        "imageUrl": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem6/embedded-systems/PYQs/embedded-systems-2023-endsem_thumb.webp",
+        "url": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem6/embedded-systems/PYQs/embedded-systems-2023-endsem.pdf"
+      },
+      {
+        "fileId": "embedded-systems-embedded-systems-2022-endsem",
+        "title": "Embedded Systems 2022 Endsem",
+        "description": "Comprehensive Past Year Papers for Embedded Systems. Includes 2 pages of content.",
+        "tag": "PYQs",
+        "pages": 2,
+        "imageUrl": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem6/embedded-systems/PYQs/embedded-systems-2022-endsem_thumb.webp",
+        "url": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem6/embedded-systems/PYQs/embedded-systems-2022-endsem.pdf"
+      },
+      {
+        "fileId": "embedded-systems-embedded-systems-2021-endsem",
+        "title": "Embedded Systems 2021 Endsem",
+        "description": "Comprehensive Past Year Papers for Embedded Systems. Includes 2 pages of content.",
+        "tag": "PYQs",
+        "pages": 2,
+        "imageUrl": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem6/embedded-systems/PYQs/embedded-systems-2021-endsem_thumb.webp",
+        "url": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem6/embedded-systems/PYQs/embedded-systems-2021-endsem.pdf"
+      }
+    ]
+  },
+  {
+    "id": "sensors-and-transducers",
+    "title": "Sensors and Transducers",
+    "description": "Comprehensive Past Year Papers for Sensors and Transducers. Includes 4 pages of content.",
+    "subject": "Sensors and Transducers",
+    "semester": "6",
+    "branch": "all",
+    "university": "GTU",
+    "files": [
+      {
+        "fileId": "sensors-and-transducers-sensors-and-transducers-2025-endsem",
+        "title": "Sensors and Transducers 2025 Endsem",
+        "description": "Comprehensive Past Year Papers for Sensors and Transducers. Includes 1 pages of content.",
+        "tag": "PYQs",
+        "pages": 1,
+        "imageUrl": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem6/sensors-and-transducers/PYQs/sensors-and-transducers-2025-endsem_thumb.webp",
+        "url": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem6/sensors-and-transducers/PYQs/sensors-and-transducers-2025-endsem.pdf"
+      },
+      {
+        "fileId": "sensors-and-transducers-sensors-and-transducers-2024-endsem",
+        "title": "Sensors and Transducers 2024 Endsem",
+        "description": "Comprehensive Past Year Papers for Sensors and Transducers. Includes 1 pages of content.",
+        "tag": "PYQs",
+        "pages": 1,
+        "imageUrl": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem6/sensors-and-transducers/PYQs/sensors-and-transducers-2024-endsem_thumb.webp",
+        "url": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem6/sensors-and-transducers/PYQs/sensors-and-transducers-2024-endsem.pdf"
+      },
+      {
+        "fileId": "sensors-and-transducers-sensors-and-transducers-2023-endsem",
+        "title": "Sensors and Transducers 2023 Endsem",
+        "description": "Comprehensive Past Year Papers for Sensors and Transducers. Includes 1 pages of content.",
+        "tag": "PYQs",
+        "pages": 1,
+        "imageUrl": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem6/sensors-and-transducers/PYQs/sensors-and-transducers-2023-endsem_thumb.webp",
+        "url": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem6/sensors-and-transducers/PYQs/sensors-and-transducers-2023-endsem.pdf"
+      },
+      {
+        "fileId": "sensors-and-transducers-sensors-and-transducers-2022-endsem",
+        "title": "Sensors and Transducers 2022 Endsem",
+        "description": "Comprehensive Past Year Papers for Sensors and Transducers. Includes 1 pages of content.",
+        "tag": "PYQs",
+        "pages": 1,
+        "imageUrl": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem6/sensors-and-transducers/PYQs/sensors-and-transducers-2022-endsem_thumb.webp",
+        "url": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem6/sensors-and-transducers/PYQs/sensors-and-transducers-2022-endsem.pdf"
+      }
+    ]
+  },
+  {
+    "id": "computer-networks",
+    "title": "Computer Networks",
+    "description": "Comprehensive Past Year Papers for Computer Networks. Includes 8 pages of content.",
+    "subject": "Computer Networks",
+    "semester": "6",
+    "branch": "all",
+    "university": "GTU",
+    "files": [
+      {
+        "fileId": "computer-networks-computer-networks-2025-endsem",
+        "title": "Computer Networks 2025 Endsem",
+        "description": "Comprehensive Past Year Papers for Computer Networks. Includes 2 pages of content.",
+        "tag": "PYQs",
+        "pages": 2,
+        "imageUrl": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem6/computer-networks/PYQs/computer-networks-2025-endsem_thumb.webp",
+        "url": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem6/computer-networks/PYQs/computer-networks-2025-endsem.pdf"
+      },
+      {
+        "fileId": "computer-networks-computer-networks-2024-endsem",
+        "title": "Computer Networks 2024 Endsem",
+        "description": "Comprehensive Past Year Papers for Computer Networks. Includes 1 pages of content.",
+        "tag": "PYQs",
+        "pages": 1,
+        "imageUrl": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem6/computer-networks/PYQs/computer-networks-2024-endsem_thumb.webp",
+        "url": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem6/computer-networks/PYQs/computer-networks-2024-endsem.pdf"
+      },
+      {
+        "fileId": "computer-networks-computer-networks-2023-endsem",
+        "title": "Computer Networks 2023 Endsem",
+        "description": "Comprehensive Past Year Papers for Computer Networks. Includes 1 pages of content.",
+        "tag": "PYQs",
+        "pages": 1,
+        "imageUrl": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem6/computer-networks/PYQs/computer-networks-2023-endsem_thumb.webp",
+        "url": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem6/computer-networks/PYQs/computer-networks-2023-endsem.pdf"
+      },
+      {
+        "fileId": "computer-networks-computer-networks-2022-endsem",
+        "title": "Computer Networks 2022 Endsem",
+        "description": "Comprehensive Past Year Papers for Computer Networks. Includes 2 pages of content.",
+        "tag": "PYQs",
+        "pages": 2,
+        "imageUrl": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem6/computer-networks/PYQs/computer-networks-2022-endsem_thumb.webp",
+        "url": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem6/computer-networks/PYQs/computer-networks-2022-endsem.pdf"
+      },
+      {
+        "fileId": "computer-networks-computer-networks-2021-endsem",
+        "title": "Computer Networks 2021 Endsem",
+        "description": "Comprehensive Past Year Papers for Computer Networks. Includes 2 pages of content.",
+        "tag": "PYQs",
+        "pages": 2,
+        "imageUrl": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem6/computer-networks/PYQs/computer-networks-2021-endsem_thumb.webp",
+        "url": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem6/computer-networks/PYQs/computer-networks-2021-endsem.pdf"
+      }
+    ]
+  },
+  {
+    "id": "fiber-optic-communication",
+    "title": "Fiber Optic Communication",
+    "description": "Comprehensive Past Year Papers for Fiber Optic Communication. Includes 10 pages of content.",
+    "subject": "Fiber Optic Communication",
+    "semester": "6",
+    "branch": "all",
+    "university": "GTU",
+    "files": [
+      {
+        "fileId": "fiber-optic-communication-fiber-optic-communication-2025-endsem",
+        "title": "Fiber Optic Communication 2025 Endsem",
+        "description": "Comprehensive Past Year Papers for Fiber Optic Communication. Includes 2 pages of content.",
+        "tag": "PYQs",
+        "pages": 2,
+        "imageUrl": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem6/fiber-optic-communication/PYQs/fiber-optic-communication-2025-endsem_thumb.webp",
+        "url": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem6/fiber-optic-communication/PYQs/fiber-optic-communication-2025-endsem.pdf"
+      },
+      {
+        "fileId": "fiber-optic-communication-fiber-optic-communication-2024-endsem",
+        "title": "Fiber Optic Communication 2024 Endsem",
+        "description": "Comprehensive Past Year Papers for Fiber Optic Communication. Includes 2 pages of content.",
+        "tag": "PYQs",
+        "pages": 2,
+        "imageUrl": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem6/fiber-optic-communication/PYQs/fiber-optic-communication-2024-endsem_thumb.webp",
+        "url": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem6/fiber-optic-communication/PYQs/fiber-optic-communication-2024-endsem.pdf"
+      },
+      {
+        "fileId": "fiber-optic-communication-fiber-optic-communication-2023-endsem",
+        "title": "Fiber Optic Communication 2023 Endsem",
+        "description": "Comprehensive Past Year Papers for Fiber Optic Communication. Includes 2 pages of content.",
+        "tag": "PYQs",
+        "pages": 2,
+        "imageUrl": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem6/fiber-optic-communication/PYQs/fiber-optic-communication-2023-endsem_thumb.webp",
+        "url": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem6/fiber-optic-communication/PYQs/fiber-optic-communication-2023-endsem.pdf"
+      },
+      {
+        "fileId": "fiber-optic-communication-fiber-optic-communication-2022-endsem",
+        "title": "Fiber Optic Communication 2022 Endsem",
+        "description": "Comprehensive Past Year Papers for Fiber Optic Communication. Includes 2 pages of content.",
+        "tag": "PYQs",
+        "pages": 2,
+        "imageUrl": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem6/fiber-optic-communication/PYQs/fiber-optic-communication-2022-endsem_thumb.webp",
+        "url": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem6/fiber-optic-communication/PYQs/fiber-optic-communication-2022-endsem.pdf"
+      },
+      {
+        "fileId": "fiber-optic-communication-fiber-optic-communication-2021-endsem",
+        "title": "Fiber Optic Communication 2021 Endsem",
+        "description": "Comprehensive Past Year Papers for Fiber Optic Communication. Includes 2 pages of content.",
+        "tag": "PYQs",
+        "pages": 2,
+        "imageUrl": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem6/fiber-optic-communication/PYQs/fiber-optic-communication-2021-endsem_thumb.webp",
+        "url": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem6/fiber-optic-communication/PYQs/fiber-optic-communication-2021-endsem.pdf"
+      }
+    ]
+  },
+  {
+    "id": "antennas-and-propagation",
+    "title": "Antennas and Propagation",
+    "description": "Comprehensive Past Year Papers for Antennas and Propagation. Includes 10 pages of content.",
+    "subject": "Antennas and Propagation",
+    "semester": "6",
+    "branch": "all",
+    "university": "GTU",
+    "files": [
+      {
+        "fileId": "antennas-and-propagation-antennas-and-propagation-2025-endsem",
+        "title": "Antennas and Propagation 2025 Endsem",
+        "description": "Comprehensive Past Year Papers for Antennas and Propagation. Includes 2 pages of content.",
+        "tag": "PYQs",
+        "pages": 2,
+        "imageUrl": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem6/antennas-and-propagation/PYQs/antennas-and-propagation-2025-endsem_thumb.webp",
+        "url": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem6/antennas-and-propagation/PYQs/antennas-and-propagation-2025-endsem.pdf"
+      },
+      {
+        "fileId": "antennas-and-propagation-antennas-and-propagation-2024-endsem",
+        "title": "Antennas and Propagation 2024 Endsem",
+        "description": "Comprehensive Past Year Papers for Antennas and Propagation. Includes 2 pages of content.",
+        "tag": "PYQs",
+        "pages": 2,
+        "imageUrl": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem6/antennas-and-propagation/PYQs/antennas-and-propagation-2024-endsem_thumb.webp",
+        "url": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem6/antennas-and-propagation/PYQs/antennas-and-propagation-2024-endsem.pdf"
+      },
+      {
+        "fileId": "antennas-and-propagation-antennas-and-propagation-2023-endsem",
+        "title": "Antennas and Propagation 2023 Endsem",
+        "description": "Comprehensive Past Year Papers for Antennas and Propagation. Includes 2 pages of content.",
+        "tag": "PYQs",
+        "pages": 2,
+        "imageUrl": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem6/antennas-and-propagation/PYQs/antennas-and-propagation-2023-endsem_thumb.webp",
+        "url": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem6/antennas-and-propagation/PYQs/antennas-and-propagation-2023-endsem.pdf"
+      },
+      {
+        "fileId": "antennas-and-propagation-antennas-and-propagation-2022-endsem",
+        "title": "Antennas and Propagation 2022 Endsem",
+        "description": "Comprehensive Past Year Papers for Antennas and Propagation. Includes 2 pages of content.",
+        "tag": "PYQs",
+        "pages": 2,
+        "imageUrl": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem6/antennas-and-propagation/PYQs/antennas-and-propagation-2022-endsem_thumb.webp",
+        "url": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem6/antennas-and-propagation/PYQs/antennas-and-propagation-2022-endsem.pdf"
+      },
+      {
+        "fileId": "antennas-and-propagation-antennas-and-propagation-2021-endsem",
+        "title": "Antennas and Propagation 2021 Endsem",
+        "description": "Comprehensive Past Year Papers for Antennas and Propagation. Includes 2 pages of content.",
+        "tag": "PYQs",
+        "pages": 2,
+        "imageUrl": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem6/antennas-and-propagation/PYQs/antennas-and-propagation-2021-endsem_thumb.webp",
+        "url": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem6/antennas-and-propagation/PYQs/antennas-and-propagation-2021-endsem.pdf"
+      }
+    ]
+  },
+  {
+    "id": "integrated-personality-development-course",
+    "title": "Integrated Personality Development Course",
+    "description": "Comprehensive Past Year Papers for Integrated Personality Development Course. Includes 37 pages of content.",
+    "subject": "Integrated Personality Development Course",
+    "semester": "6",
+    "branch": "all",
+    "university": "GTU",
+    "files": [
+      {
+        "fileId": "integrated-personality-development-course-integrated-personality-development-course-2025-endsem",
+        "title": "Integrated Personality Development Course 2025 Endsem",
+        "description": "Comprehensive Past Year Papers for Integrated Personality Development Course. Includes 6 pages of content.",
+        "tag": "PYQs",
+        "pages": 6,
+        "imageUrl": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem6/integrated-personality-development-course/PYQs/integrated-personality-development-course-2025-endsem_thumb.webp",
+        "url": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem6/integrated-personality-development-course/PYQs/integrated-personality-development-course-2025-endsem.pdf"
+      },
+      {
+        "fileId": "integrated-personality-development-course-integrated-personality-development-course-2024-endsem",
+        "title": "Integrated Personality Development Course 2024 Endsem",
+        "description": "Comprehensive Past Year Papers for Integrated Personality Development Course. Includes 8 pages of content.",
+        "tag": "PYQs",
+        "pages": 8,
+        "imageUrl": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem6/integrated-personality-development-course/PYQs/integrated-personality-development-course-2024-endsem_thumb.webp",
+        "url": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem6/integrated-personality-development-course/PYQs/integrated-personality-development-course-2024-endsem.pdf"
+      },
+      {
+        "fileId": "integrated-personality-development-course-integrated-personality-development-course-2023-endsem",
+        "title": "Integrated Personality Development Course 2023 Endsem",
+        "description": "Comprehensive Past Year Papers for Integrated Personality Development Course. Includes 8 pages of content.",
+        "tag": "PYQs",
+        "pages": 8,
+        "imageUrl": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem6/integrated-personality-development-course/PYQs/integrated-personality-development-course-2023-endsem_thumb.webp",
+        "url": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem6/integrated-personality-development-course/PYQs/integrated-personality-development-course-2023-endsem.pdf"
+      },
+      {
+        "fileId": "integrated-personality-development-course-integrated-personality-development-course-2022-endsem",
+        "title": "Integrated Personality Development Course 2022 Endsem",
+        "description": "Comprehensive Past Year Papers for Integrated Personality Development Course. Includes 8 pages of content.",
+        "tag": "PYQs",
+        "pages": 8,
+        "imageUrl": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem6/integrated-personality-development-course/PYQs/integrated-personality-development-course-2022-endsem_thumb.webp",
+        "url": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem6/integrated-personality-development-course/PYQs/integrated-personality-development-course-2022-endsem.pdf"
+      },
+      {
+        "fileId": "integrated-personality-development-course-integrated-personality-development-course-2021-endsem",
+        "title": "Integrated Personality Development Course 2021 Endsem",
+        "description": "Comprehensive Past Year Papers for Integrated Personality Development Course. Includes 7 pages of content.",
+        "tag": "PYQs",
+        "pages": 7,
+        "imageUrl": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem6/integrated-personality-development-course/PYQs/integrated-personality-development-course-2021-endsem_thumb.webp",
+        "url": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem6/integrated-personality-development-course/PYQs/integrated-personality-development-course-2021-endsem.pdf"
+      }
+    ]
+  },
+  {
+    "id": "contributor-personality-development-program",
+    "title": "Contributor Personality Development Program",
+    "description": "Comprehensive Past Year Papers for Contributor Personality Development Program. Includes 24 pages of content.",
+    "subject": "Contributor Personality Development Program",
+    "semester": "6",
+    "branch": "all",
+    "university": "GTU",
+    "files": [
+      {
+        "fileId": "contributor-personality-development-program-contributor-personality-development-program-2025-endsem",
+        "title": "Contributor Personality Development Program 2025 Endsem",
+        "description": "Comprehensive Past Year Papers for Contributor Personality Development Program. Includes 6 pages of content.",
+        "tag": "PYQs",
+        "pages": 6,
+        "imageUrl": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem6/contributor-personality-development-program/PYQs/contributor-personality-development-program-2025-endsem_thumb.webp",
+        "url": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem6/contributor-personality-development-program/PYQs/contributor-personality-development-program-2025-endsem.pdf"
+      },
+      {
+        "fileId": "contributor-personality-development-program-contributor-personality-development-program-2024-endsem",
+        "title": "Contributor Personality Development Program 2024 Endsem",
+        "description": "Comprehensive Past Year Papers for Contributor Personality Development Program. Includes 6 pages of content.",
+        "tag": "PYQs",
+        "pages": 6,
+        "imageUrl": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem6/contributor-personality-development-program/PYQs/contributor-personality-development-program-2024-endsem_thumb.webp",
+        "url": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem6/contributor-personality-development-program/PYQs/contributor-personality-development-program-2024-endsem.pdf"
+      },
+      {
+        "fileId": "contributor-personality-development-program-contributor-personality-development-program-2023-endsem",
+        "title": "Contributor Personality Development Program 2023 Endsem",
+        "description": "Comprehensive Past Year Papers for Contributor Personality Development Program. Includes 6 pages of content.",
+        "tag": "PYQs",
+        "pages": 6,
+        "imageUrl": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem6/contributor-personality-development-program/PYQs/contributor-personality-development-program-2023-endsem_thumb.webp",
+        "url": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem6/contributor-personality-development-program/PYQs/contributor-personality-development-program-2023-endsem.pdf"
+      },
+      {
+        "fileId": "contributor-personality-development-program-contributor-personality-development-program-2022-endsem",
+        "title": "Contributor Personality Development Program 2022 Endsem",
+        "description": "Comprehensive Past Year Papers for Contributor Personality Development Program. Includes 6 pages of content.",
+        "tag": "PYQs",
+        "pages": 6,
+        "imageUrl": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem6/contributor-personality-development-program/PYQs/contributor-personality-development-program-2022-endsem_thumb.webp",
+        "url": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem6/contributor-personality-development-program/PYQs/contributor-personality-development-program-2022-endsem.pdf"
+      }
+    ]
   }
 ]
