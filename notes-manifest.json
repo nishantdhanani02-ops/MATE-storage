@@ -3292,7 +3292,7 @@
   {
     "id": "contributor-personality-development-program",
     "title": "Contributor Personality Development Program",
-    "description": "Comprehensive Past Year Papers for Contributor Personality Development Program. Includes 24 pages of content.",
+    "description": "Comprehensive Past Year Papers for Contributor Personality Development Program. Includes 31 pages of content.",
     "subject": "Contributor Personality Development Program",
     "semester": "6",
     "branch": "all",
@@ -3333,6 +3333,162 @@
         "pages": 6,
         "imageUrl": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem6/contributor-personality-development-program/PYQs/contributor-personality-development-program-2022-endsem_thumb.webp",
         "url": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem6/contributor-personality-development-program/PYQs/contributor-personality-development-program-2022-endsem.pdf"
+      },
+      {
+        "fileId": "contributor-personality-development-program-contributor-personality-development-program-2021-endsem",
+        "title": "Contributor Personality Development Program 2021 Endsem",
+        "description": "Comprehensive Past Year Papers for Contributor Personality Development Program. Includes 7 pages of content.",
+        "tag": "PYQs",
+        "pages": 7,
+        "imageUrl": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem6/contributor-personality-development-program/PYQs/contributor-personality-development-program-2021-endsem_thumb.webp",
+        "url": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem6/contributor-personality-development-program/PYQs/contributor-personality-development-program-2021-endsem.pdf"
+      }
+    ]
+  },
+  {
+    "id": "cyber-physical-systems",
+    "title": "Cyber Physical systems",
+    "description": "Comprehensive Past Year Papers for Cyber Physical systems. Includes 5 pages of content.",
+    "subject": "Cyber Physical systems",
+    "semester": "6",
+    "branch": "all",
+    "university": "GTU",
+    "files": [
+      {
+        "fileId": "cyber-physical-systems-cyber-physical-systems-2025-endsem",
+        "title": "Cyber Physical systems 2025 Endsem",
+        "description": "Comprehensive Past Year Papers for Cyber Physical systems. Includes 1 pages of content.",
+        "tag": "PYQs",
+        "pages": 1,
+        "imageUrl": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem6/cyber-physical-systems/PYQs/cyber-physical-systems-2025-endsem_thumb.webp",
+        "url": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem6/cyber-physical-systems/PYQs/cyber-physical-systems-2025-endsem.pdf"
+      },
+      {
+        "fileId": "cyber-physical-systems-cyber-physical-systems-2024-endsem",
+        "title": "Cyber Physical systems 2024 Endsem",
+        "description": "Comprehensive Past Year Papers for Cyber Physical systems. Includes 1 pages of content.",
+        "tag": "PYQs",
+        "pages": 1,
+        "imageUrl": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem6/cyber-physical-systems/PYQs/cyber-physical-systems-2024-endsem_thumb.webp",
+        "url": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem6/cyber-physical-systems/PYQs/cyber-physical-systems-2024-endsem.pdf"
+      },
+      {
+        "fileId": "cyber-physical-systems-cyber-physical-systems-2023-endsem",
+        "title": "Cyber Physical systems 2023 Endsem",
+        "description": "Comprehensive Past Year Papers for Cyber Physical systems. Includes 2 pages of content.",
+        "tag": "PYQs",
+        "pages": 2,
+        "imageUrl": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem6/cyber-physical-systems/PYQs/cyber-physical-systems-2023-endsem_thumb.webp",
+        "url": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem6/cyber-physical-systems/PYQs/cyber-physical-systems-2023-endsem.pdf"
+      },
+      {
+        "fileId": "cyber-physical-systems-cyber-physical-systems-2022-endsem",
+        "title": "Cyber Physical systems 2022 Endsem",
+        "description": "Comprehensive Past Year Papers for Cyber Physical systems. Includes 1 pages of content.",
+        "tag": "PYQs",
+        "pages": 1,
+        "imageUrl": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem6/cyber-physical-systems/PYQs/cyber-physical-systems-2022-endsem_thumb.webp",
+        "url": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem6/cyber-physical-systems/PYQs/cyber-physical-systems-2022-endsem.pdf"
+      }
+    ]
+  },
+  {
+    "id": "cyber-laws-and-ethics",
+    "title": "Cyber Laws and Ethics",
+    "description": "Comprehensive Past Year Papers for Cyber Laws and Ethics. Includes 2 pages of content.",
+    "subject": "Cyber Laws and Ethics",
+    "semester": "6",
+    "branch": "all",
+    "university": "GTU",
+    "files": [
+      {
+        "fileId": "cyber-laws-and-ethics-cyber-laws-and-ethics-2025-endsem",
+        "title": "Cyber Laws and Ethics 2025 Endsem",
+        "description": "Comprehensive Past Year Papers for Cyber Laws and Ethics. Includes 2 pages of content.",
+        "tag": "PYQs",
+        "pages": 2,
+        "imageUrl": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem6/cyber-laws-and-ethics/PYQs/cyber-laws-and-ethics-2025-endsem_thumb.webp",
+        "url": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem6/cyber-laws-and-ethics/PYQs/cyber-laws-and-ethics-2025-endsem.pdf"
+      }
+    ]
+  },
+  {
+    "id": "electrical-materials",
+    "title": "Electrical Materials",
+    "description": "Comprehensive Past Year Papers for Electrical Materials. Includes 2 pages of content.",
+    "subject": "Electrical Materials",
+    "semester": "6",
+    "branch": "all",
+    "university": "GTU",
+    "files": [
+      {
+        "fileId": "electrical-materials-electrical-materials-2025-endsem",
+        "title": "Electrical Materials 2025 Endsem",
+        "description": "Comprehensive Past Year Papers for Electrical Materials. Includes 2 pages of content.",
+        "tag": "PYQs",
+        "pages": 2,
+        "imageUrl": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem6/electrical-materials/PYQs/electrical-materials-2025-endsem_thumb.webp",
+        "url": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem6/electrical-materials/PYQs/electrical-materials-2025-endsem.pdf"
+      }
+    ]
+  },
+  {
+    "id": "object-oriented-programming",
+    "title": "Object Oriented Programming",
+    "description": "Comprehensive Past Year Papers for Object Oriented Programming. Includes 2 pages of content.",
+    "subject": "Object Oriented Programming",
+    "semester": "6",
+    "branch": "all",
+    "university": "GTU",
+    "files": [
+      {
+        "fileId": "object-oriented-programming-object-oriented-programming-2025-endsem",
+        "title": "Object Oriented Programming 2025 Endsem",
+        "description": "Comprehensive Past Year Papers for Object Oriented Programming. Includes 2 pages of content.",
+        "tag": "PYQs",
+        "pages": 2,
+        "imageUrl": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem6/object-oriented-programming/PYQs/object-oriented-programming-2025-endsem_thumb.webp",
+        "url": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem6/object-oriented-programming/PYQs/object-oriented-programming-2025-endsem.pdf"
+      }
+    ]
+  },
+  {
+    "id": "hvdc-transmission-systems",
+    "title": "HVDC Transmission Systems",
+    "description": "Comprehensive Past Year Papers for HVDC Transmission Systems. Includes 1 pages of content.",
+    "subject": "HVDC Transmission Systems",
+    "semester": "6",
+    "branch": "all",
+    "university": "GTU",
+    "files": [
+      {
+        "fileId": "hvdc-transmission-systems-hvdc-transmission-systems-2025-endsem",
+        "title": "HVDC Transmission Systems 2025 Endsem",
+        "description": "Comprehensive Past Year Papers for HVDC Transmission Systems. Includes 1 pages of content.",
+        "tag": "PYQs",
+        "pages": 1,
+        "imageUrl": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem6/hvdc-transmission-systems/PYQs/hvdc-transmission-systems-2025-endsem_thumb.webp",
+        "url": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem6/hvdc-transmission-systems/PYQs/hvdc-transmission-systems-2025-endsem.pdf"
+      }
+    ]
+  },
+  {
+    "id": "inter-connected-power-system",
+    "title": "Inter Connected Power System",
+    "description": "Comprehensive Past Year Papers for Inter Connected Power System. Includes 2 pages of content.",
+    "subject": "Inter Connected Power System",
+    "semester": "6",
+    "branch": "all",
+    "university": "GTU",
+    "files": [
+      {
+        "fileId": "inter-connected-power-system-inter-connected-power-system-2025-endsem",
+        "title": "Inter Connected Power System 2025 Endsem",
+        "description": "Comprehensive Past Year Papers for Inter Connected Power System. Includes 2 pages of content.",
+        "tag": "PYQs",
+        "pages": 2,
+        "imageUrl": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem6/inter-connected-power-system/PYQs/inter-connected-power-system-2025-endsem_thumb.webp",
+        "url": "https://cdn.jsdelivr.net/gh/nishantdhanani02-ops/MATE-storage@main/sem6/inter-connected-power-system/PYQs/inter-connected-power-system-2025-endsem.pdf"
       }
     ]
   }
